@@ -1,6 +1,6 @@
 import os
 
-path_to_folder = r'C:\Users\nharw\Desktop\PDF2Anki Project\Image of each page'
+path_to_folder = r'C:\Users\nharw\PycharmProjects\PDF2Anki\output_Folders\Image of each page'
 images = os.listdir(path_to_folder)
 images.sort(key=lambda f: int(''.join(filter(str.isdigit, f))))  # Python doesn't sort properly so this line is needed
 
