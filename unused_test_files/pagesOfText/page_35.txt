@@ -1,0 +1,36 @@
+Pattern 14
+White to p lay, Black d ies
+In this shape,  if it's White  s turn, Black is
+easily killed;  if it's Black's turn,  he easily
+lives. Even  havi ng said that, however, there
+is still room  tor error. First,  think about  how
+White, if it's his turn, can kill Black.
+Solution 1. The  hane  kills
+White's hane at 1 is good  enough.  Black 2 is
+the vital point  for making  eye shape, but one
+more  vital  point remains  at White 3. Next,
+whe n Black blocks at 4, W hite crawls in to 5.
+If Black  blocks with 2 at 5, then White makes
+a placement of at 3.
+Solution 2. The  placem ent
+Even if Whit e immediately jumps  in to con-
+trol the vital point at White 1, Black dies. Whe n
+Black  descends  to 2, Whit e crawls at 3. After
+this,  even  if Black  descends  to 'a', White can
+play  elsew here  and Black  is still dead.
+It seems  as if there might  be still other  play s
+which will kill Black, but...
+Failure 1. Ko
+Althoug h we've  said that Black  is dead virtu-
+ally regardless  of how  White plays,  White
+should n't be too cavalier about  it For example,
+if he begi ns at 1, Black  2 makes eye shape, and
+Whit e 3, Black 4 yield  a ko, which is a failure.
+For Black,  too, the play at 2 is important...
+20{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~{`]{{{{{~```{]==========\
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~{`4{{{{{~```{#======!%=2\
+Solution 1
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~{`ê{{{{{~```{]======2=#!\
+Solution 2
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~!`#{{{{{~```{4=========2\
+Failure 1

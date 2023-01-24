@@ -1,0 +1,33 @@
+Pattern 30
+B1ack is alive
+The base  of Black's position  is ope n, heav-
+ing some  bad aji, but his hangi ng connec-
+tion on the left side gives him good  shape,
+so as it stands,  he is alive. However, in actu-
+al play, discovering the correct  way  to live
+when White attacks  is not easy.
+Variation 1. Straightforward
+Whit e's first  attacki ng play  is sliding in
+with  the large- knight move at 1. However,
+pulli ng back at 3 next  woul d just let Black
+live easily by making  an eye at 4 .
+Even  if it doesn't  work, White must  come
+up with  som ething better than 3.
+Variation 2. Forcing Whit e to cut
+After White 1 and Black 2, Whit e has to
+make  the placement at 3 to have  any
+chance. If Black  answers by connecting at 5,
+Whit e pulls back at 4 and  Black  dies.
+Conse quently, Black  has no choice but to
+block at 4; after White 5, making an eye
+with  Black 6 and  8 allows  him to liv e.
+Variation 3. R ejecting ko
+After White 1 and Black 2, Whit e 3 is
+quite an aggressive answer. In answer to
+Black  4, White gets ready to play  a ko with
+5, but by descending to 6, Black can refuse
+to fight a ko. This  is beca use, after the
+cont inuation of White 'a', Black  'b', and
+Whit e 'c', Black  can squeeze in at 'd'.
+122
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{~~~`{]{{{~{~```{]{{{{~`{{{{]======`===\

@@ -1,0 +1,36 @@
+Pattern 17
+Black is alive
+If you  compare this to the first comb
+shape,  the shape  has become a little bit
+smaller. This  is a position which comes up
+often  in actual  play.  Black is alive here even
+if he plays elsewhere.
+Variation 1. H ane
+If White decides to try and captur e the black
+group,  he will play  the hane  at White  1, but
+Black  simply  connects at 2. In answe r to White's
+placeme nt at 3, Black 4 is important  White's
+craw ling at 5 produces  a scary position for an
+insta nt, but Black connects at 6 and captur es the
+Whit e stone  at 3.
+Variation 2. Perverse
+Black can also answer  White  1 with the open
+connection at 2. Connecti ng on the bottom  with
+3 is a nasty  play:  Black must pay close  attention.
+Play ing either  at 4 or at ' a' is a cool  response.
+If Black plays  4 at b', White throws  in at 'a
+and kills him.
+Variation 3. Placem ent
+White's place ment at 1 is a confusing play
+but if Black makes  the open conn ection at 2, he
+has nothi ng to worry  about
+If White mak es his place ment at 2, Black also
+makes  an open conn ection, this time  at 1, and
+Whit e has no answer.
+148{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~``~]{{{{~``{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~``~]{{{{~``26``=====!%=#4\
+Variation 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~``~]{{{{~``ê{``====#!=2ì4\
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~``~]{{{{~``{{``=======!2=\
+Variation 3

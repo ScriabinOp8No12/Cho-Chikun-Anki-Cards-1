@@ -1,0 +1,35 @@
+Pattern 14
+White to p lay, Black d ies
+Take a look at this shape  in which the
+prev ious diagram  has been  backed up a lit-
+tle. Does the solution  jump  right  out at you?
+In addition  to the soluti on, there are also a
+numbe r of interest ing variatio ns, so it is
+perfect research  material.
+Solution 1. De scent
+White's descent to 1 is calm. If Black  blocks at
+2, it reverts to the last pattern and White 3 and
+5 kill  Blac k unco nditionally.
+However, for Black  2 there  are other devi ces
+he might  try, so we need to investigate  them as
+well.
+Solution 2. Stepp ing Down
+If in answe r to White 1, Black  steps  down  to
+2, how  should  Whit e procee d? At this point,
+Whit e mus t attach at 3. After  Black 4 to 6,
+Whit e's placemen t at 7 is the vital point  for
+making  this  into a big eye.
+Solution 3. Confu sing
+After White 1, dodging to 2 is a confusing
+answer  White has to be very careful to avoid
+bein g deceived.
+The placement at 3 is the vital point  After
+Black  4, White 5 is also  important Up to 7,
+Whit e has efficiently killed Blac k.
+100{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~{]{{{{{~{``{]{{{~{~`{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~!]{{{{{~{``2#{{{~{~`{{{4=========%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~!]{{{{{~{``%4{{{~{~`{+2#========&=6
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~!]{{{{{~%``{]{{{~{~`{4{2=====&=6=#\
+Solution 3

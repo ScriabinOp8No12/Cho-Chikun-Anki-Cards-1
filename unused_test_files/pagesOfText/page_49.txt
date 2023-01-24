@@ -1,0 +1,33 @@
+Pattern 1
+White to p lay, Black d ies
+This is the six-space group.  Notic e that all
+of the outs ide libertie s are filled in. If it's
+White's turn, Black will die; however,  it's
+easy to sl ip up if  you're not careful .
+Solution. Shortage of liberties
+The attachment at Whit e 1 is correct
+Black is forced to make a counter-attach-
+ment  at 2, but blocking at White 3 is good
+enough.  Because of his shortage of liberties,
+Black cannot  block at 'a' , so he dies. This
+shortage  of libert ies might  be something of
+a blind spot for you.
+Failure. Ko
+White 1 is also at a vital point and forces
+Black 2. Now, after  Whit e 3, Black plays at 4
+to get a ko.
+If Black  doesn't use 4 to make ko, then
+White can play there and make the shape
+into a bent  four  in the corner. In any case,
+ko is a failure for White.
+Reference 1. Black  is alive
+One of Black's  outside  liberties is open.
+Now  what  happens if it's White's turn  to
+play?
+In response  to the attachment of White  1,
+Black again  plays  2. Now,  howe ver, when
+White play s 3, Black  can fill in at 4 and is
+unconditionally alive. Accord ingly, in this
+case Whit e 1 is a mis take.
+34
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~~{{{{{{~````{{{{{{~`{{]======~`==\

@@ -1,0 +1,36 @@
+Pattern 8
+White to p lay, Black d ies
+Once again,  the positio n of the bulge has
+changed.  This  is a relative ly comm on shape,
+so for White's play somethin g ordinary  is
+likely to be  good e nough.
+Solution 1. Kil l with a hane
+The simple  hane at Whit e 1 is the killing play
+Black  blocks  at 2, and the seque nce continues
+with  White's throw- in at 3 a nd pl ay inside at 5. 
+In this  position it's necessary  to first exchan ge
+Whit e 1 for Black  2. Starting  imm ediately with
+the throw-in at 3 ends up failing after Black
+captures  at 4.
+Solution 2. The  placem ent is the key
+In response to White 1, Black  2 is a strange
+play;  howev er, White  must  take some  care. So
+long  as he is aware of the placeme nt of White 3,
+he will be fine. The  seque nce cont inues to 5 . 
+White mus t not hastil y play  atari with 3 at 5.
+If he does, Black blocks at 3 an d surviv es.
+Reference 1. Black is alive
+The marked black stone  has been added  to
+the problem diagram . If it rema ins White's turn
+to play,  can he kill  the Blac k group?
+The answer is, if this hane  is present,  Black is
+alive. However, if Black  plays  poorly  he still
+might  die, so this shape  will be the subject of
+some further  investigations. 
+10{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{~{{]{}{{{{{}~{]{{{{~~~`~~]{{~{~``{```==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{~{{]{}{{{{{}~{]{{{{~~~`~~]{{~{~``#```=====!24=%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{~{{]{}{{{{{}~{]{{{{~~~`~~]{{~{~``4```=====!%#=2\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{~{{]{}{{{{{}~{]{{{{~~~`~~]{{~{~``{```===="=====\
+Reference 1

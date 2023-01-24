@@ -1,0 +1,31 @@
+Pattern 13
+White to p lay, Black d ies
+It appears  that Black has enough  room  to
+live, but this shape has a weak point  You
+need to be very careful about  your  order  of
+move s. Black  can put up some unexpectedly
+tenacious  resistan ce about  halfway  through,
+so be carefu l.
+Solution 2. Combination
+The hane at 1 and the placement  at 3 are
+the correct combi nation After Black  4, White
+5 is Black's  Achilles heel  Whe n Black tries to
+make an eye at 6, White desce nds at 7, re-
+strict ing Black to just one eye.
+Failure 1. Approach-move ko
+Instead of Black  6 in the previous diagram,
+Black 1 in this diagram is an important
+variation If White follows along  carelessly
+and blocks at 2, Black  makes  an eye with 3.
+This is still an approach -move ko for Black,
+but if you consider that group was originally
+unconditionally dead, an approa ch-move  ko
+can be called  a failure for White.
+Solution 2. Three-space big eye
+After Black  1, White's placement at 2 is the
+way  to deal with Black's resistan ce. Whe n
+Black conne cts at 3, White also conne cts at 4,
+then after Black  5, White has the connection
+at 6. You can verify  for your self that this is
+not a seki but a three- space big eye.
+98{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~```]{{{~{~`{{{]==========\

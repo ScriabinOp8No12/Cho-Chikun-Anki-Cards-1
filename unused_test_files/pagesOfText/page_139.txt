@@ -1,0 +1,38 @@
+Pattern 31
+Black to play and live
+This is a shape which seems very likel y to
+occur  in actual  play  The positio n looks  quite
+thin, so unless  you play  at an extremely effi-
+cient  vital point, living will be difficult The
+hane  on the left side is  Black's lifeline.
+Solution 1. Ret reat
+Black has to retreat at 1. In answer to White's
+slide  to 2, Black blocks at 3. After  White
+exchan ges 4 for Black 5, Whit e can't play  at 'a,
+so Black  just barely manages  to live. Black must
+be careful, because  if White later  gets a chance
+to play  at 'b', he can then  play  at 'a' and kill the
+black group.
+Solution 2. Mi sleading
+Can't  White try for a big eye instead  of 4 in
+the previous  diagr am? For example, something
+confu sing like White  1 here. Unfortunate ly,
+Black  block s at 2 and answers  White 3 by
+capturi ng a stone  with 4 and is alive. Should
+Black  careles sly conne ct at 'a', Whit e plays 'b'
+and Black dies unexpec tedly.
+Failure. Missing the vital poin t
+Black's descent  to 1 missed the vital point
+Whit e throws  in at 2 and Black no long er has a
+living shape.  When Black pulls  back at 3, Whit e
+attaches  at 4.
+Addit ionally, connecting at 'a' instead of
+Black  1, is met by a white slide to 'b', so Black
+dies.
+124{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{~~~{{]{{{{{~`{`{]{{{~{~`{{{]=====`====\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~ì{}{{{~~~{{]{{{{{~`$`ê@{{{~{~`5{13=====`====\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{~~~{{]{{{{{~`{`{~{{{~{~`{ê``=====`ì#2!4
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{~~~{{]{{{{{~`{`{]{{{~{~`{{{]=====`====\
+Failure

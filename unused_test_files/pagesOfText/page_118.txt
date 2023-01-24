@@ -1,0 +1,32 @@
+Solution 4. A Simple Placement
+The fact is, the simple  placement  at 1 also
+kills the group.  If Black answers at 2, White
+play s 3 and 5, in order  However, don't for-
+get that when Black has a stone  at 'a' this
+variation gives him the oppor tunity  to con-
+nect to th e outside.
+Solution 5. Playing hane  first
+Whe n Whit e begins with 1, take heed of
+Black's hane  at 2. Promptly throwing in at
+Whit e 3 is important;  after Black  4,
+defending at 5 kills the group.  If instead  of
+3, White simply  defends  at 5, after  Black 'a'
+and White  3, Black  will be able to live by
+play ing 'b'.
+Reference 1. Hane on the left
+Next, let's look  at the position when
+Whit e doesn't have a stone  at 'a'. After
+Whit e 1 and 3, Black's  hane at 4 becomes
+somethi ng of a problem. Needless to say, if
+Whit e has a stone  in the vicinity of 'a', he
+can ignore  a black hane  at 4 and play  the
+diagonal attachment at 'b' to kill the group.
+Reference 2. Ko
+Whe n White cannot help but defend at 1,
+Black makes  an eye at 2 and  is no longer un-
+conditionally dead. Black answers 3 by con-
+necting along the bottom  at 4 and gets a di-
+rect ko.
+If White blocks with 1 at 3, Black's  cut at
+'a' w ill of cour se become a problem.
+103

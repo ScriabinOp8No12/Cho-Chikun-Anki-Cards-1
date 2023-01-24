@@ -1,0 +1,34 @@
+Pattern 22
+White to p lay, Black d ies
+Making do with the hane of the marked
+black stone  is not the same  as the real thing.
+How should  White take advan tage of Black-
+'s thinness? This is a tough  prob lem finding
+the first  move  may be qu ite difficult.
+Solution 1. Place ment
+The placemen t of White 1 is at the vital
+point  Recognizing that this is also  where
+Black  would  play if he were  going to try
+and live here  is a clue  to locati ng it For
+example,  if White were  to hane  with 1 at 'a',
+Black  would make  the open conne ction at 1
+and live.
+For the possib le variat ions, consider the
+diagrams  which follo w.
+Solution 2. An im portant hane
+If Black  answers  White's placement by
+connecting at 1, naturall y, White extends to
+2. If Black continues by connecting at the
+bottom with 3, the hane  at 4 and atari at 6
+are an important  sequen ce. After  this,  if
+Black  captures  at 'a', White extends  again to
+'b' and  makes a th ree-spac e big  eye.
+Failure 1. Unp repared
+After Black 1 and 3, extend ing to 4 imme-
+diately  has to be called careless. By taking a
+breather  at this point,  you allow him to play
+at 5 and  live.
+Black can also live by desce nding to 'a' in-
+stead of  5.
+154
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~{``~"{{~{~``{{`]==========\

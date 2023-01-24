@@ -1,0 +1,38 @@
+Variation 3. M issing the vital point
+The placeme nt at White 1 misses  the vital
+point.  Black  2 and 4 are the best answer;  up to
+6, this  is not a seki;  Black  is alive.
+If instead  of 2, Black  answers White 1 at 4,
+Whit e 2, Black  6, and White 'a' end up being in
+a seki.
+Variation 4. Similarly
+This  White  1 also misses  the vital point Black
+blocks at 2 a nd White has m issed his chance.
+The upshot of all this is that White can't hope
+for anythi ng more  than  a seki,  and getting that
+seki  in sente by following Variation  1 is the
+correct  procedure.
+Seki versus  Ko
+Suppos e we set up a problem as in Diagram
+1 and ask, "If it's White s turn  to play, what
+is the result?"
+The correc t answer,  of course,  is that Whit e
+blocks at 1, Black throws  in at 2 and White
+captures at 3, making  a ko.
+As an alternative, White could  also play 1 at 2,
+with Black answer ing at 1 to create a seki, but,
+as I've mentio ned before, seki means that Black
+is alive, so it's a failu re for White.
+In a game,  if a ko fight  is not in  White's best
+interests  because  of a lack of ko th reats,  then
+making  a sente seki might  be reasonable,
+but that is a separate  issue  from  the
+evaluat ion of life and death  prob lems.
+89{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{4#ê=====~`6!2%
+Variation 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{2!]=====~`4#=\
+Variation 4
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{~~`=====~``==\
+Diagram 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{~~`=====~``!2#
+Diagram 2

@@ -1,0 +1,33 @@
+Failure 2. Diagonal play
+What happens  if Black  makes the
+diagona l play  at 1, trying  to expand  his
+base? Figuring  out how  White should  attack
+this shape is also difficult The final result  is
+a ko, but if White plays  poorly,  Black  will be
+able to live. How should  Whi te play? The
+other  pattern s of this type  should provide
+you with reference  material.
+Failure 3. Ko
+White's throw-in at 1 produc es a ko. The
+fact that Black  4 produces  a two- step ko has
+been  explai ned previously.
+If Black  makes  the open connection at 'a'
+instead  of 4, White cuts at 'b' and once again
+gets a ko.
+Failure 4. Placement
+The placemen t at White 1 is at the vital
+point, but it doesn't  work with this shape.
+After Black 2 and White 3, conn ecting at
+Black 4 is a good move.  Even if White  aims
+to make a big eye with White 5 to 7, Black
+connects at 8 and all White gets is  a seki.
+Instead  of conne cting at 4...
+Failure 5. Sudden dea th
+Crawling with Black  1 is suicidal. The
+poor  move of Black 1 reduces Black's own
+libert ies. Now,  after Black  3, three  black
+stones can be placed in atari with White 4 to
+6. When  White  plays  atari  at 6, Black
+captur es at 'a', then  White 'b' produces  a
+three- space  big eye.
+159

@@ -1,0 +1,40 @@
+Failure 1. An ir ritating ko
+White 1 here is defective. If Black plays  'a ,
+Whit e can simply  play 'b', but with  2 and 4
+Black  gets the chan ce to persev ere with ko. If
+Whit e cuts at ' b', Black  play s 'c'. If instead  White
+blocks at 'd', Black plays  'c' and can aim at the
+cut at 'e'. Also, if Black  simply descends  to `b'
+instead  of 2, it creates  a shape  with lots of bad
+aji.
+Failure 2. Beginn ing with the placement
+What about  begin ning with the placement at
+Whit e 1? Black  has no choice but to play  2.
+Whit e conti nues with the hane at 3 and if Black
+blocks at 'a and  White  conn ects at 'b', this
+reverts  to the solution. Unfortuna tely Black
+won't  play at 'a', because  he has a better mov e.
+Namely  —
+Failure 3. Black  gets a cut
+Simply  play ing a hane  at 1 is good enough.
+Whe n White descends  to 2, the jump  to Black  3
+is a good  move . Whe n White blocks at 4 to pre-
+vent  an eye on that  side, Black's  cut at 5 is
+success ful and the single white stone  ends up
+captured.
+Instead  of White 4...
+Failure 4. Ther e's no connecti on
+If White connects at 1, Black add s an eye wit h
+2 and 4. After this, even  if Whit e pushes  in at
+'a', Black  play s 'b' and the two ston es in the
+corner  cannot  be rescued.  I'm sure you can see
+why  the marked  black stone is such a good
+move.
+165{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~!]{{{{{~```ê]{{{á#2ì{{{]===‹4=£===\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~{]{{{{{~```2]{{{{{ì#ê!{]==========\
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~$]{{{{{~````]{{{{^5~{{~1=====7=3=@\
+Failure 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~#]{}{{~{~}~24{{{{{~````]{{{{{!~ê{~`======="ì~\
+Failure 4

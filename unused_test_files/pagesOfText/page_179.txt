@@ -1,0 +1,33 @@
+Pattern 29
+White to p lay, Black d ies
+It looks like there are a  numb er of alterna-
+tives for the first move,  but there is only  one
+play which elim inates  all the aji. Actually,
+there  are a number of variatio ns, but the
+trick  is to read them  out all the way  to the
+end.
+Solution 1. Begin  with a hane
+The first move  is White's hane  at 1. After
+Black  2, White 3 is a move  that  Black  must
+answer,  whether  he wants to or not Whe n
+Whit e connects at 5, it's a dead shape.  The
+cont inuations are examined  below
+Solution 2. Miai
+Conti nuing from the previous  diagram , if
+Black  plays  1 and 3, Whit e desc ends to 4,
+making  miai  out of conn ecting underneath at 'a'
+and the hane at 'b'.
+Instead  of 3...
+Solution 3. Preve nting a ko
+The  attachme nt at Black 1 here  probabl y
+provides  the strongest resistance, but Whit e can
+simply  desc end to 2 and answer Black  3 with a
+hane  at 4, killing the group.  If instead  of 2,
+Whit e play s at 'a', B lack plays 2 a nd gets a ko .
+164{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~{]{{{{{~```{]{{{{{{{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~{]{{{{{~```4]{{{{ê%!2{#]=======ì==\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~@]{}{{~{~}~1ì{{{{{~````]{{{{{~~`{~3=======ê=$\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~~]{}{{~{~}~`${{{{{~````]{{{{{~~`{~@=======3ê1\
+Failure

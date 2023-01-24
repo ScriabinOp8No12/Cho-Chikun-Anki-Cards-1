@@ -1,0 +1,33 @@
+Pattern 14
+White to p lay, Black d ies
+This pattern is often seen in collections of
+life and death  problems.  In this shape as
+well, cursed with  the shortage  of liberti es of
+his three  stones, the black  group  dies. How-
+ever, be careful  not to jump  to conclusions.
+Solution. Diagonal move
+The diagonal move  of White 1 has a nice
+feeli ng about  it. Afte r Black 2, White has the
+hane  at 3. Black can't push  in at 'a' beca use of a
+shortage of libert ies.
+If Black plays 2 at 'a , then White plays 3 and
+Black's  eye is still  ruined.
+Failure. Careless
+At first,  the attachment at White 1 might be
+appeali ng, but it's a vulgar play and includes  an
+illusion. Black  can push  at 2 and answer  Whit e
+3 by conne cting at 4. It looks as if White, in the
+early  stages,  overlooked  the fact that he cannot
+connect at 'a'.
+Reference. Making life for Black
+If you wonder  how Black  should  play in this
+positio n, as a matt er of course , he has to jump
+to 1 here.  If he make s the open connection at 'a',
+he ends  up dead as you'v e already seen.
+145{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{{{~```~]{{{{{~{{{``========`=\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{{{~```~]{{{{{~ê#{``======!2`=\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{{{~```~]{{{{{~2!4``======#ê`=\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{{{~```~]{{{{{~{{{``=======`ê=\
+Reference

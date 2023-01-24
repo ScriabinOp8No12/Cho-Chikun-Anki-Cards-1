@@ -1,0 +1,35 @@
+Pattern 16
+White to p lay, Black d ies
+White's descent  on the right  side will
+make  its presence felt. The point  here  is
+whether  or not you can hit the mark with
+your  first  move. The details  which follo w
+are merely icing on the cake.
+Solution 1. Contact  play inside
+It's the conta ct play  inside at White  1 or noth-
+ing. This is the only poss ibility for Black  2, since
+if Black plays atari  at 3 instead,  White  descend s
+at 2, and if Black  5, White 'a'. In either  case
+Black  is easily  killed. Next, White extends  with
+3 and, when Black  plays 4, cuts  at 5. After
+B1ack's  forced  captur e at 6...
+Solution 2. False eye
+The throw-in at Whit e 7 makes  this a false
+eye. The marked white  stone has really  done its
+work.
+By the way, within this series of moves, there
+is one easy mis take to m ake.
+Failure 1. Cutt ing on the wrong  side
+After White 1 through  Black 4, if White care-
+lessly  cuts underneat h at 5, the stron g play  at
+Whit e 1 comes  to nothi ng. Black  can simply
+connect at 6. The two white stones  are captured
+as they  are, and there  is no way  to make  it a
+false  eye.
+24{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~{`]{{{{{~```{]======`===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~%`ê{{{{{~```!2======`=4#6
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~'{{{{{~~~~`]{{{{{~```&`======`=`=`
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~6`%{{{{{~```!2======`=4#\
+Failure 1

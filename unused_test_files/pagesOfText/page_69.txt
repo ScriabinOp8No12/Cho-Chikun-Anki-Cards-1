@@ -1,0 +1,37 @@
+Pattern 12
+White to p lay and get a k o
+White's descent  at the marked white
+stone must  be given some  close  attentio n. If
+it's Whit e's turn , he does  have possibilities
+now  But the result  is only a two- step ko, so
+Black is not  going to suffer  all that  much.
+Solution 1. Att achment
+White makes the attac hment at 1 and an-
+swers  Black's  hane at 2 with a diag onal play at
+3. When  Black plays 4, the hane at 5 and throw-
+in at 7 produce  a ko. In the middle  of this se-
+quence, at Black 4, there  is an important  varia-
+tion,  but th at is for later.
+By the  way,  what  kind  of ko is  this?
+Solution 2. Two- step ko
+White has made a ko threat somewhere,  and
+recaptured  at 1. If White  coul d mak e one more
+move  and resolve things,  then  this would  be a
+direct  ko, but he can't  After White  takes  at 'a',
+the ko will be fought all over  again. In other
+words,  it's a two- step ko.
+Variation. Black dies
+After White 1 to 3, if Black decides to play at-
+ari at 4, the potential for ko is erased,  but, whe n
+Black  play s 6, White hanes at 7 and beca use of
+his shorta ge of liberties, Black can no longer
+play  in at 'a'. It's when  this positio n develops
+that the marked  white stone mak e its presence
+felt.
+54{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~'{}{{{{{~~`]{{{{~{~```]{{{{{~``{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~~{}{{{{{~~`4{{{{~{~```]{{{{{~``{!2======%6#8&
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~~{}{{{{{~~``{{{{~{~```ê{{{{{~``{~1======~`~`!
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~'{}{{{{{~~`6{{{{~{~```]{{{{{~``4!2======&=#%\
+Variation

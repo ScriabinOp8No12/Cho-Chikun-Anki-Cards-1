@@ -1,0 +1,35 @@
+Pattern 16
+Black to play and live
+It certai nly doesn't  appear  as if these
+stones will be able  to live, but by playing
+his first stone  at the vital point, Black can
+hope  to save his stones.  It's important  to try
+everything in your  pow er, right up to the
+end.
+Solution 2. Two good moves
+The vital  point for the first move  is Black
+1. If White descends  at 2, Blacks  hanes  at 3;
+after White blocks at 4, the diagonal  play  at
+5 is impor tant If White plays atari  at 'a ,
+Black has the descent at 'b', which secures
+two eyes.
+Instead of Black  5 —
+Failure 1. Open connecti on
+Black woul d like to play the open  con-
+nection at Black 1 here,  but if he does,  he
+won't  be able  to li ve unco nditionally.
+Whit e can play  the attachme nt at 2 and
+in response  to Black 3, continue with the
+hane at 4. After Black 5 and White  6, a ko
+fight develops at 'a'. In this positio n, ko is a
+failure for Black.
+Failure 2. Black dies
+Wha t if Black  answers  White 2 with 3
+and 5, capturi ng one stone?  In this event,
+the placement at Whit e 6 becomes  the vital
+point.  Now , even if Black  conne cts at 7,
+Whit e descend s to 8 and  Black  can no
+long er make  an eye at 'a'. In either case,
+Black 1 is a mistake.
+62
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{~}~{]{{{{~{~``{]{{{{{{{{{{]==========\

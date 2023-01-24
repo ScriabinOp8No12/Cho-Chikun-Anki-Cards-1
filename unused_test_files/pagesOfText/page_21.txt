@@ -1,0 +1,36 @@
+Pattern 5
+White to p lay, Black d ies
+There is a defect  in the left side of Black's
+shape.  White  must  figure  out how  to take
+advanta ge of it. The proble m is where  to
+make his  first  move.
+Solution 1. Begin  inside
+White should begin with  1, which prevents
+Black  from  getting  two eyes.  Even  if Black de-
+scends  at 2 to expand  his eye space, the white
+throw- in at 3 leaves him with  only one eye. The
+sequen ce ends with White 5. 
+If Black connects with 2 at 3, White kills him
+with  the hane  at 2. 
+Solution 2. The  placem ent tesu ji
+After White 1, if Black blocks at 2, the place-
+ment  at White 3 becomes the tesuji (the best
+play  in the local  context ). In response  to Black 4,
+Whit e 5 m akes a fa lse eye of  the left side.  
+If instead  of 3, Whit e carele ssly ataris at 4,
+Black  will play  at 3. A ko results, making  this a
+failu re for White. 
+Failure. Ko
+Beginn ing with the atari at White 1 is rash.
+Black  2 and White 3 produce  a ko. Also, you
+should  verify that if Whit e begi ns with the
+placeme nt at 2 instead  of 1, Black  will block at 1
+and live.
+Reference 1. Adding  a hane
+6{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`{````==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`#````=====24=%!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`%````=====4#=2!\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`#````=====!2===\
+Failure

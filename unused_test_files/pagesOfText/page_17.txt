@@ -1,0 +1,37 @@
+Pattern 1
+White to p lay, Black d ies
+This shape consist s of five stones  lined up
+in the corner on the second  line. If it is
+White's turn, Black dies; if it is Black's turn,
+he can live. This  is one of the basic  life and
+death  patterns  in the corner. 
+Solution 1. Beginn ing with a hane
+White first plays  a hane at 1, then  answers
+Black  2 by playi ng inside at 3. Playing a stone
+like this inside your  opponents  area after  nar-
+rowi ng his base is a basic technique for killing
+stones.  
+Solution 2. Beginn ing with a place ment
+White can also kill the group by begi nning
+with  the placement at 1, followed by Black  2
+and White 3. 
+There  are, in fact, two routes  _ of play,  begi n-
+ning with  the hane or the placeme nt You
+should  take  careful note,  howev er, of the differ-
+ence  betw een these  two  methods. 
+Reference. Connect ing to the outside
+Suppose  that there were black stones  in the
+area  of the two marked  stones . In that case, af-
+ter the placement  of Whit e 1, followed by Black
+2 and White 3, Black  would  be able to connect
+to the outside with 4. Therefor e, White should
+play  1 at 2 as in Soluti on 1. Next, Black must
+play  'a' and White answers  with 1. Now,  if
+Black  captur es at 4, W hite 'b' is good enoug h.
+2{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{{{~~~~~]{{{{{~`````==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{{{~~~~~]{{{{{~`````======!2=#\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{{{~~~~~]{{{{{~`````======2=#!\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{"{{{~~~~~]{{"{ì~`````=====42ê#!\
+Reference

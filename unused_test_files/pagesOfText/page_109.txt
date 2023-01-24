@@ -1,0 +1,33 @@
+Pattern 10
+White to p lay and get a k o
+This shape  woul d have  to be called, the
+corner 'comb' shape.  White has various
+means  of attacki ng it, and they  all lead to
+ko. This shape com es up often  in actual
+play, so you should  learn it wel l.
+Solution 1. Hane and placement
+The first solutio n is the hane  of Whit e 1, fol-
+lowed,  whe n Black  blocks  at 2, by the place-
+ment of White 3. Black has no choice but to re-
+sist by attach ing at 4; in answer  to White 5, he
+sets up ko w ith 6.
+If Black plays  4 at 5, Whit e crawls to 4 and
+Black is dead.
+Failure. Omission
+Simply  making the placement at White  1
+omits a step in the proce ss. Whe n Black play s
+2, followed  by White 3, the cut at 4 is a good
+move. Whe n Whit e captures  at 5, Black  plays
+atari at 6. The result here  won't  be a big eye.
+For that to happen,  White first needs  to make
+the exchange of White `a', Black  'b'.
+Solution 2. Belly attachment
+The second solutio n is the belly attachment
+at White 1. After Black  plays a han e at 2, Whit e
+craw ls to 3, then  answers Black 4 by descend-
+ing at 5. In order to avoid  a big eye, Black is
+force d to throw in at 6, making a ko. If White
+wins the ko fight,  he will captur e at 'a', giving
+him good aji.
+94
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~```]{{{{{~`{{{]======`===\

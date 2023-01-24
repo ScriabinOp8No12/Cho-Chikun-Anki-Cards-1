@@ -1,0 +1,36 @@
+Pattern 13
+White to p lay, Black d ies
+The positio n has shrunk.  It is of the same
+type  as several that have  appear ed so far.
+All of Black's outside  libertie s have been
+filled in, so he does,  after  all, die unco ndi-
+tionally.
+Solution 1. Short age of liberties
+White 1 is the one and only  weak  point  in
+Black's  shape.  If Black answers  at 2, capturing  a
+stone  with White 3 and 5 is good  enough.  Black
+can't  pres s at 'a' to trap the  white stones  because
+of his shortage of liberties.
+Solution 2. The  cut
+Even if he resists strongly, with Black  2 here,
+Whit e has the cut at 3. Once  again a shortage of
+liberti es preve nts Black  from play ing atar i at 'a'.
+If White tries the attachment  of 'a' instead  of
+1, Black makes an ordinary  answer at 1 and
+surviv es.
+Reference. An ext ra liberty
+In this case  there  is an extra  liberty  at 'a'.
+Now  Black  answers White 1 at 2 and is alive.
+Black  can also answer  White  1 by blocking at 'b'
+and,  after White's',  play  Black 2, plan ning to
+trap  the white stones  in their  own  shorta ge of
+liberti es.
+Ultimate ly, the existence  of outs ide liberties
+decides  the life or death  of the group.
+144{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{~~~~{]{{{{{~```~~{{{{{~{{{``=======`==\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{~~~~{]{{{{{~```~~{{{{{~4#ê``======%`!2\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{~~~~{]{{{{{~```~~{{{{{~2{#``=======`!ê\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~ê{{{{{~```~]{{{{{~2£{``=======`!ì\
+Reference

@@ -1,0 +1,34 @@
+Pattern 24
+White to p lay and make a ko
+Unlike the previous  pattern, Black has a
+liberty  at 'a . Because  of this, he will be hard
+for White to deal  with. The final result  is a
+ko, but as there  are some  extremely  compl i-
+cated variat ions, pay close attention to this
+position.
+Solution 1. The strongest way  for both sides
+ Playing a hane  at 1 followed  by the place-
+ment  at 3 is the techn ique for attacking this
+black group.  When  Black  connects at 4,
+White 5 is a steady response; when Black
+plays 6, Whit e 7 and the push in at 9 make a
+ko. In the middle of this, if Black plays  2 at 7,
+White plays 6.
+Reference.  The nature of this ko
+Whit e has just pushed  in with the marked
+stone. Even  if Black  plays  elsew here  once  it's
+still a ko, albeit an approach- move ko for
+White, However, when White captures  at 'a',
+it now  becom es a one-step  approach-move
+ko that favors  White.  Therefore, rather than
+being a normal  approach move ko, this is a
+direct ko.
+Failure 1. A hard customer
+After White 1 and Black  2, pushi ng at 3
+and then making  the placeme nt at 5 is also a
+strong way  to play, but the variations can be
+very difficult Black's  best move is to make
+contact at 6. The  questi on is what  will
+happen next.
+114
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~ê~~`]{{{{{~`{``]{{{~{~`{{{]==========\

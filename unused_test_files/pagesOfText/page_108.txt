@@ -1,0 +1,34 @@
+Pattern 9
+White to p lay and get a k o
+Black has an extra liberty in the midd le of
+his formatio n, so things won't  go as they
+did in the last pattern.  Whit e will reinfor ce
+his positi on surroundi ng the black group
+and use a practical fighting technique to
+start a ko.
+Solution. Two- step hane
+The two-step hane  of Whi te 1 and 3 is the
+answer.  In response  to Black 4, Whit e goes  all
+out with the atari at 5. When  Black  captures  at
+'a', a ko fight  begins.
+Failure. The extra liberty
+If White plays  the hane and connection of 1
+and 3, Black descends  to 4. This  time, however,
+whe n White cont inues with 5 and 7, Black's ex-
+tra li berty  allows him  to pl ay atari at 8 and  live.
+Addit ionally if Whit e begins  by descendi ng
+to 3, Black blocks at 1 and the shape reverts to
+Pattern  2 of  this sectio n.
+Reference. Black' s hane
+In an actual  game,  if Black  has an
+opportunity  play ing the hane at 1 makes his
+positio n safe.  If White  answers at 2, this
+exchan ge alone  has eliminated  White's means
+of starting  a ko .
+93{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~}~{]{{{{{~```{]{{{~{~`{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~}~4%{{{{{~```!ê{{{~{~`{{2#==========\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~}~#]{{{{{~```!]{{{~{~`8&24======6%==\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~}~@]{{{{{~```1]{{{~{~`{{{]==========\
+Reference

@@ -1,0 +1,31 @@
+Pattern 15
+Black to play and live
+Black's shape doesn't  look  very promis-
+ing, but it is surprisingly resilient. If he
+should miss  playing at the vital point,  how-
+ever, he'll die quickly. This is a problem
+which vividly demonstra tes the powe r of
+the vita l point
+Solution 1. Retracting
+The vital point  at 1 is Black's only move.
+After White confines him with 2, Black makes
+an eye with 3. Black  has managed  to live very
+efficiently with a minimum  number  of moves.
+If White plays  2 at 'a', Black  b' is good
+enoug h.
+Solution 2. Responding to the place ment
+After Black  1, let's consider White's place-
+ment at 2 Black  expands his area with the
+hane at 3 and after  White  4, simply  descends
+to 5. Should White link under at 6, Black will
+block at 7.
+If White plays 4 at 6, Black again blocks  at
+7.
+Failure 1. Defensive error
+After White's placement  at 2, Black  mus t
+not become  flustered and inter cept  at 3. If he
+does, Whit e descends  at 4 and Black dies.
+Be sure  not to forget that instead  of 3, Black
+must play a hane at 4.
+60
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~}~{]{{{{{{~``{]{{{{~{~`{{]==========\

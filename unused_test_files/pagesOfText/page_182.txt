@@ -1,0 +1,30 @@
+Pattern 31
+Black to play and live
+Beca use he has an open  liberty  at 'a', the
+Black group  can be saved. The quest ion is
+how  to connect that open  liberty to life for
+the group.
+Solution. Open connecti on
+Making the open conne ction on the left
+side at 1 is good enoug h. When White  plays
+2, Black 3 secures  two eyes. Even if White
+plays 2 inside at 3, Black descends  to 2 and
+has no trouble  whatsoever
+Failure 1. Opposite directi on
+What about  making the open  connection
+on the right side at Black  1? White will
+throw  in a cut at 2 and,  since Black  has no
+choice but to answe r at 3, make use of the
+atari  at 4 and hane at 6 to kill the group.  In
+short, the open conne ction of Black  1 doesn't
+make us e of the open  liberty at 'a'.
+Failure 2. Descent
+Lets  try descendi ng to Black  1. Unfortu-
+nately,  with a whit e hane at 2, Black is easily
+killed. White can answer  Black  3 with the at-
+tachment at 4.
+Also, desce nding on the other side at 1 is
+met by a white placeme nt at 3 and there  is
+no way  for Black to li ve.
+167
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{~~~{]{~{~~~``ê~]{{{~``{{``~==========\

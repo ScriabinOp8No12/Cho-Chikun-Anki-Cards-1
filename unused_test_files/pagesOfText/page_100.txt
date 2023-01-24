@@ -1,0 +1,31 @@
+Failure 2. Ko
+After White 1 and Black  2, the
+straightforward hane  at 3 is possible. Black
+has no choice but to block at 4, so next
+Whit e plays atari at 5. Next,  due to a
+shor tage of liberties,  Black  can't play the
+sequence Black 'a' White 'b', Black  6 and
+live, but he c an play 6 to force  a ko.
+Failure 3. Placement
+If a ko is all Whit e wants, after White 1
+and Black  2, it would  be simpler just to
+make the placeme nt at 3. Black has to de-
+fend at 4 and pushi ng in with  White 5
+starts a ko. Next would be Black  'a', White
+'b'.
+Reference 1. Hane and attachment
+Here, the hane at the marked  black stone
+has been added  to the original pattern.
+Wha t kind of variations does this produce?
+After White 1 to 5, Black 6 is a calm an-
+swer In this case,  Black  is absolutel y alive.
+If Black  captures  a stone  at 'a instead,
+Whit e will play  hane  at 'b' and Black is
+dead.
+Reference 2. Ko
+Whe n the hane is present,  the sequen ce
+from White 1 to 5, leading to a ko, becomes
+the best result  for Whit e.
+If Black  plays 4 at 'a', White  still plays  5
+and Black  again  play s at 4.
+85

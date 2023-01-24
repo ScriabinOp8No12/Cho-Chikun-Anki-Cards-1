@@ -1,0 +1,26 @@
+Solution 4. No way to live
+If Black  play s at 1 to avoid  the capturi ng
+race in the previous two diagrams,  White' s
+hane at 2 kills  him. Needless to say it is use-
+less for Black to conti nue by play ing at `a',
+as the result is bent  four in the corner.
+Failure 1. Mistake at White 5
+After White 1 through  Black 4, the thrust
+upwar ds at White 5 is a mistake. Black
+hanes at 6, and now  even  if White cuts at 'a',
+Black will make  two eyes at 'b'. Be caref ul of
+the slight difference betwe en this result and
+that of Solution 1.
+Failure 2. Simplicity
+Going  back to the begin ning, you might
+wond er about  the hane of White 1, but, as
+might be expected, such  a simple  play  will
+not kill the black group.
+Black 2 turns  out to be the vital point
+Even if Whit e conti nues at 'a', Black  blocks
+at 'b' and is alive.
+Failure 3. A mediocre move
+Blocking at White 1 is an even  worse
+play . Black play s 2, or, as we saw in Pattern
+14, makes eye shape with Black  'a'.
+23

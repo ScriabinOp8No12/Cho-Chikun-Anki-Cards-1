@@ -1,0 +1,34 @@
+Pattern 34
+Black to play and live
+This shape  is simila r to those  you've  seen
+thus  far, but the entire position has been
+move d one space  to the left In additio n,
+note  that Black also has played  a hane in the
+corner. In this case as well,  the pecul iar
+characteri stics of the corner  make them-
+selves felt,  so Black can live.
+Solution. The same technique
+Just as in the last pattern,  the soluti on is
+to make the open connection at Black  1
+here. When  White cuts at 2, connecting at
+Black 3 is probably something of a blind
+spot  Black answers  White 4 by descend ing
+to 5, and the trick is that White has no way
+to push into the corner.
+Failure. Connect ing at the base
+If Black first  connects at 1, Whit e will
+play  a hane at 2 and kill him.
+Furthermore,  Whit e can also play 2 at 4,
+but he must  be very  carefu l, because when
+Black answers  at 3, if White cuts  at 'a',
+Black will play  at 2 and live. If Black
+begi ns with  1 at 4, White answers  at 'b'.
+Reference.  The lifeline
+Whe n this positio n arises, Black  1 be-
+comes  the lifeline. If Black forgets  to make
+the forci ng play at 1 and simply  makes the
+open  connection at 3, White will cut at 'a'.
+Now a black  play at 1 comes  too late. Black
+is dead.
+170
+{{}{{{{{}{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{~{{~{{]{{}{{{{~}{{]{~{~~~``~~~]{{{~``{{``~]==========`\

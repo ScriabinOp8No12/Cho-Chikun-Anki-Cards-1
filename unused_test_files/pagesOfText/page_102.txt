@@ -1,0 +1,32 @@
+Failure 1. Ko
+After White 1 and  Black 2, cutti ng
+immediately at Black  3 doesn't work  Black
+goes  all out with 4 and starts  a ko fight  If
+Whit e uses 5 to extend  to 'a', Black  answers
+at 'b'  and  it's still a ko.
+Failure 2. Aliv e
+It seems  as if White should  be able to
+attach  at 1 and  kill Black,  but, after  4, Black is
+alive. Black 6 is a good answer to White 5. If
+instead  Black blocks with 6 at 'a', White kills
+him by playing  at six  and making a big  eye.
+Also, if Whit e use 5 to hane at 6, then
+Black  will live with the diagonal  play at 5
+(albeit in seki) .
+Reference 1. An ext ra liberty
+Here  Black  has one extra liberty at 'a'.
+Now,  even  if Whi te plays first, the resul t is
+no longer  certain  death for Black.
+Whit e plays 1 to 3, then  tries  5, but now
+only  gets a ko. Additionally, you  should
+verify for yourself  that,  if White begi ns with
+1 at 3, then  follo ws the proc edure of
+answeri ng Black  4 with the placement of 6,
+Black  can play  at 'b'  and  live.
+Reference 2. Ko
+Whe n Black  has an extra  liberty,  the
+correct  proc edure for White is to turn at 1.
+Black  has no choice but to block at 2 and
+answer  White's cut at 3 by going all out with
+4 to make a ko.
+87

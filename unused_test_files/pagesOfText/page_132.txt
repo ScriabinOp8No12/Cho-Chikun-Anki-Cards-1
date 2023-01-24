@@ -1,0 +1,35 @@
+Pattern 26
+White to p lay, Black d ies
+This time  a white descent at the marked
+stone has been added. This is a variatio n of
+Pattern 24, but at the end Whit e has an
+exquisite play  that  puts  an end to all of
+Black's resistan ce.
+Solution 1. Eff ective
+This  time  White 1, 3, and 5 become
+effective. After the cont inuation to White
+9, Black  10 has already been  introduced
+as a good  move  for Black This time,
+howe ver, because  of the presence  of the
+marked  white stone,  White has an even
+nicer play availa ble to him.  That move is
+show n next...
+Solution 2. Att achment
+Whit e plays the attachment at 1. After
+Black  2, White  captures  at 3. Black
+captures  a stone  by playing at the 1-1
+point  and then  White recaptures  with  5 at
+3. At that point, the marked  white stone
+filling in Black's liberties  makes its
+presence  felt, as Black  is unable  to
+squeeze  because of a shor tage of liberties.
+The position becom es a bent  four  in the
+corner.
+Failure. Ko
+If White makes the ordinary  mov e of 1,
+Black  block s at 2. White can then  fill in
+Black's  liberty with 3, and it becomes  a
+ko, but this,  of course,  isn't as good as the
+solution.
+117
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~~{}{{{~{~~`]{{{{{~`{``]{{{~{~`{{{]==========\

@@ -1,0 +1,43 @@
+Pattern 32
+Black to play and live
+The black posit ion has been reinfo rced
+with a connection at the marked  black
+stone. There is more than one way  to live.
+However, there  are also variat ions in which
+a shortage of libert ies can result in sudd en
+death,  so you  need  to be  careful.
+Solution 2. No  chinks
+The open conn ection of Black 1 gives  an
+unarguabl y living shape.  If Whit e continues
+with  'a , Black can simply  block at 'b'. Also, in
+response  to White 'c', Black 'd' makes  certain of
+two eyes, f d like you to confirm for yourself
+that descending to 'a' instead  also makes Black
+alive.
+Solution 2. De scent
+One  more  way  of living is the descent  of
+Black  1. In response  to White 2, the diagonal
+attachment  at 3 is good  and even  if White cuts
+at 4, Black  can conn ect at 5.
+Even if Whit e plays 2 at 3, Black again  makes
+a diag onal attachment, this time at 2, and is
+alive.
+Failure. Short age of liberties
+What about  the desce nt to Black  1 here?
+Whit e makes the placement at 2 and this time
+there  is troubl e. In answer to Black 3, Whit e
+cuts with  4 and after Black  secures an eye at 5,
+blocks at 6. Black's  shortage  of liberties proves
+fatal.
+Addit ionally, when  Black  makes  the open
+connection with 1 at 3, White cuts  at 4 and
+Black  is dead .
+168{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~~{{]{~{~~"``~~]{{{~``{{``~==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~~{{]{~{~~```~~]
+{{{~`` d {``~
+====κμ=1=£\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~~{{]{~{~~```~~]{{{~``5$``~====1=3@==\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~~{{]{~{~~```~~]{{{~``{$``~===^5=3@=1\
+Failure

@@ -1,0 +1,39 @@
+Pattern 25
+White to p lay and get a k o
+Black's shape is the same as in the solu-
+tion to the previous  pattern,  but White  has
+descended  all the way  to the edge, so we
+can no longer say that Black is alive just as
+he is. White should  be careful  about  the se-
+lection of his first  play.
+Solution 1. Att aching  underneath
+White attaches at 1; if Black plays 2, he hanes
+at 3. Because  of his shortage of liberties, Black
+cannot play at 5, so he makes  another  eye at 4.
+Whit e next connects at 5 and Black starts  a ko
+fight  with 6.
+If Black  uses 4 to captur e at 6, then  after
+Whit e 5 and  Black 4, White  will have  the
+opportunity  to take the  ko fi rst at 1.
+Solution 2. Whit e starts the ko
+In response  to White 1, Black can also block
+at 2, howev er, after White 3, Black has no
+choice but to play  in at 4, so White 5 to 7 pro-
+duce  a ko just like before.  Comparing  Black's
+positio n here  to the previous diagram,  if he
+wins the ko, he will have  more  territory  than
+before,  but this time  White can take the  ko first.
+Failure. Wrong order
+White also gets a ko with  1, but 1 would call
+this a failure  because, compared  to the previous
+diagram,  Black gets to tak e the ko first.
+After Black  4, if White extends  to 'a', it's
+possibl e for Black to play elsewhere,  so it
+doesn't  simply  revert to th e previous  diagra m.
+78{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~``]{{{~{~``{`]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~``%{{{~{~``{`#======4=2!6
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~``2{{{~{~``6`&======%=#!4
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~``2{{{~{~``6`!======%==#4
+Failure 1

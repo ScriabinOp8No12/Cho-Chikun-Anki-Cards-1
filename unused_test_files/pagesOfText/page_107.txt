@@ -1,0 +1,34 @@
+Pattern 8
+White to p lay, Black d ies
+The basic pattern  of the eight-space  shape
+has been comple ted, but the foot of it is still
+open. Moreov er, the fact that there is a
+shortage  of liberties problem  means that if
+White plays  first,  Black  will not be able to
+survive.
+Solution 2. Hane and connection
+With the hane  at 1 and connection at 3,
+Whit e kills the black group.  Black  descends to
+4 and it seems  as if he has enough eye-space
+to live, but there is a serious defe ct in his
+shape. White's next  play is a standard
+techn ique of life and death.
+Solution 2 Placement
+Whit e's placemen t at 1 is a strong play
+Whe n Black blocks at 2, White  cuts at 3, and,
+beca use of his shortage  of liberties, Black can-
+not atari the white stones.
+If Black makes the diagona l attachme nt at
+'a inste ad of 2, White connects underneath at
+2 and it's all over
+Failure. Resp onse to the hane
+If White doesn't know about  the placement
+at 1, Black  will be able  to survi ve. For exam-
+ple, in answer  to a white hane  at 1, Black
+blocks at 2, then,  even  if White cuts at 3, Black
+simply  captur es at 4, leaving White  with no
+way  to con tinue.
+Even  if Whit e begi ns with the placement  at
+'a', B lack play s 2 and is aliv e.
+92
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~{]{{{{{~```{]{{{~{~`{{{]==========\

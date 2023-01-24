@@ -1,0 +1,34 @@
+Pattern 9
+White to p lay and make a ko
+Black hanes have been added  to both
+sides of the black group,  making it even
+more  tenaciou s. White, if it's his turn,  will
+be successful if, rather than  uncon ditionally
+killing Black,  he g ets a ko.
+Solution. Attachment and place ment
+White should  play  the attac hment at 1.
+When Black plays  2, White's  block at 3, fol-
+lowed by Black 4 and  White  5, giv es a ko.
+Instead  of 1, a placeme nt at White 3 is also
+a vital  point Next,  with Black  2, Whit e 1 and
+Black 4, we return to the same  shape as be-
+fore.
+Failure 1. Cannot  link under
+After White 1 and Black 2, the descent  at
+White 3 aims  to kill Black unconditionally,
+but because  of the presenc e of the marked
+black stone,  it does n't work  in this shape.
+That  is, Black responds calml y at 4 and the
+two white stones can't link under. If Black
+connects at 'a' instead  of 4, then White 'b'
+kills him.
+Failure 2. An awful move
+White's throw-in at 1 cannot be called  a
+good  move. Whe n Black captures  at 2, there
+is no way  to make  a nakade inside the black
+group. I f Whit e tries 3, Black answers  at 4.
+Also, if Whit e plays 1 at 'a', Black  'b' is a
+good  move.  This sequen ce has already been
+explained in the last pattern.
+49
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~`{{{{{{~```]{{{{~~``{{]=====`====\

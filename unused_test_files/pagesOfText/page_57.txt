@@ -1,0 +1,33 @@
+Pattern 5
+White to p lay, Black d ies
+Since the last pattern, Black's hane has
+been  added  to the shape. Because  of the
+pres ence of this hane,  some of White's
+killing moves  have been elim inated.  Where
+should White  make his first play ?
+Soluti on 1. The plac ement
+In this shape,  the placement at White  1 is
+one strong  move.  When  Black plays  2,
+White extends  at 3, Black  4, White  5, Black
+6, White 7 leaves  Black dead.
+If White 1 at 2, Black  plays  the diagonal
+attachment at 3, then  Whit e extends  to 2
+and Black  is still dead.
+Solution 2. Even the hane  works
+Even the combination of the hane at
+White 1 and the vital  point  of 3 leaves Black
+dead . The likel y cont inuation is Black 4,
+White 5, and now  Black  cannot leave  out 6,
+so White throws  in at 7.
+If instead  of 4, Black  crawls to 5, White
+extend s to 4.
+Solution 3. Evasion
+After White 1, if Black dodges to 2, White
+makes the placeme nt at 3. Next  he can an-
+swer Black  4 at 5.
+In additio n to these possib ilities, if, in-
+stead of 2, Black decides to make the diago-
+nal play  at 3, White jumps in at 2 and Black
+is still dead.
+42
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{~`{}{{{{~~~`]{{{{{{~```]{{{{~{~`{{]==========\

@@ -1,0 +1,35 @@
+Pattern 17
+White to p lay, Black d ies
+This shape  is a little different from  those
+we've covered  so far.
+Black seems  to be wide  enough  to have
+no trouble  living; however, his group has a
+fatal defect
+Solution. Belly attachment
+Beca use the liberties of Black's  two stones
+have  been filled in, the belly attachme nt of
+Whit e 1 work s well . Black is forced  to connect
+at 2, and White links under  with 3. Follo wing
+this,  Black  4 to 6 are force d; even  if Black de-
+scends  to 'a' after White 7, his positi on is one
+line too na rrow to li ve.
+Failure. Giving  way
+If White plays  a hane at 1, Black  can give way
+at 2. If White  3, Black  4 easily  makes  life.
+Should  Black carelessly respond  to 2 by playi ng
+hane  at 3, W hite cuts  at 2 and  Black dies.
+Reference. Black  to live
+If it's Black's  turn, he can live by playing  vir-
+tually  anywhere,  but the hane  at Black 1 is best
+The point is that Black simply needs to defend
+against  White 'a , and since  Black 1 has mean-
+ing for the endgame, it should  give Black the
+greatest  profi t Should  White  play 'b', connect-
+ing at 'c' is, of course,  adequate.
+26{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{}~~]{{{~~~~~``]{{{~````{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{}~~&{{{~~~~~``#{{{~````2!4====ê===6=%
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{}~~]{{{~~~~~``!{{{~````{2#=========4\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{ì{}{{{{{}~~1{{{~~~~~``£{{{~````{ê]==========\
+Reference

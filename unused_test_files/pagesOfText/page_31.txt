@@ -1,0 +1,31 @@
+Pattern 12
+White to p lay and make a ko
+In this position it seems as if Black's  base
+is suffi ciently wide, but his lack of outside
+libert ies and the presence of the marked
+white stone give White an opportunity.
+Solution. Attach  at the vital point
+The attachment at White 1 is a good  move.
+Whe n Black  blocks at 2, crawl ing to 3 is an im-
+portant  play. Black has no choice but to throw
+in with 4, and  now  White  5 starts a ko fig ht.
+Being in a hurry and starting  the ko with
+Whit e 3 at 5 yields only  a one- step appro ach
+move  ko for White,  so be careful . It would also
+let Black captur e the ko first
+Reference. Bent  four in the corner
+If Black  fails to start the ko with Blac k 4 in the
+previous  diagra m, White  stretches out with 1.
+This  is not seki,  it is a bent  four  in the corner,
+and is unc onditionally dead. 
+Variation. Unconditional death
+In response  to the attachmen t of White  1,
+blocking at Black  2 is a defensive mistake.
+Whit e hanes at 3, and then  because of a short-
+age of  liberties Black  cannot block at 'a'. 
+16{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`2{{{{{~````%=====~`=#!4
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`]{{{{{~````]=====~`=~~!
+Reference
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`]{{{{{~````#=====~`=2!\
+Variation{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`]{{{{{~````]=====~`===\

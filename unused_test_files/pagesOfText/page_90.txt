@@ -1,0 +1,37 @@
+Variation 2. A stru ggle
+Conti nuing from the previous diagram,  even
+if instead of playing elsewhere, Black uses 1 to
+try to extricate  his stones  on the left side, de-
+fend ing at White 2 is good  enough. Whe n Black
+plays  3, Whit e fills in one of Black's  liberties
+with  4, so Black cannot squash  White with 'a'. If
+Black  captures  at 'b', White recaptures  and
+Black  is still dead.
+Reference 1. Tak e another look
+This  is Pattern  20 again. At the time  we didn't
+discuss  it, but what happens  here if Whit e
+makes  the placeme nt at 1? Since at the time  1
+said  'Black is alive; ' it wouldn't do for this
+Whit e 1 to give a good  result.  How  should
+Black  respond?
+Reference 2. The  same technique
+Black answers Whit e 1 with the attachme nt at
+2 and Whit e's atari  at 3 with his own  atari at 4,
+but he isn't  trying to start a ko. In this case,
+whe n Whit e captur es at 5, Black  can connect at
+6. The  seque nce cont inues in the next diagram.
+Reference 3. Living  via double ko
+From  White 7 to Black  10 is a one- way street,
+then  Black answers  White 11 by blocking at 12.
+This  is not an approach-move ko. Rather, it's a
+double  ko, so Black  is alive.
+You  should  try to dete rmine  for yoursel f
+exactly  how this  differs from Pattern  23.
+75{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~~${}{{{{{}~``{{{{{~~~``ì{{{@{~```3~=====1~```ê
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{~{~~``]{{{{{{{`{{]========!=\
+Reference 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{~{~~``]{{{{{{{`6#4========!2%
+Reference 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~(]{}{{{{{}~80{{{{~{~~``&{{{{{{Q``~`=======w~=~
+Reference 3

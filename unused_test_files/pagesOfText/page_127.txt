@@ -1,0 +1,26 @@
+Pattern 23
+White to p lay, Black d ies
+It is obvious that the gap in Black's posi-
+tion at 'a is a major weakness. For White,
+the question is how to take advantage of it;
+simpler is prob ably better
+Solution 1. D ouble hane
+The hane at Whit e 1 is sufficient If Black
+pulls back at 2, White plays another hane at 3.
+Beca use of the liberty  at 'a' you migh t not rec-
+ognize  it, but this is also a versi on of the dead
+L-shape.
+Solution 2. Black dodges
+Rega rding the position  after White's hane,
+Black can think of several  ways to defend  him-
+self. Of course , no matter  what he plays,  he
+can t avoid dying, but White needs to know all
+of the variations. For example , how  should
+White respond to Black 2?
+Failure 1. Vulgar
+Playing atari at 1 is crass. Black  conn ects at
+2 and now has managed  to get a living shape.
+White has to connect at 3, so with 4 and 6
+Black just manages  to live.
+112
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~~~~`]{{{{{~`ê``]{{{{{~`{{{]==========\

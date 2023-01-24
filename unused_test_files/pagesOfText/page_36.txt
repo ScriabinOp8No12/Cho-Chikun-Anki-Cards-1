@@ -1,0 +1,30 @@
+Failure 2. Bent four in the corne r
+Following White 1, Black 2 looks  like a
+good move,  but White  s placement  at 3 is at
+the vital point, and the continuation to 7 pro-
+duces the dead bent- four-in-the-corner  shape.
+Whit e 3 at 6 lets Black  survive by making
+eye s hape at 3.
+Reference 1. The descent
+Let's make  certai n that in the original pat-
+tern, if it's Black's turn,  he is alive. If he's care-
+less he could  end up dead, so he has to be
+careful.
+The descent to Black  1 makes the group
+alive. If Whit e 'a', Black 'b'.
+Black 1 at 'a', making  eye shape,  also makes
+the group a live.
+Reference 2. Dangerous
+Althoug h it looks  similar, the descent  to
+Black 1 is dangerous. White 2 turn s out to be
+at the vital point,  and up to White  6 this is
+once again bent  four  in the c orner.
+Even if Black descends with 3 at 5, White
+crawls at 6 and the  result is the same.
+Reference 3. No way  to live
+Here Black  has crawled one fewer space. In
+this case,  even if he plays first,  he cannot  live.
+Black 'a seems to be the vital point,  but after
+the sequence White 'b', Black  'c', and White  'd'
+the group i s dead.
+21

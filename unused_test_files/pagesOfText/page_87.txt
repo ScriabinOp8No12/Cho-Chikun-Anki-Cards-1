@@ -1,0 +1,36 @@
+Pattern 21
+White to p lay and get a k o
+This is the position  after Black  has played
+the marked stone. If this stone were  not
+pres ent, Black  would be alive, but as soon
+as he played  this extra stone, he was  no
+longer alive unconditionally. How  should
+White proceed?
+Solution 1. What 's the difference?
+The placeme nt at White 1 now  works, and
+then  has an oppo rtunity.  In response to Black 2,
+Whit e descends to 3. We examined  this se-
+quence in the prev ious pattern as well, but
+somethi ng is different The continuation after 3
+is shown in the next diag ram.
+Solution 2. Ko
+Black will throw in at 1, then  when White
+plays  2, connect at 3. But now  when  White
+starts  a ko with 4, Black can no long er plan  to
+atari  at 'a'. You  should  be able to see that the
+exchan ge of the marked  black and white stones
+has created  a shortage  of liberties, which
+prevents  Black from playi ng at 'a'.
+Solution 3. Sta rting the ko
+After White 1 to 3, it should  be noted that it's
+better  for Black  to connect at 4. This is because
+it forces White  to throw in at 5 and lets Black
+take  the ko first In the previous  diagram White
+was able  to ca ptur e the ko first.
+72{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{~{~~``]{{{{{{~`{{]========`=\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{~{~~``]{{{{{{~`{2!======#=`=\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~"]{{{{~{~~``ê{{{{{{~`3`~======~@`$1
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{~{~~``]{{{{{{~`{2!======#4`%6
+Solution 3

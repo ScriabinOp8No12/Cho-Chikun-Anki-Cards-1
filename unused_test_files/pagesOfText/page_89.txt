@@ -1,0 +1,36 @@
+Pattern 23
+White to p lay and get a k o
+Once again the position has been slightly
+modif ied. This time  the questi on is whet her
+or not Whi te can do anythi ng if he gets to
+play first With what  you'v e learned thus  far
+you probab ly realize that a simple mov e is
+not going  to be  successful.
+Solution 1. Place ment
+A straightforward play  would  be the hane
+at 'a , but then  Black  makes  open  connection
+at 1 and  lives.
+The solution is the placeme nt at 1. Whe n
+Black  attaches at 2, White  plays  atari at 3.
+However, after this Black  gets an approach -
+move ko.
+Solution 2. On e-step appr oach-move ko
+After the previous  diagram,  once Black
+connects at 1, White is forced to captur e at 2.
+Black  3 and 5 next are the right order Black
+answers  White 6 by blocking at 7, and whe n
+Whit e play s 8, Black  starts  the ko. But even
+if Black  decides  to play elsewhere and let
+Whit e play  at 'a', it's still a ko, so this is a
+one- step appr oach-move  ko.
+Variation 1. C onnection
+In response  to White 1, lets look  at what
+happens  if Black connects at 2. White s only
+choice is to extend to 3. Black  continues by
+expanding his base with 4 and 6, but White
+7 to 9 make this  a dead s hape.
+Since there  is still one aspect of this shape
+which is unclear,  lets investigate it a little
+further
+74
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{{~~~``]{{{~{~``{{]==========\

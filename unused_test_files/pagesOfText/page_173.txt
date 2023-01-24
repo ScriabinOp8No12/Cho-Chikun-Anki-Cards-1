@@ -1,0 +1,35 @@
+Pattern 24
+Black to play and live
+This is a relatively  easy class of life and
+death  problems,  but if you don't  exercise
+some caution with the first move, the large
+numbe r of variat ions might  make you feel
+as if you're  lost in a maze.
+Solution 1. Op en connection
+The open connection at Black  1 is the vital
+point  for making  eye shape. As long as you
+know  this move,  there  is noth ing particul arly
+difficult which follows. In answer to White's
+diagona l move at 2, Black defends at 3 and very
+efficiently makes two  eyes. The role of the
+marked bla ck stone is particu larly impor tant.
+Solution 2. Whit e's attachment
+White can't  hope  to achieve anyth ing unless
+he attaches  with  2, but Black  counters  with 3.
+Whit e ataris  at 4, but Black  gets two eyes  with
+5.
+Failure 1. Turning
+If Black could turn at 1 and live, then  there
+would n't be any problem  here, but White
+makes  the placeme nt at 2 and Black  cannot
+make  two eyes. Black tries  to expa nd his eye
+shape  to the maximum  extent  with Black 3 and
+5, but White responds  with 6 and 8 and it
+doesn't  work.
+158{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~{``~`{{{{{{{{{`]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~{``~"{{{{{{@3{`]========1=\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~{``~`{{{{{{{{{`]==========\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~7``~`{{{{$3^1{`]=====5==@=\
+Failure 1

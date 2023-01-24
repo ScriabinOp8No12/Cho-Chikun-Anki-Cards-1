@@ -1,0 +1,38 @@
+Pattern 24
+Black to play and live
+Those of you who are familiar with this
+shape shouldn 't have any particular prob-
+lem with this pattern. If you're not, there  are
+a number  of possibilities for the first move ,
+and finding the right answer may be sur-
+prisingly difficult.
+Solution. Turning
+Turni ng at Black  1 is correct  White 2 is at the
+vital point for eye shape, but Black can simply
+block at 3. When White hanes at 'a , for an
+insta nt it looks  as if he's going to be able to link
+underneath;  however, Black 'b' is good  enough.
+Don't  get rattled and use Black  3 to connect at
+'b'. Also, if White plays a hane  at 'a' instead  of 2,
+then  Black  plays  2.
+Failure 1. It 's alive, but...
+It does n't look as if Black  should  have  any
+problems  if he begins with the open  connection
+at 1, but  this  move  has a defect.
+White's hane at 2 is a bit hasty, since Black
+will play  3 and live. Instead  of 2, take a look  at
+Whit e's response in the next diagram.
+Failure 2. Ko
+After Black  1, White's  placement  at 2 is a
+good  move . If Black answers at 3, White
+connects to the outsi de with  4 and after  this is
+left with a throw-in at 6 to make a ko. Let's  just
+say that in playi ng the open  connection at 1,
+Black  misread the peculiarities of the corner.
+76{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~``]{{{~{~``{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~``]{{{~{~``ì1]======ê=@3\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~``]{{{~{~``{3]======@=1=\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~``${{{~{~``{3@======5=1^7
+Failure 2

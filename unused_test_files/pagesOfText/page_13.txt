@@ -1,0 +1,23 @@
+Explanat ory Notes for Us-
+ing this Book
+The captio ns for the diagram explanations provide an indication of
+the likely solution.
+Four  different titles are used  for the diagrams:  Solution, Failure,
+Variatio n, and Refe rence.
+When there is more than  one possible 'correct'  solutio n, they will ap-
+pear as Solution 1, Solution 2, etc. (Note:  The first solutio n is usually
+slightly bette r based on such things as its impact  on the surrounding
+territory.)
+In the diagrams labeled 'Failure' the side with sente (first move)  has
+made a mistake. 
+14{{{{{{{{{{{]{{}{{{{{}{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{{{{{{{]{{{{{~{{~{{]{{}{{{{~}{{]{~{~~~``~~~]{{{~``{{``~]==========`\
+(170){{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{{~~~]{{~{~~```{]{{{{{{{{{`]==========\
+(163)
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{~~~{]{~{~~~``{~]{{{~``{{``~==========\
+(167){{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{~{~{]{}{{~{~}~{]{{{{{~```{]{{{{{{{{{{]==========\
+(164)
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{~~~{{]{~{~~```~~]{{{~``{{``~==========\
+(168){{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~~{{]{~{~~~``~~]{{{~``{{``~==========\
+(166)
+{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{~{]{}{{{{{~{{]{~{~~~``~~]{{{~``{{``~==========\
+(169)

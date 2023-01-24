@@ -1,0 +1,39 @@
+Pattern 5
+Black is alive
+There are no defects  in Black's perimeter
+wall. He is affected somewhat by a shortage
+of liberties, but even  if it's White's turn  to
+play he cannot kill the black group. The best
+possible attac k only  produces  a seki.
+Variation 1. Seki
+There  seem to be a few vital points and
+Whit e 1 is at one of them.  Black must  answe r
+without  fail by jumping  to 2, then  answer 3 by
+connecti ng und erneath at 4. U p to 6 is  a seki.
+If Black  plays  4 at 5 instead, White  will block
+at 4 and get the dangerous ten thousand-year
+ko.
+Failure. Defensive error
+Defend ing against White 1 by blocking at 2 is
+also dangerous.  White  will hane at 3, and, sure
+enough,  has now created  some  ko aji. If it is
+now  White's move , he can play 'a' and 'b' to
+start  a ko; even if Black plays  atari at 'c' before
+Whit e 'a', White  connects at 'd' and the play
+what  'd' remains.
+Variation 2. The  2-1 point
+White 1 here  is also one of the vital points.
+Black  has to respond  at 2, and with 3 and 5
+Whit e makes an eye for himse lf in the corner,
+making  this also a seki. Note,  howe ver, that in
+this case, it's a gote seki  for Whit e.
+If Black bumps  into White at 'a' instead  of 2,
+Whit e will hane at 2, giving the same result as
+in the previous diagram.
+88{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{{{]=====~`===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{!#%=====~`=42\
+Variation 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`£!2ì=====~`ê‹#\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~`````{{{{{~`{2{%=====~`4#!\
+Variation 2

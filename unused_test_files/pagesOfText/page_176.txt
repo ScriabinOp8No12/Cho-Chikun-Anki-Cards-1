@@ -1,0 +1,37 @@
+Pattern 26
+Black to play and live
+You  first  need to determ ine whet her or
+not you can live by simply  securing the base
+that you have.  If this won't  allow you to
+live, then  you have no choice but to search
+out th e vital  point for making  eye sha pe.
+Solution. Ope n connection
+With the open connection at 1, Black  very
+efficiently acquires two eyes.  As far as the eye
+in the corner is concerned, take  a good  look  at
+how  effectively the marked black stone  is
+worki ng.
+Failure 1. The  place ment technique
+The conn ection at Black  1 secures the base of
+the black group,  but because  of the shor tage of
+liberti es of the four  black stones,  it invites
+Whit e 2. After Black 3, White  can cut at 4 and
+Black  cannot atari.
+If White plays  a hane  with  2 at 3, Black lives
+with  Black 2, Wh ite 4, an d Black  'a'.
+Failure 2. Ko
+The descent  to Black  1 also expands  Black's
+base,  but after  White  throws in with  2, there  is
+no way  for Blac k to li ve. The open  connection at
+Black  3 is his best response  and the moves  to 6
+produces  a ko.
+In addition, playing Black 1 at 'a' is also met
+by White 2, with  Black 'b' up to Whit e 6
+resulti ng in a ko.
+161{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{{~```~`{{{~{~`{{`]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{{~```~"{{{~{~`{{`]========1=\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{{~```~`{{{~{~`{$`1=====ê3@==\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~${{{{{~```~`{{{~{~`5ì`@======1ê3^\
+Failure 2

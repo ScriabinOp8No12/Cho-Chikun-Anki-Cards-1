@@ -1,0 +1,33 @@
+Pattern 27
+White to p lay, Black d ies
+Simply think about  this shape as if Black
+had just played  the stone on the 2-2 point  to
+get life. If you stay calm and don't  get flus-
+tered, you'll be able to figure  out how to
+make this  into  a dead s hape.
+Solution. Descent
+Descendi ng to 1 is good enough . Black's
+open  connection at 2 is the key point for
+making eye shape,  but after  White 3 and
+Black  4, the diagonal move  at White 5
+becomes  a good  move.  In answer to Black 6,
+Whit e can turn  in at 7. The shortage of
+liberti es of the three  black  stones  proves  to
+be fatal.
+Failure 1. D oing Black a favor
+The hane  of Whit e 1 is an overplay This
+makes  Black's original play on the 2-2 point
+into a good  move . The open  conn ection of
+Whit e 3 is the only  follo w-up. Afte r Black  6,
+a ko follo ws with  White 'a'. If instead of 3,
+Whit e conne cts tigh tly at b',  he can't  even get
+this ko.
+Failure 2. Turning
+White 1 is also looks strong,  but Black an-
+swers  with  a hane at 2 and a desc ent to 4, a
+shape  which cannot  be killed
+unco nditionally. As we saw in the very  first
+pattern  of this section, the best White can do
+now  is atta ch at 'a' to get a ko.
+162
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```{]{{{{{{{{{`]==========\

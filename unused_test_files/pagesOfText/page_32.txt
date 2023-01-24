@@ -1,0 +1,35 @@
+Failure 1. Approach -move ko
+White's attachment at 1 is also a possibility,
+but it is not the best way  Afte r Black 2 and
+Whit e 3, Black  starts  the ko fight with 4. Unfor-
+tunately,  in this positio n, after winning the ko
+Whit e will still have  to craw l at 'a' in order to
+start  a real ko for the life of the group.  In other
+words,  it's an appr oach-move  ko. 
+Failure 2. Vulgar
+The worst  possible play is pushi ng with  !.
+Needless  to say, Black  lives easily  with 2. 
+Play ing this way totally  wastes  the value  of
+the marked whit e stone.
+ 
+Bent Four in the Corner (1)
+Why has the position  Bent Four  in the Corner'
+been declared,  by rule,  to be unconditionally
+dead?
+Diagram 1: In this positio n, if neither Black nor
+Whit e makes a move,  it will be a seki; however,
+there is room  for White , begi nning with  Whit e
+1, to attempt  to capture  the black group.  The
+result of that attempt  is seen in Diagram  2. 
+Diagram 2: As shown, the attempt  ends  in a ko,
+but the fact that White can wait to take these
+steps at a time of his own  choosi ng is an im-
+portant point  Before begi nning the ko, White
+can eliminate all of Black's poss ible ko threats,
+making it certain that White will win the ko.
+This is why such  a group is ruled dead. (See  page 19. )
+17
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`2{{{{{~````!=====~`=ê#4
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~~{{{{{~~~~`!{{{{{~````2=====~`===\
+Failure 2

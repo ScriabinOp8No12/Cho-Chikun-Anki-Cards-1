@@ -1,0 +1,30 @@
+Solution 3. Anoth er possibility
+Instead  of 5 in the previous  diagram,
+Whit e could  also turn at 1 here. Since  Black
+will die if White  conti nues at 2, he must
+throw  in at 2 himself, with a ko as the result
+Of course,  in the event that Whit e wins the
+ko fight, the aji of the previous diagram  is
+better  for him.
+Solution 4. The  third poss ibility
+The  third  method  is the placeme nt at
+Whit e 1. Black must attach at 2, then  White 3,
+Black  4 yield a ko. Aft er White 5, if  Black con-
+nects  at 'a', White either cuts at 'b' or connects
+at 'c', aiming  at a five-space  big eye. In either
+case,  it continues to b e a ko.
+Reference 1. Two  routes
+Black  has an extra liberty  at 'a'. Despite
+this,  if it's his turn  to play White can still
+force  a ko, but of the three  ways  to make a ko
+show n so far, only  two still work  Whi ch one
+do you thin k no longer  works?
+Reference 2. Aliv e
+The white placeme nt at 1 no longer pro-
+duces  a ko. This  is because , after Black 2 and
+Whit e 3, Black can now play  at 4, then  de-
+scend  to 6. In response  to Whit e 7, Black
+plays  atari at 8 and is alive. When  the liberty
+at 'a' is filled in, White  responds  to 6 at 'b',
+then  Blac k 'c' and  White 7 pro duce a ko.
+95

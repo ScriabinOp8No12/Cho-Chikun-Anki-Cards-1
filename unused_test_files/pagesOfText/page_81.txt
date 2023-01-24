@@ -1,0 +1,38 @@
+Pattern 18
+White to p lay, Black d ies
+Here  we're  going to deal with one of the
+variations of the previous pattern  indepen-
+dently.  If it's White's turn to play, then
+Black is dead . Starting  a ko is the most vul-
+gar play  possibl e.
+Solution 1. On e-space jump
+White s one- space jump  to 1 is clever If you
+don't  learn this move,  you cannot capture  the
+group  unconditionally. Whe n Black plays 2,
+Whit e jumps to 3 and in response  to Black  4,
+Whit e plays a hane at 5. This  is not a ko; Black
+is dead.
+I hope  you can appreci ate the role Whi te 1 is
+playi ng in this  positio n.
+Solution 2. Place ment at the vital point
+If, in response  to White 1, Black  descends to
+2, White 3 is the vital  point Whe n Black tries  to
+make  an eye with 4, White  5 is a calm  response .
+Since 'a and 'b' are now  miai, 'c' will not become
+an eye for  Black
+Further,  instead  of Black 4 —
+Solution 3. Bagging  your catch
+Play ing a hane at 1 is a stubborn  play, but
+with  the strong  moves  of White 2 and 4, Whit e
+will be able to comple te his capture.  Black has
+no choice but to connect at 5, so pushing in at 6
+is good e nough.
+Should White block with 2 at 'a', Black  can
+make an  eye at 2 and  persevere  with a ko.
+66{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~{]{{{{{~~``{]{{{~{~`{`{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~{!{{{{{~~``{]{{{~{~`{`4#=======2=%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~{!{{{{{~~``2]{{{~{~`£`{]=====%ê4ì#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~{~{{{{{~~```^{{{~{~`5`{]=====13@$~\
+Solution 3

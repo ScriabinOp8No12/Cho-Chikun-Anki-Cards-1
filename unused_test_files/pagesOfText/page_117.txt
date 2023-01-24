@@ -1,0 +1,35 @@
+Pattern 15
+White to p lay, Black d ies
+White's attack  is the same  as in several  of
+the previous  patterns.
+However, I'd also like to examine  the ef-
+fect of changes  in White' s encircling forma-
+tion on this  position .
+Solution 1. Ha ne and place ment
+Here,  too, the hane followed by a placement
+is the correct technique. After Black 4, Whit e's
+descent  at 5 is also a play that you'v e learn ed
+previous ly. When Black plays 6, White has the
+throw- in at 7, which ruins Black's eye on the
+left
+Even if Black  plays  4 at 'a, White's descent at
+5 is good enough.
+Solution 2. Sa me thing
+Even if Black tries the thrust  at 4, he has no
+answer  to White 's descent at 5. If he conti nues
+with  Black  'a', Whit e answers at 'b'; if instead he
+perseveres  with  'c', White can atari  at 'd'.
+Solution 3. Un related
+After White 1 to 3, what  if Black first tries  to
+extricate  himse lf by capturing  at 4? White
+simply  defend s at 5 and Black's  captur e at 4 is
+not going to be of any assistan ce in living. You
+should  understan d this aspect of this shape
+thorough ly.
+102{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~```]{{{~{~`{{{]=======`==\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~```!{{{~{~`&ê42=====%=`6#\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~```!{{{~{~`ì‹ê2=====%£`4#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{%]{{{{{{{{{{]{}{{{{{~~~4{{{{{~~```!{{{~{~`{{{2=======`=#\
+Solution 3

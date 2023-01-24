@@ -1,0 +1,33 @@
+Pattern 14
+White to p lay, Black d ies
+The lowe r edge of Black's  shape is not
+clearl y defined.  The problem is how  to set-
+tle things  in that area.  You should  use what
+you have  learned  thus far to solve  the prob-
+lem.
+Solution 1. De scent
+There's  no reason  to think of somethi ng com-
+plicated.  Whit e's desc ent at 1 leads  Black  into a
+dead  shape.  If Black blocks at 2, White simply
+plays  a hane  at 3.
+Solution 2. Ret reat
+In response  to White 1, Black's retreat to 2
+may  be the most troublesome  move for Whit e.
+However, the vital point is readily appa rent,
+and White 's placement at 3 kills Black.  If Black
+plays  at 4, White 5 and 7 narrow Black's eye
+space  and  9 kills the group.
+If Black  play s 4 at 9, White answers  at 6.
+Failure 1. Care lessness
+After White 1 and Black 2, the hane  at White
+3 is careless. Black's  step down  to 4 is a good
+move,  so he lives. After this,  even  if White at-
+taches  at 'a', the sequence Black 'b', White's',
+Black  'd' lets  Blac k live.
+58{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{~~~{]{{{{~{~``{]{{{{{~``{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{~~~!]{{{{~{~``2]{{{{{~``{{]======#===\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{~~~!]{{{{~{~``4%{{{{{~``{26======&8#(\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{~~~!]{{{{~{~``£ì{{{{{~``{2ê======#=4=‹
+Failure 1

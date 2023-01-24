@@ -1,0 +1,29 @@
+Pattern 2
+White to p lay, Black d ies
+White has play ed at the corner  of this 'six-
+space eye' group.  What  difference does  this
+make?  Also, pay attention to the status of
+the outside  liberties.
+Solution. Belly attachment
+White 1 again turns  out to be success ful.
+Black has to conne ct at 2, and White's
+descent to 3 produces  a dead s hape.
+Atta ching at 3 instead  of Black  2 makes
+no difference. White cuts  at 2 and it's all
+over.
+Failure 1. Ko
+The placemen t at White 1 is also at a vital
+point When  Black  attaches  with 2, White's
+block at 3 produce s a ko.
+If Black uses 4 to connect at 'a', a white
+play at 4 kil ls him.
+Failure 2. Starting the ko
+This is a variation of the last diagram.  If
+White decides to throw in at 3 instead of
+blocking on the outside,  it becomes  Blacks
+turn  to take the ko first rather than  White's.
+This  is a loss for White.
+In either case, making  a ko in this
+situation is a failure for White.
+36
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{{}~~~{{{{{{~~```{{{{{{~`{{]=======`==\

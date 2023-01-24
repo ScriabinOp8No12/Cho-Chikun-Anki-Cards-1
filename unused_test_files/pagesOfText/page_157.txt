@@ -1,0 +1,30 @@
+Pattern 12
+White to p lay and make a ko
+On the left, White has played  down to the
+edge of the board and the position has be-
+com e somewha t intricate. Howe ver, there  is
+only  one vital point  If Whit e plays  there, a
+ko natural ly follows.
+Solution 1. Placement
+As shown in the diagram, the placement
+at White 1 is the vital point  If Black conn ects
+at 2, White cuts at 3. When Black  plays atari
+at 4, Black goes  all out w ith 5 and  gets a ko.
+Whit e's attaching with 3 at 5, trying to
+connect  underneath,  ends in failure  after
+Black conne cts at 3.
+Solution 2. Connectin g on the opposite side
+In response  to White 1, Black  can also use
+2 to connect on this side. As before,  White
+cuts at 3 and answers  Black's  atari at 4 with
+a hane at 5 to make a  ko.
+Additionally, Black's  effort to live uncon-
+ditionally instead  of taking the ko with 6 is
+shown in the following diagrams.
+Variation 1. Captur ing four stones
+Rather than playing a ko, Black  plays
+atari at 1. White  connects at 2 and Black
+captur es four ston es with 3, but is he really
+alive? Consider the next  diagram.
+142
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{~~~```~]{{{~``{{{``===~======\

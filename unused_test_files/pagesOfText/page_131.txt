@@ -1,0 +1,37 @@
+Pattern 25
+White to p lay, Black d ies
+Using the previous  pattern  as a starting
+point, in response to Whit e's hane Black  de-
+fend ed by jumpin g down with the marked
+stone. Since the variations are interesting,
+they  are being dealt  with separately  Be care-
+ful not to make a mistake and fall into the
+trap.
+Solution 1. Turn  upward s
+In this position, starting with  the hane at 1 is
+important  After Black  2, White  connects at 3
+and Black  doesn't  have enough  room  to make
+two eyes.
+If White plays  1 at 'a', Black will block at 3
+and live.
+Solution 2. Black  can't make two eyes
+If Black  play s 2, it looks  as if he's going to
+live, but pushi ng once  at 3, then playing a hane
+at 5 is good enough. Next,  if Black  conne cts at
+'a', Whit e does likew ise at 'b'. It's tricky,  but
+Black  can't capture  the Whit e stones  by creati ng
+a shortage  of liberties.
+Failure. On the contr ary...
+You might  think that extend ing to White 1 is
+the standard mov e, but, on the contrary  it just
+gives  Black a chance to fight for surviv al. Next,
+making  a notch  with 2 is a good response. Afte r
+Whit e 3, Black  descends to 4, inviting Whit e to
+play  5; Black 6 ca ptur es two of the white stones.
+116{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~{~~`]{{{{{~`{``]{{{~{~`{{{]======~==`\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~{~~`]{{{{{~`2``]{{{~{~`!{{ê======~#=`\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~{~~`%{{{{{~`ê``]{{{~{~`!#42======~ì=`\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{~{~~`4{{{{{~`{``]{{{~{~`6#%2======~!=`\
+Failure

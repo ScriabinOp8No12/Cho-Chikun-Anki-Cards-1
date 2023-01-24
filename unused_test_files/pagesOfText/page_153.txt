@@ -1,0 +1,33 @@
+Pattern 10
+White to p lay, Black d ies
+There is a defe ct on the left side of Black's
+shape.  How should  White punis h him for
+this? Keep  your  eye on the shortage  of liber-
+ties of the three stones formi ng the roof  of
+Black's positio n.
+Solution 1. The  center  of three stones.
+As it says in the proverb,  'the center of three
+stones  is the vital  point;  so the placement  at
+Whit e 1 is a good  move . After Black 2, craw ling
+at White 3 is inten ded to lead Black into a
+shortage  of liberties. After Black  4, Wh ite cuts  at
+5 and  Black  can't atari  on the white stones  on ei-
+ther side.  This is a beauti ful sequen ce.
+Solution 2. The  open connection
+In answer  to White  1, if Black  makes the open
+connection at 2, White  cuts deci sively at 3. Once
+again,  because  of a shor tage of liberties, there is
+noth ing Black  can do.
+Failure 1. A vulga r move
+Cutti ng at 1 is vulgar. After Black 2 and
+Whit e 3, Black descends  to 4 a nd is alive.
+If Black hurriedly tries to make eye shape  by
+playi ng 4 at 'a', then  White throws in at 4 and
+gets a ko.
+138{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`2{%``=====4#!==\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{{#``======2!==\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`!2{``=====#=4ê=\
+Failure 1

@@ -1,0 +1,35 @@
+Failure 1. The  genuin e article
+The hane of White 1 is totally unima ginative.
+Black  descends to 2, yielding a perfect exam ple
+of the comb  formation, so he's alive. After this,
+even  if White  tries to get a big eye, 'a' and 'b'
+become  miai, so Black  lives.
+Failure 2. Two- step ko
+What about  beginning by cutting inside with
+Whit e 1? At first this looks like a tesuji, but it's a
+little too tricky.  After Black 2, Whit e can try the
+maneuver  of playing atari at 3, but the ko fight
+resulti ng from  Whit e 5, Black 6 is not a real ko,
+but a two- step ko instead. This  is, of course, not
+as good as getting  a direct  ko.
+Whose  turn to start the ko
+In the problem in Diagram 1, suppose  it's
+White's turn  to play The solutio n is, of course,
+a ko.
+Is it good  enoug h for White to simply  play  1
+and let Black  take the ko at 2? It certain ly is a
+ko, but there is a problem  with this. Strictly
+speaking, White must play  the sequence of
+White 1 to 3 in Diagram 2 This  is beca use, as
+you  must have noticed, it now becom es
+White's turn  to take the ko first
+Should  Diagram 1 be cons idered  a correct
+solution? There is no rule for this in life and
+death  problems,  but even  if we do decide  to
+call it a solution, you should remember that it
+is not as good as the result  in Diagram 2.
+127
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{ê{`!=====`=ì=2\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{2!`%=====`==4#6
+Failure 2

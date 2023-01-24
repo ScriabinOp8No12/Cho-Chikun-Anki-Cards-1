@@ -1,0 +1,35 @@
+Pattern 20
+White to p lay and make a ko
+This is very similar to the preceding  pat-
+tern, except that Black has an extra  liberty at
+'a'. Even so, if you take advantage of the
+pow er of the vital point,  there is room  here
+to force  a ko.
+Solution. The cut
+White 1 is still the vital point  After Black  2,
+this time White has the cutti ng tesuji  at 3. Black
+4 is answe red by a white hane at 5, produc ing a
+ko aimed  at creati ng the four- space big eye.
+Even if Black  descends with 2 at 'a', White  'b',
+Black  2, and White  3 produce  the same ko.
+Variation. Trapping Black
+After White 1 to 3, Black 4 provides the
+strongest  resistan ce, but White 5 and 7 are well-
+timed.  White  is just able to trap Black in a
+shortage  of liberties.
+If Black plays  atari with  6 at 'a', Whit e
+connects at 6 and,  even  if Black  is allowed to
+capture  one stone,  it makes only  a false  eye.
+Failure. Seki
+After White 1 and Black  2, you might  want to
+attach  at 3, but connecting at Black  4 hits the
+vital point Even if White plays 5 and 7 aiming
+at a three-space  big eye, Black connects on the
+perimeter  and  all White gets is a seki.
+152{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~ê~~~~]{{{{~`{``~]{{~{~`{{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~{~~~~]{{{{~`ì``~]{{~{~`24#``=====ê=!6%\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~{~~~~]{{{{~`&``~]{{~{~`2{#``=====%6!=4\
+Variation
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~{~~~~]{{{{~`8``~]{{~{~`2{4``=====%6!&#\
+Failure

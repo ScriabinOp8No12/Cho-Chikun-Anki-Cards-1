@@ -1,0 +1,36 @@
+Pattern 12
+White to p lay, Black d ies
+This is an incomplete eight-space eye
+shape.  The question is whether  White can
+simply attack  in an ordina ry manner  from
+the outside.  If ko is to be considered a fail-
+ure, you probabl y ought to give  the first
+move  some  carefu l considerat ion.
+Solution 1. Place ment
+The placement at White 1 is the vital point  of
+this shape.  After Black  2, crawl ing once with 3
+is good,  and in response  to Black  4, White
+should  block  at 5. Now, when  Black  play s 6,
+capturi ng at 7 prevents  Black from making two
+eyes.
+If Black  uses 6 to conn ect at 7, White de-
+scends  to 6.
+Solution 2. Lined  up
+If Black answe rs White by descending to 2,
+calm ly lining up his stones  at 3 is a cool re-
+sponse.  When  Black  connects at 4, Whit e blocks
+at 5. Now  'a' a nd 'b' are miai,  so Black  is dead.
+If White cuts with 3 at 4, Black 3, Whit e 'b',
+and Black 'c' produce a ko.
+Failure. Ko
+White's descent  to 1 is an ordinary  attack  in
+this position, but as you'v e already seen in Pat-
+tern 10, when  Black blocks at 2, the result  of the
+cont inuation is a ko.
+97{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~{]{{{{{~~``{]{{{{{~`{{{]======`===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~6]{{{{{~~``{]{{{{{~`&24]=====%`=!#\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~%]{{{{{~~``2ê{{{{{~`4{ì£======`=!#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{~~!]{{{{{~~``2]{{{{{~`{{{]======`===\
+Failure

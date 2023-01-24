@@ -1,0 +1,37 @@
+Failure 2. Ko
+Black has no choice but to throw in at 5 and
+ends  up w ith a ko. 
+Now,  just for the sake of clarity, the presence
+of the marked white stone does  have an impact
+on the life or death  of the black group.  To see
+what  would  happen  if this stone were  not
+present,  see the  next diagram.
+Reference 1. Sque eze play
+After the prev ious diagram,  Black captur es at
+1. If White is forced  to play  a defensive move  at
+2, then  Black, who  still has an unfilled liberty
+on the outs ide, can aim at a squeeze  play  with
+Black  3. 
+In either case, howe ver, living as in Solutio n
+2 must be  consi dered  a loss . 
+Solution 3. A lo ss
+Black 1, at the vital point  for making eye
+shape,  is a tight  way of living. Black no longer
+need  be concer ned about  living, but compared
+to Solutio n 1, he has suffered  as much  as a two-
+point  loss. 
+Reference 2. Whi te to play Black dies
+Just as a referen ce, should  Black play  else-
+where  in the original diag ram, so that White
+gets to make the first move here,  natural ly there
+is no way  for him to live. Whit e narrows  Black's
+eye space with 1 and 3, then  plays inside at 5.
+Black  is clearly dead. 
+15{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~]{{{{{~~~~``{{{'{~````^=====~`==~5
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~]{{{{{~~~~``{{{@{~````~=====1~`3~\
+Reference 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~]{{{{{~~~~`]{{{~{~````]=========1\
+Solution 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}{~]{{{{{~~~~`!{{{~{~````2======#4=%\
+Reference 2

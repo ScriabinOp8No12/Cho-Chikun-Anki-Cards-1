@@ -1,0 +1,36 @@
+Pattern 19
+White to p lay, Black d ies
+As you can see, the position  is thin,  but if
+you  don't  give  it careful  cons iderat ion,
+Black will be able  to live. It's a matter of
+where to put the f irst stone,  but there  is on ly
+one vita l point.
+Solution 1. Place ment
+White's placeme nt at 1 is the vital point in
+this  case. Black  2, stopping  White from
+connecting to the outs ide, is his only  response,
+but the hane  at 3 and attack  on Black's  shorta ge
+of liberties with 5 are clev er.
+Solution 2. Cro ssing under
+If Black answers  White 1 with the open
+connection at 2, White  crosses under at 3 and
+it's all over.
+Anot her possibility, Black 2 at 'a', is also
+answered  by White  3. In the same manner, if
+Black  plays  2 at 3, White  pushes  in at 'a' and
+Black  dies.
+At any rate, White 1 is a magnificent vital
+point.1
+Failure 1. H ane
+Is beginning with the hane at White 1 so bad?
+If Black turn s at 2, Whit e makes the placeme nt
+at 3, wh ich reverts  to Solutio n 1.
+White 1, howe ver, is badly timed.  Black  has a
+better  way  of defe nding than  this.
+150{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~`{``~]{{{{~`{{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~`%``~]{{{{~`2{{``=====#4!==\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~`ê``~]{{{{~`{{{``=====#=!2=\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~`{``~]{{{{~`2{{``=====!=#==\
+Failuire 1

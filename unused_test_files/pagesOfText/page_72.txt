@@ -1,0 +1,31 @@
+Failure 1. Shor tage of liberties
+What about  playing at the  other 2- 1 point?
+White has the push  at 2 and placeme nt at 4.
+At this point, Black  would  like to continue by
+securin g an eye at 'a' but can't  beca use the two
+black stones  on the opposite  side  are short  of
+liberti es; if White cuts  at 'b',  Black is dead.
+Failure 2. Connecti ng
+How about conne cting calml y at Black  1? Un-
+fortunatel y, in this position, Black is dead  after
+Whit e's hane at 2. Conti nuing, if Black 'a', White
+'b'; if instead Black 'c, White  'd'. In either case,
+the marked bla ck ston e is useless.
+Reference 1. The  liberty is filled in
+This  diagram  differs from  the basic pattern  in
+that  Black's liberty  has been filled in by the
+marked  white stone.  For this reason,  Black is
+dead; there  is no way  for him  to li ve.
+Reference 2. The  cut is successful
+Black tries the diagonal play at 1, but White
+plays  at 2 and 4. When Black  plays 5, White' s
+cut at 6 is  success ful.
+Play ing White 2 direc tly at 4 also kills Blac k.
+57{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`]{{{{{{~`@`]{{{{~{~`3ì$======`ê=1\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`@{{{{{{~`1`]{{{{~{~`{£ì======"=‹ê\
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~'~`]{{{{{{~`{`]{{{{~{~`{{]======`===\
+Reference 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`5{{{{{{~`@`]{{{{~{~`3^1======`==$\
+Reference 2

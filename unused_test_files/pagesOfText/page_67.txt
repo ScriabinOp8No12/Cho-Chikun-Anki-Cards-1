@@ -1,0 +1,29 @@
+Pattern 11
+Black is alive
+Legs  have  been  added to the base on both
+sides of the original L-shape. This shape  is
+alive, even if White plays  first This is an im-
+portant  area of fundame ntal knowho w, so
+let's investi gate it briefl y.
+Variation 1. Corr ect response
+Lets take a look  at a num ber of possibl e
+avenues  for Whit e on his turn.  First is the
+hane at 1. In response,  the jump to Black 2 is
+correct After this, the vital  point  has to be at
+'a', b ut this is easi ly answered by Black 'b'.
+Variation 2. Alive,  but...
+In response  to White s hane at 1, Black
+can also live by turni ng at 2 However,
+Whit e has the placeme nt at 3, so it's a little
+complicated.  At White 5, Black desc ends to
+6. Up to White 7 is a seki.  Of course,  if Black
+is alive  in both  cases, then  having territory ,
+as in the previous  diag ram, is better.
+Variation 3. Hane on the opposite side
+Wha t about if White plays  a hane on the
+opposi te side? In this case, Black's turn at 2
+is a straight  forward way  to live. The only
+remaining vital point  is the placement at 3,
+but Black  blocks at 4 and has no probl ems.
+52
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{~~~`]{{{{~{~```]{{{{{~``{{]==========\

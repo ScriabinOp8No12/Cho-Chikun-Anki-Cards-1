@@ -1,0 +1,35 @@
+Pattern 3
+White to p lay, Black d ies
+A white descent  to the edge of the board
+has been added  to the left side of the black
+group.  This descent  is powerfu l, so if White
+attacks  persistentl y at the vital point, Black
+will die. The quest ion is how to make  use of
+the descent.
+Solution 1. Turning
+Turning at White  1, then answering Black  2
+by strikin g at the vital point for making  eye
+shape is good.  Since  Black  must answer  at 4,
+White narrows  Black's base  with 5 and plays
+hane at 7. In this position Black  cannot play at
+'a' and he still has a cutti ng point  at b', so it
+isn't a seki.  It's the dead thr ee-space  big eye.
+Solution 2. Weak poin t
+After White 1 to 3, Black 4 is the vital point,
+but White still has the strong  move at 5. When
+Black block s at 6, White connects at 7 and once
+again, because  of his weak  point  at 'a', Black
+cannot  survi ve.
+Failure 1. Unconditionally alive
+After White 1 and Black 2, Whit e 3 is the
+wrong direct ion. Black  can play  the coun te-
+ratari at 4 and sacri fice one stone  with 6 and 8.
+Since he can't  even  make a ko, this is a terribl e
+mistake for White.
+84{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````]{{{{{~`{{{]=====~====\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````%{{{{{~`ì#46=====~!2ê&\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````6{{{{{~`ê#&%=====~!2=4\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````]{{{{{~`%6{8=====~!2#4\
+Failure 1

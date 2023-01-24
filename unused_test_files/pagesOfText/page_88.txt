@@ -1,0 +1,40 @@
+Pattern 22
+Black to play and live
+This shape  looks similar, but there  are
+some differences. You  can imag ine that
+White has just played  a hane  on the left
+side. Try to read  out the order  of Black's
+move s all the way  to th e end.
+Solution 1. The  same move
+Black doesn't  really have any other  choice but
+to begi n with the open  conn ection at 1. The
+quest ion is, what  happens  after White makes
+the placeme nt at 2?
+In response  to Black  3, White will conn ect at
+the bottom  with 4 and then  after Black  5, push
+in at 6, but is Black  really  alive? Conti nuing in
+the next  diagram —
+Solution 2. Recaptu re
+Black mus t not connect to the right of the two
+stones.  Instead  he should simply  captur e a
+singl e stone at 1. Then, when White captur es at
+2, notice that Black  can recapture  with 3 to the
+left of 2. It's because of the possibility of this
+recapture  that  Blac k is aliv e.
+Should Black  conne ct at 2, White  will start a
+ko by  captur ing at 'a'.
+Failure. Tight  connect ion
+Connec ting at 1 mak es the black shape too
+simple.  Once White plays the hane at 2 there  is
+no way  for Black  to live. To continue, if Black
+'a', Whit e 'b'.
+In most  cases,  the open  conne ction creates
+much  better eye-shape potential  than a solid
+connection.
+73{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{{~~~``]{{{{{~``{{]======~===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{{~~~``]{{{{{~``{3@=====$~^1=5
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{{~~~``1{{{{{~``@`~=====~~~`ê`
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`@{{{{{~~~``]{{{{{~``1{ì======~==ê\
+Failure

@@ -1,0 +1,31 @@
+Failure 1. Descent
+White's descent  at 1 is probably the ordi-
+nary  approach. If Black  responds  to this by
+blocking at 2, then White's place ment at 3
+kills him.
+Black 2 is unimag inative. Now  both  sides
+have  made a mistake.
+Failure 2. The difference
+In response to White's  descent at 1,
+Black's best move is to mak e an eye at 2.
+When White slides in to 3, Black  resis ts at 4.
+White can play  5, but Black  blocks at 6 and
+gets a ko.
+You should  be able  to see the differen ce
+betwee n this and  havin g White 1 at 'a'.
+Failure 3. A dif ferent method
+After White 1 and Black 2, White can also
+play the attachment at 3. After Black 4 and
+White 5, Black throws  in at 6 and once
+again  gets a ko.
+In either case,  a ko is a failure  for Whit e.
+Failure 4. Undistinguished
+The most  common mistake for White is
+playing the atari at 1. Black will of course
+block at 2 and  easily get a ko.
+In addition to what  we've covered  thus
+far, White  could  play 1 at 'a', but whe n
+Black blocks at 'b' and White conne cts at 'c',
+Black can live by playi ng 2, so this is
+obviousl y a failure for White.
+67

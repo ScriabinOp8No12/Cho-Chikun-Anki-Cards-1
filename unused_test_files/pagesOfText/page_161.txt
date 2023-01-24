@@ -1,0 +1,33 @@
+Pattern 15
+Black to play and live
+This can be cons idered  a practi cal appli-
+cation of our analysis so far. There  is a po-
+tential blind spot  in this shape,  so be sure
+you read  it out accur ately to the very  end.
+The various  failure diagrams of this pattern
+are also of interest
+Solution. Jum p
+As has appeared several times, the jump
+to Black 1 is the correct play  The attachme nt
+at White 1 is annoying, but Black  can simply
+connect at 3. In answer  to White 4, Black
+takes a stone  with 5.
+If White switches 2 to 4, Black  conn ects at
+'a'.
+Failure 2. Block ing
+Common  sense may say to block at 1, but
+why  do you thi nk it's no good?
+It's because  White has the cut at 2. When
+Black  play s atari  at 3, White descend s to 4,
+and Black,  short  of liberties on both  sides,
+cannot pres s.
+Failure 2. In  actua l play
+After Black 1 and White 2, Black tries  to
+play  atari undern eath at 3, but after  Whi te 4,
+Black  is forced  to captur e at 5. With  the
+throw- in of White 6, Black  collapses.
+In an actual game,  it would  be very  easy
+to answer  autom atically at Black 1, so you
+need  to b e careful.
+146
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{~~~~{]{{{{{~```~~{{{~{~`{{``======~===\

@@ -1,0 +1,34 @@
+Pattern 9
+White to p lay and make a ko
+In this shape  Black has extended  towards
+the left side and expanded  his territory,  but
+this still doesn't give  him a perfe ct shape.
+White attacks  in exactly the same manner as
+before.
+Solution. The same idea
+Once  again,  the belly attachment at White 1
+does the  job. Black 2 to Whit e 5 produc e a ko.
+Instead  of 2, if Black conne cts at either  'a' or
+4, White descends to 2 and is able to make  a big
+eye. A lso, if Black  uses 2 to d escend at 'b', White
+3 kill s him.
+Failure 1. Leis urely
+As befor e, if White makes  the place ment at 1,
+Black  defends  at 2 and there is nothing White
+can do. B lack lives comfortably with 4.
+White 1 at 'a' is unima ginative: Black blocks
+at 'b'  and  lives.
+Failure 2. The  vital paint , but —
+White's placement at 1 is also at one of the
+vital points,  but when Black still responds  with
+2, Wh ite has no follo w-up.
+If Black  tries  to play stylis hly by attaching at
+'a', Whit e ataris at 'b', givi ng Black no choice but
+to play  a ko with  'b'.
+137{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{~{~```~]{~{~``{{{`~=========`\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{~{~```~]{~{~``ê!4`~====ì=#2%`\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{~{~```~]{~{~``{{{`~=========`\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{~{~```~]{~{~``{2ì`~======!ê=`\
+Failure 2

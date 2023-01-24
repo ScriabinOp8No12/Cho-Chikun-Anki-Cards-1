@@ -1,0 +1,39 @@
+Failure 2. Ope n connection
+After Black  1 and Whit e 2, what about  the
+hand  and open connection of Black 3 and 5? If
+Whit e continues at 'a' and Black  connects at 'b',
+making  a ko, then  this would also be a possible
+solutio n. That is not, however, the way  things
+will procee d. Whit e has the clever attack shown
+in the next diagr am.
+Failure 3. D escent kills
+After the prev ious diagram, White's descent
+at 1 is a deadly move. After Black fills his gap at
+2, White plays 3 and,  in response to Black's
+descent  to 4, throws  in at 5, turnin g the left side
+into a false eye.
+If instead  of 2, Black  plays  3, you should
+verify for yourself that after White 'a', Black 4,
+and the atta chment at Whit e 'b', Black  is dead.
+Failure 4. Stra ightforward
+What about begin ning with the hane  and
+open  connection of Black 1 and 3? This,
+howe ver, is not a very resilient shape.  White  s
+hane  at 4, cut at 6, and atari at 8 kill Black
+easily.
+Reference 2. Turn
+After Black 1 and White 2, take a look  at
+Black's  turn at 3. This is quite a tenacious  shape.
+How should  White attack this group?  If
+Whit e had a stone  at 'a', then  without  bother ing
+to make  a ko, he would  simply capture  the
+black group uncon ditionally. Lets deal with this
+in our next  pattern.
+65{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~@]{{{{{~~``{]{{{{{$3{ì1ê=======5==\
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~``#ê{{{{{~`%{`4=====!=`2ì\
+Failure 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~{]{{{{{~~``$]{{{{{@17^5*=======3==\
+Failure 4
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~{]{{{{{~~``{]{{{{{@1{3{]==========\
+Reference 2

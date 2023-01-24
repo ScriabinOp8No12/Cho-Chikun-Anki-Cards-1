@@ -1,0 +1,32 @@
+Pattern 7
+Black to live
+In the corner,  replacing the extension to
+the edge  of the board  with a hane weakens
+Black's shape.  If it's Black's turn  and he
+wants to live, where  is the vital point ?
+Solution. Part ition
+Black 1, establishing a partitio n between  the
+two eyes, is clever  The presence  of the hane
+means  that if White play s 2, Black's capture  at 3
+gives  him one eye at 'a', and he is assured  of a
+second  eye by simply  blocking a white hane at
+'b' with 'c'. 
+Failure 1. As  wide  as poss ible?
+Expa nding your eye space  is not always  the
+answer.  It looks  as if Black is alive after  he de-
+scends  to 1, but after Whit e attacks with 2 and
+4, Black  is left with  only one eye. The throw- in
+of White 2, in particul ar, is essentia l.
+Failure 2. Reve rsion
+What happens whe n Black,  still trying  to ex-
+pand  his eye spac e, connects at 1? In that case
+we return to the same  shape as in the previous
+pattern.  After the com bination of White 2 and 4,
+Black  is dead .
+9{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~`{{{{~```{`]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~`{{{{~```{`]==========\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~`{{{{~```{`]==========\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~`{{{{~```{`]==========\
+Failure 2

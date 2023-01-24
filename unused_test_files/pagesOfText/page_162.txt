@@ -1,0 +1,36 @@
+Pattern 16
+White to p lay, Black d ies
+This is also a practic al-applic ation prob-
+lem. This  time  it's Whit e's turn.  If you have -
+a good feel for shape you probably won't
+have  any trouble . It's all over if you know
+where to make the  first move.
+Solution. Larg e-knight  move
+White 1 kills the group  at one blow If Black
+makes  an open  connection with Black 2, White
+connects to the outside  at 3; 'a' won't become  an
+eye for Black, ao there  are no more  proble ms
+here.
+If White turns at 'b' instead  of 1, the jump to
+Black  1 is the vital point
+Failure 1. Sma ll-knight  move
+If White slides in with the small  knight' s
+move  at 1, all of a sudden  the variations
+become  com plicated.
+Black's attachment at 2 is his strongest
+response.  White, too,  has no choice but to
+cont inue his attack with 3, but what  happens
+after  Black  blocks  at 4?  After White 5...
+Failure 2. Whi te is trapped
+Black attac hes at 6. Up to 10, Black traps  two
+whit e stones beca use of their own  shortage  of
+liberti es.
+The conc lusion is that,  the small- knight  move
+allows Blac k to survive.
+147{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~````~]{{{{~{{{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~````~]{{{{~ì{{ê``======#!2=\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~````~]{{{{~{{#4``======!2%=\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~~~~~~]{{{{~````~]{{{{~&8~```====(6~=~0\
+Failure 2

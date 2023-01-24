@@ -1,0 +1,36 @@
+Pattern 30
+Black is dead
+This is a smaller  version of the com b pat-
+tern, with a base.  The fact that all of the out-
+side liberties of this shape  have  been  filled
+in is a major shortcom ing. No matter how
+Black plays, he  cannot live. Lets first  investi-
+gate this claim.
+Variation 1. O pen connectio n
+Black 1 appears  to be the likely vital  point of
+this position. Howev er, White first inserts a cut
+at 2 and when  Black answers at 3, follo ws up
+with  hane at 4 and  Black is dead.
+For Whit e, too, the cut at 2 is important If he
+simply  plays a hane at 4, Black  will play  at 2,
+making  an eye and mana ging to survive.
+Variation 2. The  same resu lt
+Next  lets try making an open  connection on
+the right side at Black 1. The logic is the same.
+Whit e cuts with 2, then  plays  a hane at 4 and
+Black  is dead .
+Variation 3. D escent
+Fina lly, let's try descend ing to 1, expan ding
+the black base.  In this case,  White  plays  hane at
+2. In answer  to Black 3, Whit e 4 and 6 are good
+enough.  Instead  of 2, cutting  immediately at 4,
+Black  5, and White  6 also kills the group.
+If Black  plays  1 at 2, then White 1, Black  6
+and White 5 follow.
+166{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~~{{]{~{~~~``~~]{{{~``{{``~==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~~{{]{~{~~~``~~]{{{~``3@``~====$=1===\
+Variation 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~~{{]{~{~~~``~~]{{{~``@3``~=======1=$\
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~~{{]{~{~~~``~~]{{{~``$5``~====1=^3=@\
+Variation 3

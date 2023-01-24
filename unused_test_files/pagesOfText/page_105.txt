@@ -1,0 +1,34 @@
+Pattern 6
+White to p lay, Black d ies
+This 'eight- space'  pattern  has a dent in it,
+and actuall y consist s of only  seven  spaces.
+Black's defect  is, of cour se, the cutting point
+at 'a'. The question is how to punish  him for
+it, but  don't  settle for  a ko!
+Solution. Attach ment
+There  is no need  to think up somethi ng
+compli cated, as Whit e's attachment at 1
+will suffice. Black  must  connect at 2, so
+Whit e can follow up with the hane at 3. If
+Black  conti nues with  `a', White plays  'b';
+this is not seki:  it's a four- space big eye.
+Failure 1. Ko
+White's place ment at 1 also seems  like a
+good  move;  howe ver Black  can resist by
+attach ing at 2 and conti nue by answer ing 3
+at 4 to force  a ko.
+If Black  answers  with 2 at 3, then  White
+2, Black  5 also  produce a ko.
+A black response  of 2 at 'a' will be
+answered  by White  3, which reverts  to the
+solutio n diagram, so B lack is dead.
+Failure 2. Seki
+At first glance, the placeme nt at White 1
+also has the appearance  of a tesuji,  but with
+the diagona l attachme nt at 2, Black makes
+an eye for himsel f and there  is nothing
+Whit e can do. White 3 is sente,  but after
+this,  the best he can do is fill in the black
+liberty  at 'a' and make a gote s eki.
+90
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~```{{{{{~``ê{]======`===\

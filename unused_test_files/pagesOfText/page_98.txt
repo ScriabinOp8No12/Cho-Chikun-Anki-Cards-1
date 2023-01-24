@@ -1,0 +1,32 @@
+Variation 2. Turning  the tables
+Black recaptures  at 5. When White conn ects
+underneath  at 6, Black catches White  in his own
+shortage  of liberties, so Black  lives.
+Variation 3. N o answ er
+Even if White plays  atari  at 1, can't do
+anyth ing. Black blocks at 2 and whe n White
+captures  at 3, Black  can simply  connect at 4.
+Even  if Whit e fills in at 'a', Black  can squeeze at
+'b', thanks  to th e extra liberty  on the outside.
+Failure. Ten- thousand-year ko
+After White 1 to 3, what  about  carrying  on
+with  4 and 6 as in the prev ious pattern?  This
+may  be a relatively easy  ko for Black  to fight ,
+because  of his outside  liberties, but comm on
+sense  tells us that living with a seki is superior
+to a ko.
+Reference. Short age of liberties
+Let's compare  the positio n once again  with
+the pattern in which Black  is short of liberties.
+In this case, after White 1 to 3, attaching un-
+derneath  at Black  4 doesn  t work  When Whit e
+connects outside  with  9, Black cannot play  the
+atari  at 'a' b ecause of his shortage of  liberties.
+83{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`7~~`======^~=5~
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~ê````4{{{{{~`ì~~`======2~!`#
+Variation 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`{#!2======6=%4\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````]{{{~{~`ê#!2======(%46&
+Reference

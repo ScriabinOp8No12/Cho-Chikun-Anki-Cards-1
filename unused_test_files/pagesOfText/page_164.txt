@@ -1,0 +1,34 @@
+Pattern 18
+White to p lay and make a ko
+It looks  as if Black  is alive, but his short-
+age of libert ies give s White  a chance. Whit e
+has two options  for his first move, but the
+technique is exactly  the sam e.
+Solution 1. Placement
+Whit e's placemen t at 1 is the vital point
+Black has no choice but to connect at 2, so
+White tries to conne ct underneath with 3.
+Black again has no option  but to throw in at
+4 to m ake a ko.
+If Black  play s 2 at 4, Whit e cuts at 2 and
+Black can't play  at 'a' beca use of his
+shortage of libert ies.
+Solution 2. Hane
+If White starts with the hane  at 1, he ends
+up with  the same ko. Whe n Black  blocks at
+2, White plays  atari at 3, and Black  has no
+choice but to defend at 4 after  all.
+In addition  to Whit e 3, the atari  at 'a'
+looks as if it migh t be effective, but Black
+would capture  at b' and White can do
+noth ing.
+Reference.  An open liberty
+Because Black  has an extra liberty at 'a ,
+the story is differe nt In answe r to Whit e 1,
+Black's diagonal attachment at 2 is good; af-
+ter White 3, Black  can block on this side
+with 4.
+In other words,  this  shape  is
+unconditionally alive.
+149
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{~~~{]{{{{{~{``~~{{{~{~`{{``==========\

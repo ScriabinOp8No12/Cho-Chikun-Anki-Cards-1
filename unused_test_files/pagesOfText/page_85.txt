@@ -1,0 +1,36 @@
+Pattern 20
+Black is alive
+No matter how  frail this black  group ap-
+pears, it is very efficiently alive. If only be-
+cause this position comes  up often in actual
+play, you should learn  to recogni ze it as a
+basic living pattern .
+Variation 1. The  open connectio n
+If we begin with White's turn, then  White 1 is
+normal.  Black's  open connection at 2 makes
+good  shape,  making a group  which is impossi-
+ble to kill. Hav ing said this, howev er, White
+can still launch an effective attack  against  the
+black group. L ets investigate this a little further.
+Variation 2. R esponding to the attachm ent
+After the last diagra m, Whi te 1 is the vital
+point  for destroy ing the eye shape. In response,
+howe ver, Black lives easily with the hane at
+Black  2, fol lowed by Black 4 an d 6.
+There  should  be a better  route  for White than
+this.
+Variation 3. A trou blesome play
+The placement at White 1 can be troubl esome
+for Black If he's not caref ul, he could  end up
+dead.
+There  is no other  choice for Black 2, but how
+should  Black  respond to Whit e's descent at 3?
+Play ing at 'a' is rash since White will throw in
+at 'b'  and  forc e a ko.
+70{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{~{~~``]{{{{{{{`{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{~{~~``]{{{{{{!`{{]========2=\
+Variation 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~%]{}{{{{{}~46{{{{~{~~``]{{{{{{~`{!2========`#\
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{}~{]{{{{~{~~``]{{{{{{~`{2!======#ê`ì\
+Variation 3

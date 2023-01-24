@@ -1,0 +1,36 @@
+Pattern 3
+White to p lay, Black d ies
+If the marked  White stone were not
+pres ent Black could  play  elsewhere and still
+be alive. However, if it is White's turn , the
+issue is how to make the marked  stone
+work for him.
+Solution 1. Beginn ing inside
+White 1 is the critical point  for inter fering
+with  Black's mak ing two eyes.  If Black 2, then
+with  the attachment at 3, White  can make  the
+left side into a false eye. Should  Black descend
+at 3, Wh ite plays inside at 2. 
+This  is not, however, the only possi bility for
+Whit e 1. 
+Solution 2. Fro m the outs ide
+White can also start by attaching at 1. After
+Black  2, White 3 inside kills  the group.  This is
+not exactly the same technique as in the previ-
+ous diag ram and you need to understand the
+differences betwee n them. To that end,  take
+heed  of the variation in the next  diagram.  
+Solution 3. Da ngerous
+Conti nuing from  the previous  diagram,  after
+Black  1, White 2 and 4 ruin  Black's  second eye.
+Whit e may feel nervous about  having two
+stones  captured,  but the follow up throw- in (4)
+is a standard  techn ique. 
+4{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~{~~~~~]{{{{'{`````==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~{~~~~~]{{{{~%`````=====4#=2!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~{~~~~~]{{{{~{`````======!2=#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~{~~~~~]{{{{~1`````====3@~`=~\
+Solution 3
+4: at 2

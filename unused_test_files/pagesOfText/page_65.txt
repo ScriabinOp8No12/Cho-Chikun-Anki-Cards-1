@@ -1,0 +1,33 @@
+Pattern 10
+Black to play and get a k o
+You can consid er this a practical application
+problem for what  we've covered so far. This
+shape comes  up in actual fighting  and is very
+difficult to handle. There  are a number of
+possibilities for the first move,  so you
+should inve stigate  them  thoroughl y
+Solution 1. The best move
+Black's best move  is the descent  at 1.
+How Whit e attacks in response to this is
+shown in the next  diagram.
+Befor e that, as an example  of the sim-
+plest possible mistake, we have  a black
+move  at 'a'. After that,  a white play  at 1
+kills Black This is just com mon sense.
+Solution 2. C lamp
+After the last diagram, White's clamp  at
+1 is a powerfu l mov e. Whe n Black plays 2,
+White extends  at 3 and sets up a ko shape.
+Black 4 and 6 start  a ko, as does simply
+connecting at 6; next, either White 4, Black
+5 or Whit e 5, Black 4 create  a ko.
+Solution 3. Placement also possible
+One more  possibility exists: White's
+placeme nt mov e at 1. Black  must  attach  at
+2, then White  3, Black  4, and sure enough,
+ko.
+If Black extend s at 3 instead  of 2, then
+White 'a' and Black 4 follo w; White 2 now
+produce s a nakade,  so Black  is dead.
+50
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{~{~]{}{{{{{~`~]{{{~{~~`{`]{{{{{~``{{]==========\

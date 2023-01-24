@@ -1,0 +1,31 @@
+Pattern 7
+White to p lay and make a ko
+Compa ring this to the previous  pattern,
+Black has an extra liberty on the right side.
+What can White do now,  if it's his turn?  If
+you refer to the previous  diagram, the an-
+swer will prob ably come to you.
+Solution. Begin with the place ment
+This time  you start with the white  place-
+ment  at 1. Turni ng at 2 is Black's  best de-
+fense  and then he answers  White 3 by
+throw ing in at 4. In this position, after
+White 5, Black  could  switch elsew here if he
+chose to, but after  that,  White 'a', Black 'b',
+White 'c' would  produce  a true ko. So, as it
+stands, it's a one-step appr oach- move ko.
+Variation. A true ko
+As you are already well aware,  answer-
+ing White 1 by attac hing at Black 2 also
+gives a ko. This  time, howev er, it's immedi-
+ately a real ko, so for Black the prev ious
+diagram is bette r; conse quently, Black  2 is
+something of a defe nsive mistake.
+Failure. Alive
+What about attach ing at White 1? This
+time, howe ver, the defens ive move at Black
+2 is play able. The extra liberty at 'a' has
+prove d to be an important  difference be-
+tween this pattern and the previous  one.
+91
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~]{{{{{~~~```{{{{{~``{{]======`===\

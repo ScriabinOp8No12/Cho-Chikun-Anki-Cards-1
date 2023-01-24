@@ -1,0 +1,37 @@
+Pattern 17
+Black to play and make a ko
+This looks  like a shape you migh t see in
+actual play.  It's similar  to the previous  pat-
+tern, but you should  note  carefully that the
+outs ide libert ies of Black's two stones  have
+been  filled in. As might  be expected,  the
+stones can no longer live unconditionally.
+Solution. The open  connection
+In this shape,  playing a hane at 1 and
+answeri ng White's block at 2 with the open
+connection of Black 3 is the only  possibility. In
+response  to White's atari at 4, Black  blocks at 5
+and White 6 starts a ko fi ght.
+Reference 1. Black  lives
+In the previous  diagram,  White has no choice
+but to fight the ko, but let's suppose he connects
+at 1. What  happens?
+Black can simply  hane  and connect at 2 and
+4. When  White captur es at 5, B lack conne cts at 6
+and has a living shape.  Conse quently, unless
+Whit e is totally  unable to fight the ko, White  1
+is strange.
+Failure 1. Atar i
+Lets  take  a look  at Black  1, the move  which
+allowed  him to li ve in the previous  pattern.
+After White 2, Black  tries the technique of
+Black  3 to 5. This  time,  howe ver, White cuts at 6
+and puts the two black stones in atari. Next,
+after  Black  'a' and Whit e 'b', Black is dead.
+64{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~{]{{{{{~~``{]{{{{{{{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{@]{}{{{{{~~1${{{{{~~``^5{{{{{{{{{3]==========\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{~!{}{{{{{~~`~{{{{{~~``%`{{{{{#24{`6==========\
+Reference 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~@]{{{{{~~``*]{{{{{$3^ê1ì======7=5=\
+Failure 1

@@ -1,0 +1,35 @@
+Pattern 18
+White to p lay, Black d ies
+Even as a practi cal application problem,
+this is one of the easiest types.  If you' re able
+to imagine how the black stones  will look
+when lined up on the second line, you'll
+prob ably be able to work  out the soluti on.
+Solution. The key
+If White discovers the attachment at 1,
+it's all over.  When  Black plays 2, White
+pulls back  at 3 and  it is evident that there  is
+no way  for Black to live. Instead  of 2, if
+Black hanes on the outsi de at 3, White can
+cut at 2.
+The key is whether or not you can find
+White 1.
+Failure 1. Vulgar
+The diagona l play of Whit e 1 could  be
+played by anybody. If something like this
+killed the black group,  there  wouldn't be a
+prob lem to solve.  After  Black  2 to Whit e 5,
+Black occupies  the vital point at 6 and is
+alive.
+Note that Black 6 is crucial...
+Failure 2. Black's mistake
+Black's descent  at 1 comes under  the
+heading Black's  mistake'.  After White plays
+atari at 2 and Black  3 connects, White  can
+force a ko with 4. Notice that Black cannot
+squeeze because of a shortage  of liberties.
+Instead of connecting at 3, Black can live
+by playing 5, but having these three stones
+captured is painf ul.
+27
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~]{{{{~{``~`]{{{{{{{{``]==========\

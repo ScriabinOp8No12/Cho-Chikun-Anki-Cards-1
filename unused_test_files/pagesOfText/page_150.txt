@@ -1,0 +1,29 @@
+Variation 2. Simply
+In answer  to White  1, seeing that connect-
+ing at 2 leave s Black  dead is even  easier.
+Once again, White mus t descend  to 3, and
+the moves up to White 7 produce a problem-
+free shape.
+Failure 1. Placement
+The placement at White 1 appear s to be an
+even  sharper attack. However, Black  defends
+at 2 and answers White  3 at 4, leavi ng White
+without  any way  to pr oceed.
+Whit e 1 looks like the vital point  but gets
+Whit e nowh ere. The reason  for this is that
+the peculiarities of the corner prevent  White
+from  playing 'a'.
+Solution 2. Anot her way
+Actu ally in this position,  there is one more
+correct  solutio n, the attachment  at White  1.
+After Black 2, White cuts  at 3 and answers
+Black 4 with a han e at 5, produc ing a ko.
+It's a splendid tesuji, but based on who
+gets to start the ko, Solution 1 is more
+favora ble for White.
+Failure 2. Unimaginative
+It need hard ly be said that blocking with
+Whit e 1 is unimag inative. Black  descends at
+2 and is allow ed to easily  complete the comb
+shape.
+135

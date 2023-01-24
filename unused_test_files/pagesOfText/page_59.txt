@@ -1,0 +1,36 @@
+Pattern 6
+Black is alive
+Hanes have been added to both  sides  of
+Black's group.  This makes  the shape  more
+tenacious.  Even if White makes the first
+move , Black  will not die. Lets see just how
+tenacious the group i s.
+Variation 2. No linking under
+First we'll look  at Whit e 1. In this case,  the
+pres ence of the marked  black stone  means
+White cannot  link underneath,  so Black  con-
+nects  at 2, after  which things don't go well for
+White. Taking  the vital points  at White  3 and
+5 merely forces Black 6, and White  can do no
+better than  seki.
+Variation 2. Belly  attachment
+If White begins with the belly attachme nt at
+White 1, Black's  hane at 2 is good  enough.
+When Whit e plays  3, Black conn ects at 4 and
+once again White cannot link underneath  at
+'a', so Black is alive.
+Additionally, if White tries  begin ning with
+'a', then Black  'b' and the seque nce White 1,
+Black 2, White 3, Black  4 follows, leaving
+Black alive.
+Variation 3. An annoying  play
+Wha t about  White  s placeme nt at 1? For
+Black, this is probab ly the most trouble some
+play.
+Whe n Black connects, Whit e makes  the di-
+agonal play at 3. Black's  hane at 4 is good , but
+from Black  6 on, things become  a little compli-
+cated. Black  8, not playing the ko, is a good  move . See the next  dia-
+gram .
+44
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{~`{}{{{{~~~`]{{{{{{~```]{{{{~{~`{{]======`===\

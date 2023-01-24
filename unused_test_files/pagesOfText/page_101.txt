@@ -1,0 +1,42 @@
+Pattern 4
+White to p lay, Black d ies
+This time White  has descended  to the
+edge of the board on the right This descent
+is even  more  pow erful than  the prev ious
+one,  so if Whit e plays first,  he has more
+than  one way  of killing Black Regardless,
+Black's problem  will be his shortage  of liber-
+ties.
+Solution 1. Un able to press
+First  is White's placeme nt at 1. After Black 2,
+the cutti ng plays  of White 3 to 5 are splendid.
+Even  though  Black  tries to resist with 6 to get a
+ko, when  White  plays  at 7, Black's shor tage of
+liberti es make it impossi ble for him to atari on
+the white stones.
+Alternatively, instead  of 5, Whi te 7, Black  5,
+Whit e 6 would make a fiv e-space big eye.
+Solution 2. Begin  with the turn
+Turni ng at White 1 combi ned  with the
+placeme nt at 3 is another  method of killing the
+black group.  When Black  conn ects at 4, White 5
+and 7 produce  a five-space  big eye.
+In this case,  howe ver, if White should  make
+his place ment at 5 instead of 3, Black will play
+at the vital point  with  3 and live. If White wants
+to play  5, he  must d o it before he plays  at 1.
+Solution 3. Short age of liberties
+After White 1 to 3, turning at Black  4 is a
+strong  move , but once  again  Black  is plagued
+by a shortage of liberties. White  hanes  at 5, then
+cuts  at 7. If he wishes,  White can reverse  the
+order  of 5 and 7, since , even  if Black  answers  7
+at 'a', White 5 still punishes Black for his short-
+age of  liberties.
+86{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~````]{{{~{~`{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~````#{{{~{~`{&%4======2!=6\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~````!{{{~{~`{&42======6%=#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{~~~~~~{{{{{~````!{{{~{~`{4&2======%6=#\
+Solution 3

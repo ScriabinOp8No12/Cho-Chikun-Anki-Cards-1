@@ -1,0 +1,38 @@
+Pattern 4
+White to p lay, Black d ies
+Compa ring this to the previous  pattern,
+Black's position is the same. However, the
+location of the marked white stone  has been
+move d one space  furth er to the left Even  so,
+if it's White 's turn,  Black  dies. 
+The ques tion is whet her to begi n on the
+inside or the outs ide.
+Solution 2. Fro m the inside
+In this shape we are limited to attacking from
+the inside with White  1. White answers Black  2
+with  the attachment at 3, then,  in response to
+Black  4, stretches  out inside with 5. As you are
+probabl y already  awar e, the conti nuation of
+Black  'a', White b' does n ot pr oduce an eye.
+Solution 2. The  attachment works
+After White 1, if Black tries  2, White  has the
+attachment  at 3. This is where the influence of
+the marked stone is demonstrated.  Black 4 is
+answered  by White 5, then  Black  'a', Whit e b'
+make a shape  which leads  to a fa lse eye.
+Failure. Wrong order of moves
+You migh t think that starting  with the attach-
+ment  at White 1 gives you the same result, but
+that is not the case.  From 2 to 6, Black captures
+two stones. Next,  even if Whit e makes a false
+eye out of the left side,  Black  has room  to make
+an eye at ' a'. 
+Take  carefu l note of the differe nce betwee n
+this and  starting your attack  from  the inside.
+5{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{~{~~~~~~]{{{'{{`````==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{~{~~~~~~]{{{'ê2`````====ì#4=%!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{~{~~~~~~]{{{'ì4`````====ê%#=2!\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{~{~~~~~~]{{{'%2`````====4#!6=ê\
+Failure

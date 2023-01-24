@@ -1,0 +1,25 @@
+Pattern 22
+Black to play and live
+This is the most abbreviated  Black  shape
+so far, but the principle is the same, Black  to
+play and live. There is only  one vital point
+Solution. The same move
+Once again, making eye shape  at Black  1
+is the key White has to play  at 2, but whe n
+Black descends  at 3, he is alive.
+Obv iously if White plays  2 at 3, then  Black
+2.
+Failure 1. Impu lsive
+Wha t Black  has to take care  of is not to
+crawl impulsively at 1. It seems  as if he s ex-
+panding his eye spac e, but the instant  he
+plays it, he loses  all hope  of living.
+Whe n Black  plays  5, White cuts at 6, and
+Black's shortage  of liberties kills him.
+Failure 2. Different directi on
+Black 1 makes eye space  in the oppos ite
+directi on. White play s 2 at the origi nal vital
+point Because this gives rise to the cut at 'a',
+Black doesn't  have enough room to live.
+32
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{}{{{{{}~{]{{{{{{~~~`]{{{{{{~``{]==========\

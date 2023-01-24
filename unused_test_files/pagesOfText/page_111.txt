@@ -1,0 +1,37 @@
+Pattern 11
+White to p lay and make a ko
+In this shape, Black has abandoned the
+com monse nse play  at 'a' and has played  at
+the 2-1 point  in hopes of living. How ever,
+he is not alive unco nditionally. By the way
+should White push  at 'a , Black  will block at
+'b' and live.
+Solution 1. The  2-2 poi nt
+White attacks  with 1, taking  the other  2-1
+point  Black has no choice but to attach  with 2,
+and in response to Whit e 3, defend at 4, i nviting
+a ko. Should  Black  play  2 at 3, Whit e crawls  at 2
+and kills him.
+Solution 2. Place ment
+The placement at White 1 is also one of the
+vital points of this shape. Black's  strongest
+resistanc e is the diagona l attachment at 2 In
+response  to White 3, Black  cuts White off at 4,
+making  a ko. After White captures  at 5, if Black
+connects at 'a', Whit e responds  at either 'b' or 'c'
+and it's still  a ko.
+Solution 3. Att achment
+White can also  make the attachment at 1
+here.  After  Black 2, he crawls to 3 and answers
+4 by turning at 5. Black  is forced  to throw  in at
+6, so up to Whit e 7 it's a ko.
+Of the three ways of produci ng a ko
+discussed  here,  the damage  to White, should he
+lose the ko fig ht, is smallest  in Solutio n 1.
+96{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~``ê]{{{{{~`{{ì`======`===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~``{]{{{{{~`4#{`======`%2!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~``4ê{{{{{~`ì£#`======`=!2%
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{{{~~``2]{{{{{~`4#!`======`=%6&
+Solution 3

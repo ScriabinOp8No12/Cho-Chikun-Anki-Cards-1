@@ -1,0 +1,33 @@
+Pattern 20
+White to p lay, Black d ies
+This is the result after Black ignores  a
+white descent  on the left side and plays
+elsewhere.  At this point Whit e can use a
+technique common  to life and death situa-
+tions to kill the black group.  The key is his
+first move.
+Solution 2. Throw -in
+White plays the combination of the throw-
+in at 1 and the placeme nt at 3. White 1 re-
+duces  Black's eye space,  then  White 3, mak ing
+a false  eye out of the left side, is devastati ng.
+To see how  Black resists, consi der the next
+diagram.
+Solution 2. Bent  four  in the corn er
+Black's descent  to 1 is met by the white di-
+agonal  play  at 2. After  the continuation of
+Black  'a', White  b', we have  a bent  four  in the
+corner.
+Also, even if Black tries to fight  on by play-
+ing 'b' in this positio n White plays atari at 'c'
+and it's all oven
+Failure 1. Fall ing short
+The placeme nt at White 1 may  be at the vi-
+tal point, but there  hasn't  been  enough  prepa-
+ration.  After Black 2, White has no choice but
+to narrow  Black's  eye space  by playi ng a hane
+at 3, but Black blocks at 4 and White falls just
+short  After Black 6, White  'a' is met by Black
+'b'.
+108
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{{~~```]{{{{{~`{{{]=====~=`==\

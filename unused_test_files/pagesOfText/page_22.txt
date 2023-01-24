@@ -1,0 +1,36 @@
+We've added a hane (the marked black  stone)
+to the previous diagram. It appears that Black's
+situation  has improved  markedly However, the
+fact is nothing has changed . Just like before,  if
+it's Whit e's turn, Black  dies. 
+Reference 2. Same idea
+Just as before  White 1 is good  enough.  If
+Black  connects at 2, White throws in with 3. If
+the marked Black  stone  were not present,
+Whit e's throw-in at 3 w ould simply  be a hane at
+3; regardless, Black is dead. Conti nuing, next
+Whit e answers Black  'a' by extend ing inside to
+'b'.
+Likew ise, should Black play  2 at 3, White
+plays  at 2. 
+Reference 3. Place ment
+After White plays 1, if Black  blocks  at 2,
+Whit e again makes the placement at 3. Next,  if
+Black  'a', White 'b', or if Black 'b', Whit e 'a. In ei-
+ther case, it is apparent  that Black's hane is use-
+less.  
+Referen ce 4. Alive
+In this case as well, begi nning with the place-
+ment  at White 1 is a mistake.  After 4, Black is
+alive. 
+Likew ise, should Whit e begin  by throw ing in
+a stone  with Whit e 1 at either 2 or 3, Black  gets
+life after captur ing at 1. 
+7{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`{````===="=====\
+Reference 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`2````===="#ì=ê!\
+Reference 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`ì````====`ê#=2!\
+Reference 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{{]{}{{{~{~{~]{{{~{~`~{~]{{{{~`#````====`2!4==\
+Reference 4

@@ -1,0 +1,40 @@
+Pattern 10
+White to p lay, Black d ies
+This shape, which looks  as if it might
+very well occur  in an actual  game,  can be
+considered  a practical appli cation problem.
+It's White's turn to play,  but if he makes  a
+mistake on the first move, he ends  up in a
+maze.  Use what  you have learned  up to this
+point.
+Solution 1. Att ach and pull back
+White should  attach  and pull  back with 1 and
+3. If you've  absorbed what's been cove red so
+far, then  Black's  death  should  be easy to con-
+firm.  The follow-up is shown in the next dia-
+gram. 
+By the way,  playing atari at 'a' instead  of 3 is
+a terrib le mov e.
+Solution 2. A fo rmer shape
+To continue,  if Black  1, Whit e blocks at 2.
+Now  it seems  as if descend ing at 3 is the only
+move,  but as we have  already  seen  back  in Pat-
+tern 6, in this shape if it's White s turn , Black
+dies.  
+As before,  White's hane at 4 is good enough.
+Whe n Black  blocks at 5, White' s placemen t at 6
+kills the group.
+Failure. A tr oublesome play
+Going back  to the begin ning, while the place-
+ment  at White 1 is undeniably also at a vital
+point,  after  Black's  block at 2 the situatio n be-
+comes  unmanageable. In response  to #, 4 and
+6 are tenaci ous. After &, even if Black  simply
+connects at 8, his stones  won't die. 
+13{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{{]{{{{~~{~`{]{{{{{{``{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~ê#]{{{{~~{~`!]{{{{{{``{2]==========\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~]{{{{@1``{`3=====$5=^=\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{{]{{{{~~{~`2]{{{{{{``#!6========%4&
+Failure

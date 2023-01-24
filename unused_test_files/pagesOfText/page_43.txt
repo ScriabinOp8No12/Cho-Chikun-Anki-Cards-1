@@ -1,0 +1,28 @@
+Pattern 19
+Black is dead
+A certain measure of eye space  makes a
+group  secure, but, with all of its liberti es
+filled in, the cutting point at the 2-2 point
+becomes  a weakness. In this shape,  Black
+cannot  live even if he gets to make the first
+move .
+Variation 1. Connecting
+Let's take a look at Black's  attempts to live.
+First,  the conn ection at Black 1. In this
+case, White s hanes at 2 and 4, and the
+placeme nt at 6 kill Black  cleanly.
+Variation 2. Eye shape
+Next, wha t if Black  defends at the 2-1
+point?
+White is naturally left with the vital  point
+at 2 Whe n Black connects at 3, White hanes
+at 4. Instead  of 3 —
+Variation 3. Fallin g short
+Even if Black makes one eye with 3 here,
+he is dead  when White cuts at 4. White can
+also use 4 to con nect underneath  at 'a' .
+Since this is a symmetrical shape,  Black 1
+at 2, making  eye shape on the other side,
+gives the same r esult
+28
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{{{~~~`]{{{{{{~``{]==========\

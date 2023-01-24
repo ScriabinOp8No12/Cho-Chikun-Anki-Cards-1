@@ -1,0 +1,31 @@
+Failure 1. Ko
+Returnin g to the begin ning, the
+attachment at 1 is a sharp  play,  but it's a little
+bit too tricky  Whe n Black  blocks at 2, White
+has the neat  play of atari at 3, but Black
+defends  at 4 and White  miss es his chance to
+kill Black  outright
+Failure 2. Atari undern eath
+What  about the atari underneat h at White
+1? The jump  to Black 2 turn s out to be the
+correct  defense  after all. This  positio n,
+however, does  require some caution  after
+Whit e attaches at 3. If Black connects at 'a',
+Whit e's cut at 'b' will mean  sudden death for
+Black because  of the shortage  of libertie s of
+the two black stones in the corner.
+Failure 3. White's shortage of liberties
+Conti nuing from the previous  diagram,
+Black has to block at 1. After White 2, Blac k 3
+and 5 fill in the white libert ies and Black can
+aim to trap two of the Whit e stones. Note
+that Black has a liberty at 'a'. If this were
+filled in, Blac k would n't be able to press a t 5.
+Failure 4. As requ ested
+After White's atari  at 1, conn ecting at 2 is
+exactly what White wants  Black to do. White
+makes the placeme nt at 3 and answe rs Black
+4 by cutting  at 5; Black becom es unab le to
+press down because  of his shortage of
+liberties.
+141

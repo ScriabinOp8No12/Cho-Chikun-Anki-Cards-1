@@ -1,0 +1,40 @@
+Pattern 29
+White to p lay and make a ko
+This time  the position is open  at the base
+from the other  side.  It appe ars that no mat-
+ter how White  plays,  Black is alive. The
+small-knig ht move  doesn't  work the large-
+knig ht mov e doesn't  work but White has a
+third  option.
+Solution. Attach ment
+White attaches  at 1, answers  Black 2 with a
+hane  at 3, and in a response to Black 4, there  is
+room  to go all out by starting  a ko with 5. If
+Black  contin ues at 'a', White 'b', Black  'c', and
+Whit e 'd' follow Black can use these  moves as
+ko threats, but there  can certa inly be no doubt
+that this  is a real  ko.
+Failure 2. An i mportant sequence
+Sliding in with the large- knight move  at
+Whit e 1 leads now here.  For Black, first playi ng
+2, then  turning to 4 is an important  seque nce.
+After this it's obvi ous that even if White next
+plays  'b', Black can play 'a' and  live.
+If Black  plays  2 at 4, White plays  at 2 and this
+reverts  to the  prev ious diag ram.
+Failure 2. Sma ll-knight  move
+Sliding in with the small -knigh t move  at 1 is
+dubious.  Black simply makes  the diagonal
+move  at 2 and, after  White  3, the empty triang le
+of 4 makes  this revert  to the last diagram.  Just
+for referen ce, after  this, White 'a' is met by
+Black  'b', then White 'c', Black  'd', Whit e 'e',
+Black  'f', and White 'g' lead  to a seki and life for
+Black.
+121{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{~~~~{{]{{{{~````{]{{{{~`{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{~~~~{4%{{{{~````!6{{{{~`{ã{2#=====Ï£==Í\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{~~~~{{]{{{{~````2#{{{{~`{Í{4!==========\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{~~~~{›]{{{{~````4!{{{{~`{”{2#=====ãﬂ‘·‚\
+Failure 2

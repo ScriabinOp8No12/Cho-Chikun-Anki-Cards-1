@@ -1,0 +1,37 @@
+Pattern 27
+White to p lay, Black d ies
+In this shape,  Black has five stones lined
+up on the third  line. His base seems to be
+fairly wide, but the white descent on the left
+side is powerf ul, so if White  plays  first,
+Black dies. The attack,  however, requ ires a
+good bit  of technique.
+Solution 1. Sm all-knight  move
+Not jumpin g too far, just sliding in with the
+small- knight move to White 1, is steady.
+Atta ching with  Black 2, trying to make his base
+as wide as possible, is Black's only choice.
+Pulling back  with 3 shows  com posure. After
+Black  4, White 5 occup ies the vital point  for
+making  eye shape.  Black  6 is met by White  7
+and 9. Black  is dead.
+Solution 2. Place ment
+Instead  of 6 in the previous  diagram , Black
+jumps  to 1. White counters with the placement
+at 2. After Black 3, White conn ects at 4. This is-
+n't a seki;  it's a thr ee-space  big eye.
+Failure 1. O rder of moves
+Even if Whit e plays 1 and 3 correctly after
+this it is still easy  to make a mistake. For
+example,  White might first  hane at 5; when
+Black  answers at 6, attaching at 7 looks as if it
+will kill White, but appearances are deceptiv e.
+Black  8 is a good  move and makes  Black
+unco nditionally alive.
+118{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~]{{{{~`````]{{{{~{{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~]{{{{~`````&{{{{~{4{%68=====#!2=(\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~]{{{{~`````3{{{{~{`{~$@=====~~`=1\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~]{{{{~`````%{{{{~{4{&{6=====#!2=8\
+Failure 1

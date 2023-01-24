@@ -1,0 +1,38 @@
+Pattern 9
+Black to play and live
+This is a slight ly troublesome shape. First
+you should,  of course,  consider what hap-
+pens when  Black  connects his two stones
+which are in atari,  but if you decide that
+Black cannot  live by playing  that way,
+you'l l have to search for a more  efficient
+play.
+Solution 1. Ret reating
+Black 1, retreating to the first line beneath  the
+two stones,  is a good,  calm play  Whit e 2 cap-
+tures  the two stones,  but that is what Black in-
+tends.  The follow-up is shown  in the next  dia-
+gram.
+Solution 2. Recaptu re
+Black recaptur es with 3. After this, Black  an-
+swers  White 4 at 5 and White 6 at 7 and barely
+lives with the smallest eye spa ce. 
+Beca use the first play  was at the vital  point
+for making eye shape, and at the same time
+made use of  a recaptur e, Black was able  to li ve.
+ Failure. Connect ion
+In an actual game Black  migh t very well  con-
+nect at 1. If he does so, howe ver White hanes  at
+the vital point in the corner, and even if Black
+craw ls at 3 he doesn't  have the eye space neces-
+sary to li ve. The con tinuation is to W hite 6. 
+Should Black  begi n by descending with  1 at
+2, White, of cour se, captures  at 1 and there is no
+way  for Black to liv e.
+12{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{~`~{]{{~~~{~`~~]{{{{{``{``]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{~`~{]{{~~~{~`~~]{{{{{``@``]=======1==\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{~{~{]{{~~~{~3~~]{{{{^``~``$=====7=`=5\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{}{{{{~`~{]{{~~~{~`~~]{{{$3``1``@====5====^\
+Failure

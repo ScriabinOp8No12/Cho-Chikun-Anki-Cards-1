@@ -1,0 +1,33 @@
+Pattern 13
+Black to play and live
+The black stones stretch out from  the cor-
+ner to the left and right It looks  as if Black
+has room  enough to live, but he'll need to
+pay attentio n to the complex ities of the cor-
+ner. 
+Note, too,  that the shape  is symm etrical. 
+Solution. The 1-1 point
+Follo wing the proverb,  Play in the middle
+of a symmetrical shape,'  Black  1 on the 1-1
+point  is correct  It should  be quite obv ious that
+Whit e has no place from  which to launc h an
+attack
+You  might well wonder  if there  isn't  any
+other  way to live.  The fact that there isn't  is
+the main  theme of this  pattern . 
+Failure 1. D efect
+Based  on the shapes we've covered  so far,
+the descent  to 1 seems to be the most  natural
+play  How ever,  there is a major flaw in this
+move.  
+The  steps  White must take to penalize
+Black  for his mistake are also very important,
+so we'll  discus s them in the diagrams  which
+follow
+Failure 2. Ko
+What  if White starts with  a hane  at I? This
+is in fact a bad play,  but Black's  defense,
+blocking at 2, is also a mistake. The resul t to
+this point leaves  White with the attachment at
+3. Black  4 an d White 5 th en yield a ko. 
+18{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{{{{{{{{~~]{}{{{{{}~`]{{{{{{~~~`]{{{{~{~```]==========\

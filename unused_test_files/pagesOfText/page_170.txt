@@ -1,0 +1,34 @@
+Solution 3. Straightforward
+After Black 1 and  White 2, if Black
+descends  at 3, living becom es unlikely. With
+the Whi te throw -in at 4, Black dies.  Even if
+Black captures at 'a', White can play
+elsewhere,  because the shape  is dead as it
+stands.
+Solution 4. D iagonal Atta chment
+In response to White's  placeme nt, the
+diagonal attachment of Black  1 looks  like a
+strong way to defend. How ever, White  cuts
+at 2 and Black is unable to survive. White
+answe rs Black  3 by turni ng at 4. Black  must
+continue by playing at 'a', so there's  no time
+for him  to play  at 'b'.
+If Black  play s 3 at 4, White plays  at 3.
+Solution 5. Throwing in
+If Black  blocks  at 1, White throws in at 2.
+When Black  plays 3, White cuts  at 4 and in
+this case as well, Black  doesn't get to play at
+'a' since his two  stones  are in atar i.
+Note th at if Black  play s 1 at 2, White cuts at
+4, and  we get a shape simi lar to the one in the
+prev ious diagram.
+Failure 2. Too late
+Starting with the throw-in of White 1 may
+look strong,  but it's a reading error.  Whe n
+Black plays  2, it's too late for Whit e to make
+the placement at 3. With  4 and 6, Black  man-
+ages to li ve.
+Having played  at 1, Whit e has no choice
+but to block at 'a' and start a ko. Com pare this
+with the following pattern.
+155

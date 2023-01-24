@@ -1,0 +1,38 @@
+Pattern 19
+White to p lay, Black d ies
+If White plays normally, this will becom e
+a ko. If he attacks  poorly,  Black will live.
+However, if he attacks  cleverly Black  is un-
+conditionally dead. The secret is a combi na-
+tion play w ith the first  and third moves.
+Solution 1. Ju mp to the first line
+First  is the peep at White 1, then whe n Black
+connects at 2, jumping down  to the  first  line at 3
+is tesuji. When  Black plays  4, White descends  to
+5. Notice  that the two stones  in the corner are
+connected to Whit e 3. If Black  plays  'a , White
+answers  at 'b', then if Black 'c', defending at
+Whit e 'd' is good enough.
+Solution 2. Black  tries to expand  his base.
+After White 1 and 3, what  it Black  tries  to
+expand  his eye spac e with 4 and 6? In response,
+Whit e's descent  to 7 is easy to understand. If
+Black  contin ues at 'a', White 'b', Black  'c', and
+Whit e 'd' foll ow.
+Instead  of 7, White  could  also either play  a
+hane  at 'b' or descend to 'd'.
+Failure 1. Whi te cannot connect  outside
+After White 1 and Black  2, why is descendi ng
+to 3 no good ? This  question is the point  of this
+particu lar pattern.
+In response  to Black 4, White descends  to 5,
+but Black blocks at 6 and White's two stones
+cannot connect to the outside. Because  of this,
+Black  ends up aliv e.
+68{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~}~`]{{{{~{~``{]{{{{{{{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~}~`]{{{{~{~``2]{{{{{{{{{!4======#==%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{%]{{{{{{{{~4ì{}{{{{~}~`£{{{{~{~``2]{{{{{{{6{!‹======#ê=&\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{~}~`]{{{{~{~``2]{{{{{{#{6!4=========%\
+Failure 1

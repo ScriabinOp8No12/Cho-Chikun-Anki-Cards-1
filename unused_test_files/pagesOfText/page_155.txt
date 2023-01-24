@@ -1,0 +1,35 @@
+Pattern 11
+White to p lay, Black d ies
+This is simi lar to the last pattern,  but the
+situation with the outs ide liberties of the
+black ston es is different Because of this,  the
+vital point has become somew hat uncerta in,
+but there certai nly is one.
+Solution 1. Place ment
+The placeme nt at White 1 is the vital point
+After Black connects at 2, Whit e cuts and
+captures  with 3 an d 5 and  Black  is dead.
+There  is no margin for Black  to use 2 to make
+the open  connection at 'a'. If he does, Whit e cuts
+at 2 and captures  the two black stones  in the
+corner.
+Solution 2. Res istance
+In answe r to White  1, attachi ng at Black 2 is
+powerfu l; howe ver, crawl ing at 3 is a good
+move  and after Black  4, Whit e cuts at 5. Though
+Black  descend s to 6, Whit e follows at 7, so Black
+cannot save his two  stones.
+If White cuts imm ediately with 3 at 5, Black
+can live by playi ng 'a'.
+Solution 3. Si mple
+Answering White 1 with Black  2 doesn't
+really  put up all that much resis tance. After
+exchan ging White 3 for Black 4, White play s a
+hane  at 5.
+140{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~]{}{{{{~{~{]{{{{~~```~~{{~{~`{{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~]{}{{{{~{~{]{{{{~~```~~{{~{~`#{2``=====%ê4!=\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~]{}{{{{~{~{]{{{{~~```~~{{~{~`%ê4``====&6=2!#\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{~{{~]{}{{{{~{~{]{{{{~~```~~{{~{~`{2{``=====%=4!#\
+Solution 3

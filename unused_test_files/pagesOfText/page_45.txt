@@ -1,0 +1,30 @@
+Pattern 21
+White to p lay, Black d ies
+White's block at 'a' has been removed
+from the previous  pattern. The quest ion is:
+can White  kill Black if it is his turn?  Obv i-
+ously, if he simply blo cks at 'a', Black lives.
+Solution 1. The placement is the vital point
+The placeme nt at White 1 is again the
+vital point  This  position  is confusing, be-
+cause  Whit e has the placement at 'a , so
+it's important  to take a close  look  at the
+location  of Black's  libert ies. If Black
+connects at 2, Whit e han es at 3.
+Next...
+Solution 2. Exp anding doesn't work
+Black  1 probably provides  the strongest
+resistanc e. However, White  2 robs  him of
+his eye.  When Black expa nds his eye
+space  with 3 and 5, White plays  6. The
+end result  is the bent four  in the corner
+we have alread y seen a number  of times .
+Solution 3. Shor tage of liberties
+After White 1, what happens if Black
+immediately expands his eye space with
+Black 2 and 4?
+Whit e has the cut at 5. If Black  plays at
+'a', Whit e 'b' is atari.  Black is plag ued by
+his shortage of liberties.
+30
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{{{{{{{{~~]{}{{{{{}{`]{{{{~{~~~`]{{{{{{{``{]==========\

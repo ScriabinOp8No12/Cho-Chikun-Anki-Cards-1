@@ -1,0 +1,37 @@
+Pattern 2
+Black to play and live
+This shape  differs from  the previous  one
+in that Black has not extended  all the way  to
+the edge of the board. Should  he expand  to
+the right or the left?  The situation  requires
+that you  exercise  some caution. 
+Solution. Descent is the vital point
+Black's descent at 1 is an important  play  If
+Whit e answers  at 2, then  after  Black 3 we return
+to exactly the same 'living' shape  as the previ-
+ous pattern.  
+Black's descent at 1 is at the vital point  and
+makes use of  the specia l nature  of the corner. 
+Failure 1. Inad equate space
+Crawli ng to the left with Black  1 is rash. Once
+Whit e hanes  at the vital point with 2, Black
+won't  be able  to live, even by expand ing his
+area  with Black  3 to 5. The seque nce continues
+to Whit e 8. 
+White must  also be careful . If he blocks with
+Whit e 2 at 3, h e misses his chance. 
+Failure 2. Gree dy
+Black's hane at 1 is pointlessly greedy Be-
+cause  of this,  White 2, 4, and 6 lead  to a sudd en
+and unexpected  death. 
+Pay particular attention to the fact that the
+hane  at Black 1 versus  the descent  at 4 makes  a
+one space  differe nce in the widt h of Black's eye
+space.
+3{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~~~~~~~]{{{{{{````]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~~~~~~~]{{{{{{````]==========\
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~~~~~~~]{{{{{{````]==========\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{}{{{{{}{{]{{{~~~~~~~]{{{{{{````]==========\
+Failure 2

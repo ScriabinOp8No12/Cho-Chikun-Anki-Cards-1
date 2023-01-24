@@ -1,0 +1,33 @@
+Solution 2. Whit e play s a hane
+After Black's  diagona l play  at 1, if White
+plays  a hane  at 2, living is simple. Follo w-
+ing Black  3 and White 4, Black can force
+with  5 and  make life by descending at 7.
+Even  if Black makes the empt y triang le
+shape  at 5 first, he still cannot be kept from
+living.
+Failure 3. H one and connect
+If Black  begins  by playi ng hane  and con-
+nectio n at 1 and 3, he makes a shape  which
+is no longer alive. White will respond  with
+the hane and connection at 4 and 6, and
+Black  cannot get enough  spac e to m ake lif e.
+Instead  of 4, White can also simply de-
+scend  to 6.
+Failure 4. Ko
+What  about  if Black begins with the hane
+at 1 and then  steps down  to 3? While Black
+1 looks  to be a produc tive move,  it's actual-
+ly a poor  play. When  White plays atari at 4,
+Black  is forced  to block at 5 and all he gets
+is a ko.
+Failure 5. A super fluous play
+After Black 1 to White 4 of the previous
+diagram,  lets take a look at what  happens  if
+Black  tries the technique of Solutio n 1, by
+playi ng 5 and 7. Unfortunately, this time
+Whit e has the attachme nt at 8, so Black
+ends  up d ead.
+Black  1 turns out to have been  superflu-
+ous.
+63

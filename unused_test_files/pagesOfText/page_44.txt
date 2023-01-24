@@ -1,0 +1,32 @@
+Pattern 20
+Black to play and live
+This is simi lar to the previous  pattern, ex-
+cept  that Black has an unfilled liberty  on
+one side.  That open liberty is Black's lifeline.
+In this  shape, Black can live if it's his turn.
+Solution. Eye shape
+Black  1, making eye shape, is the vital
+point  When  White makes the placement  at
+2, Black makes an eye at 3. This time
+Whit e's stone cannot  connect to the outside.
+The mean ing of the open liberty  at 'a should
+be apparent.
+Failure 1. Opp osite side
+Take  a close look  at the directio n of Black
+1 in Solutio n 1. If Black  plays it on the
+opposite side,  then  after White's placeme nt
+at 2, this shape is dead. When  Black tries  to
+make an eye at 3, White will cut at 4. In this
+diagram,  Black  doesn't  make use of the
+open  liberty
+Failure 2. Descent
+What  about  Black's  descent at 1? Unfortu-
+nately White 2 turn s out to be at the vital
+point  Black  cannot  live. If Black  cont inues
+by descendi ng at 'a', Whit e can play
+elsewhere. Next, ' b' and 'c' are miai.
+If White make s the mistake  of playing 2
+on the wrong side, at 'c', Black can play  at 2
+and live.
+29
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{~{{]{{{{{{{{~~]{}{{{{{}{`]{{{{{{~~~`]{{{{{{~``{]==========\

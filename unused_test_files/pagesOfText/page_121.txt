@@ -1,0 +1,33 @@
+Pattern 18
+White to p lay, Black d ies
+You'l l probab ly be able  to find  the vital
+point quick ly, but be careful not to make a
+mistake on the several move s which follow
+There is also a possi bility of making a
+mistake if you thi nk too much.
+Solution. The 1-1 poin t
+Simply making  the placement at White 1
+is correct  After  Black 2, White 1, occupyi ng
+the 1-1 point,  is a calm  answer.  If Black
+connects at 4, White pushes at 5 and creates
+bent  four in the corner.
+Also, if Black uses 4 to block at 5, White
+can throw in at 4 and make  it into a false
+eye.
+Failure 1. An overplay
+Throwing in at 1, then making the place-
+ment  at 3 looks like a tesuji, but when Black
+fills in at 4, things go wrong.  After White 5,
+Black throws  in at 6, then  answers  White 'a'
+by squeez ing at 'b', so Black  survives.
+Failure 2. The atari is vulgar
+If White simply play s atari at 1, Black
+connects  at 2, and since Black has an open
+liberty at 'a', there  is no way to kill him
+outright  White 3, Black 4, etc. produc e a ko.
+Even if Whit e had a stone at 'a', Black an-
+swers Whit e 1 at 3 a nd with White 'b', Black
+'c', and again  it's a ko. Either  way,  White 1
+is a mistake.
+106
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{~{~~~~]{{{{{{~````{{{{{~`{{{]=====~=`==\

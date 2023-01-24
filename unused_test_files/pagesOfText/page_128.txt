@@ -1,0 +1,30 @@
+Solution 3. H ane kills
+In this positi on as well, the hane at White
+1 is intelligent If Black steps  down  to 2, you
+can readily  see that the attachme nt at 3 i s the
+vital point  Next,  if Black  'a', White b' serves
+the purpose.
+Also, if instead of 2 Black  conne cts at 'c',
+White 'd', Black 'b', White  'a' is good e nough.
+Failure 2. Black is alive
+Pushing at White  1 is also vulgar  After
+Black 2, the hane is correc t in this position,
+but when Black  plays  the open conne ction at
+4, there  is no long er any way  to kill  him.
+Additionally, conti nuing from  this posi-
+tion, we have  the follo wing variat ion.
+Failure 3. It's powerful, but...
+White's place ment at 1 is a way  to
+continue to harass the black group.  If Black
+2, connecting along  the bottom  at 3 is
+pow erful, but after Black  4 and White 5,
+Black captur es at 6 and is alive. If Black
+connects at 'a' instead  of 6, White captur es at
+'b', and  since Black  cannot atari at 6, it's a ko.
+Failure 4. Simple
+The belly attachme nt at White 1 is also a
+vulgar play When  Black  conn ects at 2, even
+if White links underneath  at 3, Black  4 and 6
+are sente; with the diagonal move at 8, Black
+is alive.
+113

@@ -1,0 +1,38 @@
+Failure 2. Atar i on the bottom
+Play ing atari on the edge  at White 1 is in the
+category  of good  move s. If Black conn ects at 2,
+Whit e makes the placeme nt at 3 and answers 4
+by cutti ng at 5, so Black  is dead. If Black
+cont inues by capturing at 'a', White  'b' is good
+enough.
+However,  Black's connection at 2 in this
+diagram  is a m istake.
+Failure 3. Jum p
+Answering White 1 by jumping to 2 is a good
+move.  As you can see, 'the center  of three
+stones'  is the vital point
+If Black makes the open connection at 'a'
+instead  of 2, White  jumps to 2 and Black  is
+dead.
+Let's investigate the positi on resulti ng from
+Black's  jump to 2 a l ittle further.
+Failure 4. Resp onding to the attachment
+White 1 is a confusing play,  but Black can
+simply  connect at 2. If Black  uses  2 to connect at
+'a', Whit e captures  at 2 and  Black  dies.  
+Reference. Black  is alive
+The quest ion here  is what to do whe n Black
+has an extr a liberty as at 'a'.
+White tries the placeme nt in 'the center  of
+three  stones; but Black makes  an open
+connection at 2; in answer  to Whit e's cut at 3, he
+can play atari at 4, so there  is no way  to kill
+him.
+139{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{ì{~`2{%``====ê!4#==\
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{{{``=====!=2ê=\
+Failure 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`2{ê``=====~=`!=\
+Failure 4
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{ê~~~]{{{{~~```~]{{{{~`{4#``======2!==\
+Reference

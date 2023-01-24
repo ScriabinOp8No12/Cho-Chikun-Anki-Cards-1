@@ -1,0 +1,34 @@
+Pattern 4
+White to p lay and make a ko
+A hane  has been added  to the black  posi-
+tion, so it looks  as if Black  is alive, but even
+with the hane, Black hasn't  corrected  all of
+his defects.  There is still room  for Whit e to
+play first and force a ko.
+Solution 1. Ata ri from the left side
+Once  again,  White's only  move  is the
+attachment  at 1. After  Black 2 there  is no room
+for White to play at 'a , but the atari at 3 is still
+threatening. Black is forced to defe nd with 4, so
+Whit e captures  with 5, sta rting a ko.
+Variation. Shortage of Iiberties
+After White 1 and the atari at 3, should Black
+connect at 4, White has the cut at 5. because of
+his shortage  of liberties, Black cannot play atari
+at 'a'.
+Having said that, if Black  has even a single
+liberty  on the outs ide, not even a white
+attachment  at 1 will work against the black
+group.
+Solution 2. The  throw-in
+After White 1, it looks  as if Black  is safe if he
+connects at 2, but White throws  in at 3 and gets
+a ko. Because  the corner  is such  a confined area,
+it's surprisin gly easy to misread  this  ko.
+130{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~`{{{{~`{{{`]=====`====\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~`{{{{~`{4%`ê=====`=#2!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~`{{{{~`%ê4`]=====`=#2!\
+Variation
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~`{{{{~`{{3`#=====`===!4
+Solution 2

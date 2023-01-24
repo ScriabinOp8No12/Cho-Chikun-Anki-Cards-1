@@ -1,0 +1,29 @@
+Failure 3. Black survives
+As was mentio ned,  the hane at White 1 is a
+mistake. Black 2 is the correct defe nsive play,
+after which Black is unconditionally alive. 
+In this diagram White fails  to punis h Black
+properly for his mistake w ith his first move . 
+Failure 4. Sudden death
+The attachment of Whit e 1 is at the 2-1 vital
+point  Black  has no choice but to try to expan d
+his eye space with 2, but with White 3 this
+shape becom es the fami liar bent  four in the
+corner. 
+Bent Four in the Corner (2)
+Diagram 1: Let's just confirm that Diagram 1
+ends in the dead  bent-four- in-the-corner
+shape. 
+At White's leisure he can fill in Black's out-
+side liberty at 'a', then  continue with 'b' and 'c'
+to make  a ko. This makes  Black  'conditionally'
+dead. The condition, of course,  is that White's
+surrounding stones  must be alive. 
+Diagram 2: So th at you don't  confus e the bent-
+four-in-the-corner  shape with the bent-four
+shape which doesn't end up in a ko, take a
+look  at Diagram  2. This is certainly a bent-
+four-in-the-corner  shape,  but there  is no place
+for White to play  and get a ko. This  shape does
+not result in Black's  death; rather, it is a seki.
+19

@@ -1,0 +1,36 @@
+Pattern 28
+White to p lay and make a ko
+The differe nce betwee n this position and
+the last one is the presence  of Black's  hane
+on the edge of the board.  The problem,  you
+could  say, is how Black should  make use of
+it. There are two alternatives for White's at-
+tack.
+Solution 1. The  small-knight jump
+Once  again, the small-knight jump  to White 1
+is correct.  Afte r Black  2 to 4, the placement at
+Black  5 is Whit e's best play this time.  After
+Black  mak es eye shape  with 6, White pushes  in
+at 7 and makes  a ko. You can probab ly assume
+Black  'a' and White  'b' starting a direct  ko.
+Failure. The effect of the black hane
+The attachment at White 1 was the solution
+to the previous pattern,  but this time it's a
+mistake.  After Black  2 and White 3, Black  4 is a
+calm  answer  and  now,  ironically, White  1
+doesn't  wreck Black's  eye shape. The pow er of
+this single hane  is tremend ous.
+Solution 2. The  large-knight  jump
+White can also make the large-knig ht jump  to
+1. Playing 2 to 6 is Black's  best  defe nse and
+Whit e crawls at 7, again  making  a ko.
+However,  if Black  wins this ko, he will
+capture  at 'a', so compar ed to Soluti on 1, Black
+comes  out sligh tly ahead.
+120{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~`{{{{~`````]{{{{~{{{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~`{{{{~`````]{{{{~{4{6ê]=====#!2&%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~`{{{{~`````#{{{{~{`{!2]=====~~`4=\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{~~~~~~`{{{{~`````]{{{{~2%6{{]====ê#4!&=\
+Solution 2

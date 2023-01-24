@@ -1,0 +1,37 @@
+Pattern 1
+White to p lay and make a ko
+If you simply  begin with a hane in the
+corner, Black will be able to live.  You
+should verify for yourself,  however, that
+due to the peculi arities of the corner,  there
+are a number of ways to proceed.
+Solution 1. Att aching
+The vital point  is the attachme nt at White 1.
+After Black 2, the jump  to White 3 is also a vital
+point  Black  has no choice but to run into White
+at 4, so with White  5 and the throw-in at 7, it
+becomes  a ko. It is also  possible to play  5
+directl y at 7, but in terms of an actual game, 5 is
+more profita ble for White.
+Solution 2. The  cut
+After White 1 and Black  2, White can also cut
+at 3, because  the shor tage of libert ies of Black's
+three  stones make  it possible to follow Black  4
+with  White 5. Whe n Black  captures,  it's a ko.
+This  result is the same  as playi ng a ko with 3 at
+5, Black  4, White 3.
+Solution 3. Playi ng ko directly
+In response  to the clam p at Whit e 1, if Black
+blocks at 2, White play s an atari at 3. As it
+stands  it's a ko fig ht in the corner.
+White 3 at 'b', followed by Black 'c', is also a
+ko. Instead  of Black 2, connecting tightl y at 'a'
+lets Whit e conne ct underneath  at 3 and Black
+dies.
+126{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{{{`]=====`====\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`64&`2====%`=#=!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{4#`2=====`=%6!\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{£ê`#=====`=ì2!4
+Solution 3

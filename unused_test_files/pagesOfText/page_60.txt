@@ -1,0 +1,29 @@
+Variation 4. A struggl e
+Whit e has to capture  at 9, but after this
+Black  can recapture  two whit e stones  by
+playi ng one space  below 9. Next, White  also
+recaptures  with 11 at 9, and we mov e to the
+next  diagram.
+Variation 5. D ouble ko
+Conti nuing from the last diagram, Black
+connects at 12 White has to fill in an outs ide
+liberty at 13, and Black  captures  at 14. This
+shape  is a doubl e-ko, so it's alive. Even  if
+Whit e eliminates all possible ko threats be-
+fore  recaptur ing at 14, Black can simply
+take the  ko on  the other side  at 'a'.
+Failure 1. N egligence
+After White 1 to 3,  playi ng atari at Black 4
+is a blu nder After White connects at 5, Black
+has no choice but to secure  his base with 6.
+Whit e 7 forces Black 8 and White  fills in an
+outside  liberty at 9. Afte r Black takes the
+four stones with 10...
+Failure 2. Ko
+Whit e has the attachment at 11. Black is
+forced  to play 12, and with  13 White gets a
+ko.
+In this pattern, the path  leading to the
+double  ko is interesting, and worth  revie w-
+ing at least once more.
+45

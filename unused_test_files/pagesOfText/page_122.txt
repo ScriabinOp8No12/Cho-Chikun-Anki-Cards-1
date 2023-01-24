@@ -1,0 +1,36 @@
+Pattern 19
+Black is Alive
+This pattern  often  appears in actual  play
+You need  to learn why,  as it stands  now, the
+black group is alive.
+Since White does  have at least  one trou-
+blesome  way of  attac king, be careful.
+Variation 1. Placem ent
+The  so called 'troub lesome' play  is the
+placeme nt at White 1. In response,  Black should
+answer  at 2. When  White descend s at 3, Black
+blocks at 4. Even if White now  throws  in at 5,
+Black  can simply capture  at 6. White's capture
+at 'a' wi ll be gote.
+Variation 2. W hite capture s in sente.
+This  shows  an alternative for Black  6 in the
+previous  diagram. Whe n White throws in at 5
+there,  Black  captures  at 1; if White plays 2,
+Black  mak es life with 3, but in this case  Whit e
+has made some  endga me move s in sente.  It's a
+small  detail,  but in actual play  the prev ious dia-
+gram is  the correct way  to defend.
+Variation 3. Perfect ion
+If White begins by playing the descent  at 1,
+Black  2 makes perfect shape.  For Whit e,
+following Variation 1 and aiming at the
+endgame  move  is mor e profitable.
+Addit ionally, what  if Black  play s elsewhere
+instead  of 2? This  will be our next  topi c.
+107{{{{{{{{{{]{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{{~~```]{{{{{~`{{{]=======`==\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{{~~```]{{{{{~`%{2]=====#=`4!6
+Variation 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{{~~```]{{{{{~`~1`]=====~@``~3
+Variation 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{{~~```]{{{{{~`{{{]=====!=`=2\
+Variation 3

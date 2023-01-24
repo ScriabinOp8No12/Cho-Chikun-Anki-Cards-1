@@ -1,0 +1,35 @@
+Pattern 6
+White to p lay, Black d ies
+The location of the bulge  has shifted to
+the right side.  For White, deciding where  to
+put the first stone in this position can be
+somewhat troublesome.
+Solution 2. Begin  with a hane
+In this shape, begi nning with the white  hane
+at 1 is correct. If Black  blocks at 2, White's play
+at the vital point  of 3 comes  immediately to
+mind.  After Black  4 and  White 5, Black is dead. 
+If Black blocks with 4 at 5, it should be appar-
+ent that White  s insertio n at 4 turns this into a
+false  eye.
+Solution 2. Throw -in
+What about if, after White 1, Black plays at 2,
+to assure  himse lf of one eye in the corner? In
+that case  the throw-in at 3 works. This makes
+miai of 'a' and 'b': (Black  'a', White 'b' and vice
+versa)  Instead  of 3, a white extensio n to 'b' will
+also kill Black.
+Failure. Wrong timing
+White 1 really looks  like the vital point,  but
+playi ng it immediately fails. Black lives with  2
+to 4. He could  also live with Black 2 at 3, fol-
+lowed  by White 2, Black 'a', White 4: this  is seki.
+The trick  is to begin with a hane, then  play at
+the now -obvious vital  point.
+8{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~]{{{{~```{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~]{{{{~```4``=====!2=#%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~]{{{{~```#``=====!=4!2\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{~~{~`~]{{{{~```#``=======4!2\
+Failure

@@ -1,0 +1,36 @@
+Pattern 8
+White to p lay, Black d ies
+Black's shape is the same  as before, but
+the marked whit e stone  which has been
+added  on the perimeter is menacing. By at-
+tacking Black's  defect, you' ll have  no trou-
+ble robbi ng him  of an eye.
+Solution 1. Att aching  Underneath
+The attachment at Whit e 1 is the vital point  If the
+moves moves to 4 follow, then the five-space big
+eye emerges.
+If Black  play s 2 at 4, White pulls  back  at 2
+and there is just no way  for Black to liv e.
+Solution 2. Bel ly attachment
+White can even  play  the attachment at 1 and
+produce  a dead shape. When Black attaches  at
+2, White 3 is the play  which aims at killing
+Black  outright After Black 4, the attachme nt at
+Whit e 5 works.  You  can see how  effective the
+marked  white stone is. Playi ng White 3 at 'a',
+letting Black play  at 3 and get a ko, is a mistake.
+Failure. Place ment
+White 1, which at first glance has the aura of
+a vital  point, is powerless in this position  as
+well. Black  responds  with 2 and 4 and the two
+whit e stones  won't be able to conn ect to the
+outside.
+Even if Whit e switches 3 to 4, Black simply
+blocks at 3 a nd it's all over.
+136{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{'{`{{{`~=========`\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{~#`{%{`~====2!4==`\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{'{`4!#`~=====%ê2=`\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{~{`{2{`~======#!4`\
+Failure

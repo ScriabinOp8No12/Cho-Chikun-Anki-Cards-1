@@ -1,0 +1,33 @@
+Pattern 5
+White to p lay, Black d ies
+On the left side  of his positio n, Black
+played the open  conne ction instead  of de-
+scendi ng. Com paring  the descent  with  the
+open connection, each has its plushes and
+minuse s, but somehow  the minuses  of the
+open connection seem greater  If it's White 's
+turn  to play,  Black  dies unconditionally.
+Solution. Crush ing
+The answer  is the attachment at White 1,
+decisi vely crushi ng Black's  eye shape.  After
+Black  2, Whi te hanes  at 3 and Black doesn't
+have  enough space  in which to live. The con-
+tinuati on is Black  'a', White 'b'. I'm sure  it's
+readily  appa rent that  this  is not a ko.
+Failure 1. Resi sting
+It would  be easy  in this positi on to slip up
+by almost automatica lly play ing a hane at 1.
+Black  can answer  this, however, by resisting
+with  2; when White hanes  again at 3, he
+blocks at 4 to g et a ko.
+Failure 2. Thinki ng too hard
+In attach ing at 1, White was thinking too
+hard.  Black  can resist  with  2, and answer
+Whit e 3 by connecting at 4. When  White de-
+scends  to 5, connecting solidly at 6 is a calm
+response;  with White  'a', all White gets is a
+gote seki.
+If Black play s 6 at 'a', White  throws in at 6
+and Black dies.
+131
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{~{~`{{{`]======`===\

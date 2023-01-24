@@ -1,0 +1,35 @@
+Pattern 28
+White to p lay, Black d ies
+Beca use Black  has an extra  liberty at 'a',
+you can't proceed  as in the previous  pattern.
+However, as before,  if it's White's turn  to
+play, Black  dies.  What  kind  of proc edure
+does  White have available to him?  The first
+move  is the k ey.
+Solution 1. Ju mp
+The jump down to the first line is a
+good  move  here.  Afte r Black 2 to 4, White
+attaches  at 5. If White 1 were  at 'a', then
+White 5 woul dn't work.
+Note  that the jump  to White 1 would
+have  worked in the previ ous pattern  as
+well, but we weren't  ready  to discuss  it
+yet.
+Solution 2. R esistance
+After White 1, Black 2 is a strong
+answe r, so White  has to be cunni ng as
+well. The attachment at White 3 prev ents
+further resistance, since after  Black  4,
+White 5 to 9 kill the black  group.  In the
+middle  of this sequence, should Black
+play 4 at 'a', White answers at 'b', Black 'c',
+and then  White  5 gives  the same result
+Failure. Tricked
+After White 1 and Black 2, if White
+plays 3, he has been caught in Black's trap.
+With 4 and 6, Black is able to make eye
+shape and  with Black  8 he g ets a ko. Wh ite
+can yield the ko by connecting at 'a', then
+start the ko fight  again after  Black 'b'.
+163
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{ê~~~]{{~{~~```{]{{{{{{{{{`]==========\

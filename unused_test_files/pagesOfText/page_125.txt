@@ -1,0 +1,35 @@
+Pattern 21
+White to p lay, Black d ies
+This is similar to the prev ious diagram,
+but because Whit e has descended to the
+edge on  the left side, Black has bad aji.
+White's method  was seen previous ly in a
+similar example.
+Solution. Sacrifice cut
+The combi nation of the cut at White 1 and
+placement at 3 is the procedure  referr ed to.
+When Black  captures  at 4, White pushes  at
+5. At this point you can probabl y see that
+this is the same  type  of shape as in the
+prev ious pattern. Afte r White 5, answering
+a black descent to 'a' with the diag onal play
+at 'b' is good  enough.
+Failure 1. Vital point first
+After White 1 and Black 2, Whit e 3 is
+wrong. Should Black capture  at 'a' with  4,
+this reverts to the solut ion diagram, but
+Black 4 turns out to be the vital point  and
+Black is allowed  to live. Even if White plays
+'b', Black simply  captures  at 'a', and it's all
+over.
+Failure 2. Undistingu ished
+Pushing in at White 1 isn't very smart
+Black connects at 2 and gets a living shape.
+For Black  making  this tight  connection is
+important, since if he play s the open
+connection at 'a', he allows White to throw
+in at 2.
+Also, if Whit e play s 1 at b', Black  conne cts
+solidly at 2 and  Whit e has no conti nuation.
+110
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{{{{{{{{{~]{}{{{{{~~`]{{{{~~~```]{{{{~``{{{]====~=====\

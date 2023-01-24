@@ -1,0 +1,36 @@
+Pattern 3
+White to p lay and make a ko
+Black's three stones have an extra liberty
+on the outside.  In the previous  pattern  there
+were several  methods  of obtai ning a ko, but
+in this pattern they have been reduced  to
+only  one.
+Solution 2. The  same idea
+As you might  have thought,  for his first
+move,  Whit e is left with only the attachme nt at
+1. When  Black descends  to 2, White jumps  to 3.
+This,  again, is his only  option.  The idea  behi nd
+Black  4 to 8 appeared in Pattern  1. Note  that,
+whe n Whit e wins the ko, he connects at 8 and
+Black  is dead .
+Failure. The cut doe sn't work
+After White 1 and Black  2, cutti ng with 3 is
+unsuc cessful. Once Black  plays atari  with 4, it's
+all over.  Since  he has an extra liberty even if
+Whit e plays a hane at 'a', Black  can simply
+block at 'b'.
+Solution 2. Im mediate ko
+In response  to White 1, Black also  has the
+choice of blocking with 2. Whit e 3 and Black  4
+then  prod uce a ko .
+If White plays 1 at 3, Black  descend s to 1 and
+makes  the comb shape.  Also, White  1 at 'a' lets
+Black  play  'b' and live. Refer  to the previous
+patterns  for both mov es.
+129{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{{~~~]{{{{~~```~]{{{{~`{{{`]=====`====\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{{~~~]{{{{~~```~]{{{{~`64&`2====%`=#=!\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{{~~~]{{{{~~```~]{{{{~`{4#`2=====`לך=!\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{{{]{}{{{{{~~~]{{{{~~```~]{{{{~`{{{`#=====`==2!4
+Solution 2

@@ -1,0 +1,35 @@
+Failure 2. Firs t impressions
+Your  very first though t was probab ly White
+1. But Black  blocks at 2, and then  White thrusts
+up at 3. Now,  if Black plays  at 'a', White cuts at
+4 and Black  dies. Instead , at this point, the con-
+nectio n at 4 a lso becomes  a good pl ay for Black
+If White plays  3 at 'b', then  Black  'a', Whit e 3
+and once again Black  connects at 4 and  lives.
+Failure 3. D efensive slip-up
+In response  to the placeme nt at White 1,
+Black's  block at 2 is a defensi ve slip-up. After
+Whit e crawls at 3, Black  is dead.  The cont inua-
+tion Black 'a , White 'b' produces  bent four  in
+the corner.
+Failure 4. A vulga r play
+Pushi ng at White  1 is a vulga r move. If Black
+obligingly connects at 'a' after  White 3, he cer-
+tainly dies. However, he will block at 4 instead.
+Now,  if White  'a', Black  connects at 'b' and lives.
+Failure 5. Place ment
+The place ment of White 1 might  also come to
+mind.  When  Black plays  2, White tries  to make
+a large  eye inside Black's  shape  with  3 and 5,
+but Black  has the throw-in at 6, so the attempt
+ends  in failure.
+If only  Black's  liberty at 'a' were  already filled
+in...
+25{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~4`ì{{{{{~```#ê======`=2!\
+Failure 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~{`2{{{{{~```ê]======`=#!ì
+Failure 3
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~ì`!{{{{{~```ê2======`=4#\
+Failure 4
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{}~~~{{{{{~~~4`2{{{{{~```#!======`=%6\
+Failure 5

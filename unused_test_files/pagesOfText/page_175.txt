@@ -1,0 +1,38 @@
+Pattern 25
+White to p lay and make a ko
+In this  shape,  deciding where White
+should make his first move  can be a little
+confusing. You need  to return  to your  basic
+approach  to life and death  prob lems.  You
+should also be carefu l about how Black will
+defend .
+Solution. Throw -in
+One  of the fundam entals of life and death is
+reducin g from the outside. The throw- in of
+Whit e 1 adheres  to that  principle. For Black,
+connecti ng solidly  at 2 is the best  response,  then
+the hane  at W hite 3 yields  a ko.
+If White plays  1 at 2, Black  will connect at 1
+and live. Onc e again,  l is the vital point.
+Variation. Unconditional
+After White 1, capturi ng at Black 2 is a
+defens ive mistake. White's attachme nt at 3 is a
+good move  and after Black 4, Whit e descend s to
+5, destroying  Blac k's eye at ' a'.
+Should White play 3 at 'b', Black  conne cts at 4
+and lives.
+Failure. Descent
+The descent to 1 is often a good  move, but in
+this case it lets Black  play at 2 and make  two
+eyes.  If instead  of 2, Black connects at 'a', White
+can attach  at 'b', producing a sudden death for
+Black,  so h e mus t also be careful .
+Addit ionally, if White uses 1 to attach  at 2,
+Black  plays at ' b' and lives.
+160{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{{~~``~`{{{~{~`{{`]=======`==\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{{~~``~`{{{~{~`{2`!=======`=#4
+Solution
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~ì{{{{{~~``~`{{{~{~`ê4`!=====%=`#=2
+Variation
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~{]{}{{{{{~{~]{{{{{~~``~`{{{~{~`{{`ê=====!=`2ì\
+Failure

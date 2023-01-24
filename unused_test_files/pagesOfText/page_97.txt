@@ -1,0 +1,34 @@
+Pattern 2
+Black is Alive
+In this case,  one of Black's  outside  liber-
+ties is open.  Beca use of this, despite  havin g
+sente, White will be unab le to get even a
+ten-thousand -year ko. This  comes up often
+in actual  play, so make sure you thorough ly
+understand  the difference betwee n having
+and not havi ng an open  liberty.
+Solution 1. The  open liberty
+If there is any possibility, White  1 is it Just as
+before,  Black hanes at 2, and White crawl s to 3.
+At this  point,  Black's  next play  is important.
+Solution 2. A whit e sente seki
+Black's attachme nt underneath at 1 is a good
+move.  When Whit e plays  2, Black pulls  back  at
+3 and  gets a seki.
+Strictly speaking,  if it's White's turn,  he can
+get a 'sente  seki'.  If this pattern  comes  up in an
+actual  game, Black must count  the corner terri-
+tory as zero.
+Variation 1. A cleve r move
+When Black  attaches  at 1, what happens if
+Whit e blocks on the other side? This  variation is
+the highlight of this  pattern.
+Black 3 is clever. Next, after White is 1 forced
+to capture  the two stones  with 4 —
+82{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`{#!2==========\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`{~~`=======31@\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{~{````]{{{{{~`{~~`=======@13$
+Variation 1

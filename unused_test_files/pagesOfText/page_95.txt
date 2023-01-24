@@ -1,0 +1,36 @@
+Pattern 1
+White to play. A Ten-Thousand-Year Ko
+This shape  is one space  longer than  the 'L-
+shape'. You  need  to learn  that when all of the
+outs ide liberties of this group  have  been
+filled in, it's possible for White to play  and
+make  a ten-thousand -year ko. Of course,
+you'l l also need to know what  is meant by
+ten-thousand -year ko.
+Solution. Belly attachment
+Whit e's only  play  is the belly attachmen t
+at 1. Whe n Black  plays  2, White crawls at 3.
+Black's  hane  at 4 is at the vital point, and
+Black  then  answers White 5 by descend ing
+to 6. This  shape is known  as the ten-
+thousand-year ko.
+Now,  let's examine  the properties  of this
+ko.
+Reference 1. Suicida l
+One  of the specia l characteristics of this
+shape  is that is difficult for Black to make a
+move  here.  If Black fills in a liberty at 1, for
+example,  White captures  at 2 and starts  a
+real ko for the life of the black group.
+Before  playing  1, Black had better  be very
+certain  of his ko threats.
+Reference 2. The  right to choose
+If Black decides not to make a move
+here,  eventual ly White will fill in the
+outside  libertie s and captur e at 'a' to start  a
+ko. After  this,  if White wins the initial ko,
+he has the option  of either  conne cting the
+ko, to get a seki,  or filling in a black liberty
+at 'b'  to make i t a tr ue ko.
+80
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{~~~~~]{{{{{~````]{{{~{~`{{{]==========\

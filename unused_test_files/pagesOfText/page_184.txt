@@ -1,0 +1,36 @@
+Pattern 33
+Black to play and live
+This time Black  has an open liberty on the
+roof  of his shape.  This liberty  doesn't seem
+to make much  of a differen ce, but in fact it
+is very relevant This pattern is a nice little
+life and death  problem.
+Solution. Whi te can't com e in
+Black makes the open connection on the left
+side  at 1. When Whit e cuts at 2 it looks as if
+Black  is going  to die, but Black has the descent
+at 3 to allow  him  to narrow ly escape.  When
+Whit e play s 4, Black  descends  at 5. White can't
+push  in at 'a'.
+Play ing Black  3 at 4 lets White  hane at 3 and
+Black  dies.
+Failure 2. The  cut
+The open conn ection of Black 1 is in the
+opposite  direct ion. You  probably rememb er
+from  befor e that White will cut at 2, so Black
+dies.  The sequen ce continues  up to Whit e 6.
+Note  that in the midd le of this sequen ce, Black
+cannot use 3 to d escend at 4.
+Failure 2. D escent
+If Black begins with the descent at 1, White
+will play a hane  at 2, then answer Black  3 by
+attach ing at 4.
+Black also dies if he uses 1 to descend at 2,
+since White answers  with the placeme nt at 3.
+169{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{~{]{}{{{{{~{{]{~{~~~``~~]{{{~``{{``~==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{~{]{}{{{{{~{{]{~{~~~``~~]{{{~``{@``~====5=1$=3\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{~{]{}{{{{{~{{]{~{~~~``~~]{{{~``@5``~====$=31=^\
+Failure 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{~{{~{]{}{{{{{~{{]{~{~~~``~~]{{{~``{5``~===^@=3$=1\
+Failure 2

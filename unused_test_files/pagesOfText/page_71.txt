@@ -1,0 +1,38 @@
+Pattern 13
+Black to play and live
+As we move from  the basic patterns to
+the practi cal applications, the shapes  will
+change  little by little.
+This black group  is a somewhat unsatis-
+factory shape, but if it's Black's turn , he can
+live. The  hane on the  left side is his lifeline.
+Solution 1. Di agonal play
+Black's diagon al move  at 1 is a good play.
+Whit e's push  at 2 and placement at 4 are at the
+vital points,  but securin g an eye with  Black 5 is
+good enough.
+The open  liberty at 'a' is also coming  to his
+rescue.  If this liberty were filled in, then the cut
+at 'b'  would  kill Black
+Solution 2. Turning  the tables
+After Black 1, you might  also  think of the
+placeme nt at White 2 Black  3 is force d and with
+Whit e 4 and 6, you might, for an insta nt, think
+it is ko. However, it is not ko; Black fills in with
+7 and 9 and turns the table s on White, catch ing
+two white stones  through a shortage  of liber-
+ties.
+Of course, in actual play you would  capture
+once  with 7 at 'a'.
+Solution 3. The  2-1 poi nt
+After Black  1, if White hanes  at 2, Black  is
+solidl y alive  with 3. Black 1 and 3 are both  at
+the 2-1 vital  points. As a rule, if you play  at two
+vital points,  you wil l be aliv e.
+56{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`]{{{{{{~`{`]{{{{~{~`{{]======`===\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~ê~`5{{{{{{~`@`]{{{{~{~`3{1======`==$\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`3{{{{{{~`5`]{{{{~{~`$71=====*`^ê@\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{~~]{}{{{{~}~`@{{{{{{~`{`]{{{{~{~`{{1======`==3\
+Solution 3

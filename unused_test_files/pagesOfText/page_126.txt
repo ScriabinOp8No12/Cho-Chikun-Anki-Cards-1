@@ -1,0 +1,36 @@
+Pattern 22
+Black to play and live
+The proble m for Black  is whether  to se-
+cure additional eye spac e or give  priority  to
+making  eye shape. The fact that Black  has
+an liberty  at 'a' is the key to this position.
+You need to read it  out thorough ly.
+Solution 1. The jump
+Black 1 is the point that makes  build ing
+eye shape  the easiest  White has no choice
+but to make  the placeme nt at 2. After  Black
+3, White should  probab ly hane  at 4, but re-
+sponding to this by blocking at Black  5 is a
+strong move. White 6 is met by Black  7,
+forcing White to capture  one stone,  and
+Black 9 prepares to recapture at 5.
+Solution 2. Losing paints
+The conn ection at 1 comes  easily to
+mind.  After Whit e 2 to 4, Black 5 is a good
+move  which has already  been  show n to
+make  the black group  live (page 82). Even
+so, since White can get a sente seki,
+evaluated from  the point  of view of actua l
+play, this  is inferior to Diagram  1.
+Reference. Shor tage of liberties
+For referen ce, in this shape Black's
+liberty  has been filled in by the marked
+white stone. This time if Black  plays  the
+jump to 1, after the moves  from White 2 to
+Black 5, White can play  6 and 8, so Black
+dies.
+Conse quently, Black must conn ect with
+1 at 6; when White attaches  at 'a', the result
+is a ten thousand  year ko.
+111
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{~{{{]{}{{{~ê~~~]{{{{{~`{``]{{{~{~`{{{]==========\

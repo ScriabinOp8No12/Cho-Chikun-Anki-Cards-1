@@ -1,0 +1,40 @@
+Pattern 7
+White to p lay and make a ko
+One of the teeth on the left side of the
+com b shape  is missing, and Black's shape  is
+imperfect The ques tion is how  to take ad-
+vantage  of this. There  are a number  of pos-
+sibilities for the first move, so latch ing onto
+the solutio n may prove  difficult.
+Solution 1. Att aching
+Atta ching at White 1 has a good  feel to it and
+in fact is the best way  to approa ch this position.
+Black  has no choice but to resist by attach ing
+underneath  at 2 and then  to answer  White  3 by
+connecting at 4, making a ko. Needless to say, if
+Whit e wins  the ko fight, he will connect at 2,
+making  a big eye.
+Reference. The surr oundings
+In the previous diagram,  there  is one thing
+you must be  carefu l about
+I'd like to warn  you  about the position
+resulti ng from Black's playing 1 and 3 to
+capture  the four  stones. The prob lem is the
+presence  of the marked  white stone. If it were
+not there, after White play s inside the black
+positio n, there  is some  reason  to fear that Black
+could  escape  by playi ng at 'a'.
+Variation 1. D eath
+You  also need  to read out the variation  in
+which, following White's attachment at 1, Black
+connects at 2. Of cour se, descend ing to 3 is
+forced.  After Black  4 and  6, W hite turns  at 7 and
+now,  even if Black plays  'a', it's not a seki
+because  of the cutting point at 'b'. Black  is dead.
+134{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{{{`{{{`~=========`\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{{{`{!4`~======#2%`\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{'{~~```~]{{ê{{`1~{`~=====3~@~`\
+Reference
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{~{~~```~]{{{%4`2!ì`~====6=&#ê`\
+Variation 1

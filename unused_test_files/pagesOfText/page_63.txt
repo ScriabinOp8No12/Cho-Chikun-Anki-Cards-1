@@ -1,0 +1,35 @@
+Pattern 8
+White to p lay, Black d ies
+A hane has been  added  to the left side of
+Black's group.  For this reason,  Black's  group
+is going to provide stubbor n resistance,  and
+White is left with only  one method  of
+killing it Where  is White's first move?
+Solution 1. Belly attachment
+The only move  is the belly attachment at
+Whit e 1. When Black  plays  2, White's de-
+scent to 3 is a good  move.  If Black continues
+at 'a', White turns  at 'b', after which he can
+get a five-space big eye. If Whit e carele ssly
+jumps  diagonally to 'b' with  3, Black  throws
+in at 3 and  gets a ko.
+Solution 2. Thre e-space  big eye
+After White's attachme nt at 1, Black's at-
+tachment at 2 is a response  which displays
+tena city. In response, White s descent  to 3 is
+impor tant After  Black  4, White  5 and  7
+make a three-space big eye.
+Should  White play 3 at 4, Black gets a ko
+with  3.
+Failure. An o bstacle
+Don't  jump  to the conc lusion that even
+Whit e 1 will kill the group.  Black's turn at 2
+is a good  move, and in response  to White's
+placeme nt at 3, Black blocks at 4, so White
+cannot conn ect at 'a'. The existence of this
+variation is wha t makes  the presence  of the
+marked bla ck stone  so tricky.
+Should  Black capture  the stone  at 'a' with
+2, White hanes  at 'b' and kills him.
+48
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~]{{{{{{~```]{{{{~~``{{]=====`====\

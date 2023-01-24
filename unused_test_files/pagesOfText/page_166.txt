@@ -1,0 +1,30 @@
+Failure 2. The  vital point
+Answering White 1 with the jump  to 2 is a
+good  move,  as this turn s out to be the vital
+point  after all.
+Well, in this positio n is Black alive or not?
+We have to pur sue this  a littl e bit further.
+Failure 3. Aliv e
+If any mov e will work, it's probably the
+attachment at White 1. After  Black  2, White
+plays  atari at 3, but Black  connects at 4 and
+is okay.  White 5 is met by a black capture  at
+6 and Black just manages  to make eyes. Even
+if White play s 3 at the atari of 5, Black
+answers  at 6 and gets the same  result  In this
+positio n, Blac k is alive.
+Failure 4. Vulgar
+The belly attachment at White 1 has to be
+called a vulgar  move. After Black  2 and
+Whit e 3, the jump to Black  4 is important
+After this, Black  lives with  White 'a', Black
+'b', White 'c', Black 'd'. If Black uses  4 to play
+atari  at 'b',  White plays  a hane  at 4 a nd gets a
+ko, so be  careful .
+Failure 5. An awfu l play
+Pushi ng down with Whit e 1 is an even
+worse  way to play Black defends  at 2 and
+the shape  is exactly  the same  as in Pattern
+17, so it's a living shape.  If White plays  a
+hane  at 3, Black conn ects at 4.
+151

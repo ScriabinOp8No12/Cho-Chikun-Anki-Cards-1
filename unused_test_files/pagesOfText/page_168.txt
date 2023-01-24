@@ -1,0 +1,34 @@
+Pattern 21
+White to p lay, Black d ies
+You have to force the marked white stone
+to do more than  the ordinary. If the very
+first stone  hits the vital point,  Black's  weak
+spot will autom atically be expose d.
+Solution 1. Turn  under
+White 1 occupies  the 2-1 point. After Black 2,
+Whit e cuts at 3 and turns  under  at 5. Up to
+Whit e 7, the marked  whit e stone has performed
+beauti fully. Play ing Whit e 3 at the atari of 6
+might  also occur  to you,  but Black  captures  at
+'a' and  the mov e fails.
+Solution 2. Place ment
+If Black  answe rs the atta chment at White 1 by
+connecting at 2, White makes the placeme nt at
+3. Black  4 is met by White 5, and with 7 this
+becomes  a false eye. Addit ionally, if Black
+blocks with 4 at 5, Whit e conne cts at 4 and gets
+a three- space big eye.
+Failure. Lack  of preparation
+If White begi ns by cutting  at 1 and then turn s
+under  at 3, after Black 4 and White 5, Black  is
+able  to make two eyes by play ing at 6. Al-
+though  the tesuji of White 1 and 3 is what
+you're  aiming at, some  preparation  is necessary
+first
+153{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{~{~~``~]{{{{'{`{{``==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{~{~~``~]{{{{'{`#4``=====&%62!ê
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{~{~~``~]{{{{~&`{2``=====6%#4!\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{{~~~]{{{~{~~``~]{{{{~{`!2``=====%#4=6\
+Failure

@@ -1,0 +1,34 @@
+Pattern 17
+White to p lay, Black d ies
+A somewhat  simila r pattern  follo ws.
+Black's base seems to have  gotten a bit
+broader, but with  White's first move  it'll re-
+vert to a  pattern  that  we've alread y seen.
+Solution 1. Ha ne
+The  ordina ry hane of White  1 is good
+enough.  Black  has no choice but to make the
+open  connection at 2. After this, White plays
+the standard combination of 3 and 5. If Black
+plays  6 at 'a', White conn ects at 7, and Black
+will be reduced  to a false  eye on the left.
+Solution 2. The  tight connection
+As another  possib ility, Black could respond
+to White's hane at 1 with  the tight connection at
+2. How ever, when White craw ls in to 3, this
+becomes  a dead shape.
+Reference. Ko or death
+In this positio n, even if it's White s turn,
+Black  is not necessarily dead.  If White blocks  at
+'a', Black descends to 'b', and, as we showed
+earlier,  this shape becomes  a ko. Therefor e, if
+Black,  thinking that he can play  elsewhere here
+and get a ko, thoughtlessly exchan ges Black 'a'
+for White 'c', he has made his own  group
+vuln erable.
+105{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~```]{{{{~``{{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~```#{{{{~``{{64====&!=2=%\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~```]{{{{~``2{{]=====!#===\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{{~~~]{{{{~~~```]{{{{£ê`{{{]======ì===\
+Reference

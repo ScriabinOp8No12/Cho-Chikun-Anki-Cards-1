@@ -1,0 +1,38 @@
+Pattern 2
+Black to play and live
+You  can think about  this as if White, in
+the previous pattern, made the placement
+inside as shown . This placement of White's
+does n't work,  but it's easy for Black to make
+a defensive mistake, so be carefu l.
+Solution 1. The  bump
+Play ing the bump  of Black 2 is good  enough,
+but don't make a mistake after  this.  In response
+to White 2, conne cting at 3 is impor tant Next,
+after  Black  4, you mus t block from  this side
+with  5, and  now,  since there is room  at 'a', Black
+is alive. If Black plays  5 at 'b', White 'a' kills
+him.
+Failure. Careless
+After Black 1 and White 2, be very  careful,
+since it's easy  to block at 3. White extends to 4
+and when  Black  connects at 'b', in order to de-
+fend  against  a white  threat  to captur e by
+playi ng 'a', White  plays  a hane at 'c', killing the
+group.  You need  to understand  clearly  the
+difference  betwee n this and playing Black 3 at
+'b'.
+Solution 2. Whit e is too late
+In response  to Black  1, even if White  now
+attaches  2, it doesn't  revert to a ko. Playi ng atari
+at Black  3 is good  enough;  if Whi te then crosses
+under  with 4, Black  conn ects at 5 and is
+unco nditionally alive. If Black descend s with 3
+at 4, it  becomes  a ko.
+128{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{{{`]=====`=~==\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{13`ê====$`=~@5\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{1ì`£====ê`$~@3\
+Failure
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~~```~]{{{{~`{15`$=====`3~=@\
+Solution 2

@@ -1,0 +1,39 @@
+Pattern 7
+Black to play and live
+A 'leg' has been  added to the left side of
+the 'L-shape.' In this case, if it's Black's  turn ,
+he is alive, and if it's White's turn , he is
+dead. We'l l investigate each case.
+Solution 1. The  2-1 poi nt
+Black 1 is one of the vital points  for Black  to
+live. If White play s 2, Black 3. Whe n Whit e ex-
+tends  to 4, widen ing his base at Black  5 is good;
+in response  to White 6, Black 7 keeps  this from
+becom ing the five-spac e big  eye.
+If Black 5 is play ed at 7, Black is also alive,
+but with less territory  and less endgame poten-
+tial.
+Solution 2. The  2-2 poi nt
+Turni ng at Black 1 also lets Black  live.  After
+Whit e 2 and Black 3, White  4 is the vital point,
+but Black can bloc k at 5.
+Addit ionally instead  of turning at 1, Black
+can live by playing the diagonal  play of 4; how-
+ever,  in response  to White 'a', he will have to
+give  way  with Black 1, so this is somethin g of a
+territoria l loss.
+Failure 1. Ko
+Black's descent  at 1 is a move which has bad
+aji. Whit e's attachment at 2 becomes  the vital
+point,  and after Black 3 and 5, he can't do any-
+thing but make a ko .
+If Black  plays 3 at 5, White answers  at 3; like-
+wise,  if Black  tries  3 at 'a', White plays  at 4. Ei-
+ther way,  Black is dead.
+46{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~]{{{{~{~```]{{{{{~``{{]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~]{{{{~{~```3{{{{{~``7$@======5=^1\
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~]{{{{~{~```@{{{{{~``{13======ê=$5\
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{~]{{{{{{{{{{]{}{{{{~~~~]{{{{~{~```1{{{{{~``{@5======ê=$3^
+Failure 1

@@ -1,0 +1,27 @@
+Reference 2. Ko is correct
+Whit e 1 here  is now the correct  solution.
+Black 2 to White 5 produce  a one-step ko for
+Whit e. In this shape,  simply  make  note  of the
+fact that Black has exactly one liberty on the
+outsi de, then compare  it to th e next diagram .
+Reference 3. Two liberties
+Now there are two liberties on the outside.
+Whit e tries playi ng at 1, but, after  White 5,
+it's possible to crush  at Black 6.
+This shows  that when  Black  has two or
+more liberti es on the outs ide, he is uncondi-
+tionall y alive.
+One-Step Ko
+Diagram 1 is a repeat of Reference 2. Afte r
+White takes the ko at 1, he has to add one
+more  stone at 'a' before it becomes a real ko.
+At the point  when Whit e takes at 1, this is
+called an appr oach-move  ko. The nature  of
+such a ko is such that,  in compariso n to a
+real ko, the  burden on Blac k is ligh ter
+In Diagram 2, White begi ns a ko fight with
+1, but after  this White must still fill in Black-
+'s liberties at both 'a' and 'b' to make this a
+real ko. This is a two- step approach move
+ko, which has almost  no effect on Black.
+35

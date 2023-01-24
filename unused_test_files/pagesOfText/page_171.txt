@@ -1,0 +1,35 @@
+Pattern 23
+White to p lay and make a ko
+This is similar to the previous  pattern, but
+to see what  is differe nt, you should  turn  the
+page back and  compa re them.
+There is no way to kill this shape uncon-
+ditionally, so m aking  a ko will be a success.
+Solution 1. Throw  in
+This  time,  as you might  expect,  the throw-in
+at White 1 is the correct move.  Black  is forced  to
+capture  at 2 and  White then  blocks with 3.
+After this, what type  of ko it becomes
+depends  on how Black defends,  so let's take a
+look  at some of  the variations.
+Solution 2. Two- step ko
+After the last diagra m, the open conn ection
+at 1 is Black's  best move.  White captures  at 2
+and starts a ko fight, but even  if he wins this ko,
+Whit e cannot  end the ko fight After Whit e 'a',
+he still needs to captur e at 'b'. In other words,
+it's a two- step k o.
+Variation 1. Tight connection
+If Black connects tight ly at 1, natural ly White
+makes  the place ment at 2 After Black 3, White
+captures  at 4 and  makes ko.
+This  is a direct ko, so making  the two-step ko
+as in the prev ious diagram  is more  favorable
+for Black
+156{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~]{{{{~{{``~`{{~{~``{{`]==========\
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~#{{{{~{{``~`{{~{~``{{`!==========2
+Solution 1
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~~{{{{~{{``~`{{~{~``{ì`@========1ê`
+Solution 2
+{}{{{{{}{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{{{{{{{{{{]{}{{{{~~~~~{{{{~{{``~`{{~{~``{1`$=======@3=`
+Variation 1

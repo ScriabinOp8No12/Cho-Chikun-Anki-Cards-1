@@ -1,0 +1,27 @@
+In the diagrams labeled 'Variation' the side with gote (last move)  has
+made a mistake.
+Diag rams which contain supplemental  informatio n are labeled 'Ref-
+erence'.
+When a pattern  is label ed 'Black  is dead'  it means that Black  cann ot
+live even if he play s first. When  it says 'Black  is alive ' it means that
+White cannot kill Black even  if White makes the first  move.  
+In those  cases where it is stated  that 'Black is alive' or 'Blac k is dead'
+the associated  diagrams are all labeled  'Variation'. 
+The numbers  underneath  the diagrams in the Index  show  the page
+numbe r where  that prob lem may be foun d. 
+Where common Japanese  terms  are used, the first such  usag e is fol-
+lowed by a short definition. 
+Glossary
+aji - pote ntial (options, possib ilities)
+atari - the threat  to captur e a stone  or a group  of stones  on the next
+move .
+gote - a move  not requ iring an answer,  losing the initiative. Com pare
+sente.
+hane - a diag onal move  played  from  a friendly stone  in contact with
+an enemy  stone.
+miai - points  of exchange; inter changeable points. 
+nakade - a big eye.
+sente - a move  that must  be answered of an unaccepta ble loss will be
+suffered. Compare  gote.
+tesuji - a skilfu l tacti cal move.
+15
