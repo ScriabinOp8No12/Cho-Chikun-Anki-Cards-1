@@ -1,16 +1,18 @@
-This project takes a specific Cho Chikun PDF and converts it into an Anki deck using Computer Vision to detect keywords.
+Please download the "Cho Chikun Anki Deck.apkg" file if you want to use the Anki deck!
+
+Everything below explains how I converted the specific PDF into an anki deck.
 
 The images2ankiFinal.py, questionsFinal.py and solutionsFinal.py modules save the outputs in the output_Folders folder.
 Please make sure your file paths in the above modules are correct to avoid any bugs.
 
 The outputs are saved into the anki_output_FINAL, questions_images_FINAL, and solutions_images_FINAL folders respectively. 
 
-All you have to do is open (by double-clicking) the output_test_FINAL.apkg and Anki will open the deck.  
-
+All you have to do is open (by double-clicking) the "Cho Chikun Anki Deck.apkg" file and Anki will open the deck.  
 
 Method:
 
 1. For each image, look for the word "Pattern" at the top of the page to determine if there's a question on that page.
+   I used pytesseract as my OCR (Optical Character Recognition) to detect the words. 
    If the word "Pattern" is at the top, then it must have a question right below it.
 
 2. Within these images, look for the word "Solution" or "Variation" at a specific y-location (it always appears between 250 - 350)

@@ -28,7 +28,7 @@ my_deck = genanki.Deck(
     230498230,
     'Eric Cho Chikun PDF1')  # this is the name of the deck that you see on Anki
 
-path_to_questions = os.listdir(r"C:\Users\nharw\Desktop\PDF2Anki Project\question_images_FINAL")
+path_to_questions = os.listdir(r"C:\Users\nharw\PycharmProjects\PDF2Anki\output_Folders\question_images_FINAL")
 
 my_package = genanki.Package(my_deck)
 my_package.media_files = []
